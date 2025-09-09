@@ -1,7 +1,8 @@
 title: OS2Kitos vejledninger
 description: Dette er en side til OS2Kitos vejledninger
 theme: just-the-docs
-
+logo: "/assets/site/OS2kitos_logo.png"
+favicon_ico: "/assets/site/favicon.ico"
 url: https://just-the-docs.github.io
 
 aux_links:
