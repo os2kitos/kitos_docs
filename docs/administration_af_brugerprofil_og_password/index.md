@@ -1,5 +1,5 @@
 ---
-title: Roller og rettigheder
+title: Administration af brugerprofil og password
 nav_order: 3
 ---
 
