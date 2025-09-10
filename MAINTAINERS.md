@@ -7,7 +7,7 @@ This document provides information about the maintainers of the project, their r
 | Name            | GitHub Username      | Role/Responsibilities                   | Contact Method          |
 |-----------------|----------------------|-----------------------------------------|-------------------------|
 | [Mikael Olsen]  | [@miphilin](https://github.com/username1) | [Produc Owner]                  | [miol@balk.dk]     |
-| [Mette Rasmussen]  | [@username2](https://github.com/username2) | [Quality assurance]                  | [mer2@balkd.dk]     |
+| [Mette Rasmussen]  | [@Mettebalk](https://github.com/username2) | [Quality assurance]                  | [mer2@balkd.dk]     |
 | [Maintainer 3]  | [@username3](https://github.com/username3) | [Role/Responsibility]                  | [email@example.com]     |
 
 ## Emeritus Maintainers
