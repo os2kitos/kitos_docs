@@ -4,6 +4,7 @@ nav_order: 1
 parent: Roller og rettigheder
 ---
 
+
 # Roller og rettigheder i OS2KITOS  
 **Dato:** 09.07.24  
 **Kontakt:** OS2KITOS Sekretariatet – [info@kitos.dk](mailto:info@kitos.dk)  
@@ -20,6 +21,8 @@ parent: Roller og rettigheder
 - Kiggeadgang ændres, hvis:
   1. Brugeren tildeles en **Administratorrolle**.
   2. Brugeren tildeles en **Forretningsrolle med SKRIV funktion**.
+
+<!-- BILLEDE HER: Illustration af brugerrettigheder -->
 
 > Brugeren får først adgang til Kitos, når en advis sendes fra den person, der har oprettet brugeren.  
 > I kommuner med SSO, kan brugeren logge direkte ind og få kiggeadgang.
@@ -43,6 +46,8 @@ Administratorroller giver **SKRIV adgang** til overordnede moduler:
 - Systemer
 - Kontrakter
 - Databehandling
+
+<!-- BILLEDE HER: Oversigt over administratorroller -->
 
 #### Roller:
 
@@ -80,6 +85,8 @@ Roller med rettigheder på **specifikke objekter**:
 - Kontrakter
 - Databehandlingsaftaler
 
+<!-- BILLEDE HER: Eksempel på forretningsroller i systemmodulet -->
+
 #### Funktion:
 
 - **SKRIV rolle** giver adgang til at redigere det specifikke objekt.
@@ -115,5 +122,7 @@ Eksempler på systemroller:
 - Kan oprette nye roller, systemer, organisationer og leverandører.
 - Kan konfigurere globale beskrivelser og udfaldsrum.
 - Kan oprette brugere med API-adgang.
+
+<!-- BILLEDE HER: Global administrator funktioner -->
 
 > Kun Global administrator kan tildele rollen til andre brugere.
