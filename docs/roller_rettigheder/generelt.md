@@ -70,13 +70,10 @@ Administratorroller giver **SKRIV adgang** til overordnede moduler:
   - SKRIV adgang til kontrakt- og databehandlingsmodulet.
   - Kan redigere/slette data og tilføje relevante roller.
 
- 
-<img width="1697" height="385" alt="Roller_rettigheder - 1" src="https://github.com/user-attachments/assets/23412b45-b373-4f8b-bd27-5fb464e99015" />
-
-
-
 > Administratorroller tildeles via:  
 > **Organisation → Brugere → Redigér**
+ 
+<img width="1697" height="385" alt="Roller_rettigheder - 1" src="https://github.com/user-attachments/assets/23412b45-b373-4f8b-bd27-5fb464e99015" />
 
 ---
 
@@ -87,8 +84,6 @@ Roller med rettigheder på **specifikke objekter**:
 - IT-systemer
 - Kontrakter
 - Databehandlingsaftaler
-
-<!-- BILLEDE HER: Eksempel på forretningsroller i systemmodulet -->
 
 #### Funktion:
 
