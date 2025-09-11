@@ -22,7 +22,6 @@ parent: Roller og rettigheder
   1. Brugeren tildeles en **Administratorrolle**.
   2. Brugeren tildeles en **Forretningsrolle med SKRIV funktion**.
 
-<!-- BILLEDE HER: Illustration af brugerrettigheder -->
 
 > Brugeren får først adgang til Kitos, når en advis sendes fra den person, der har oprettet brugeren.  
 > I kommuner med SSO, kan brugeren logge direkte ind og få kiggeadgang.
@@ -47,7 +46,6 @@ Administratorroller giver **SKRIV adgang** til overordnede moduler:
 - Kontrakter
 - Databehandling
 
-<!-- BILLEDE HER: Oversigt over administratorroller -->
 
 #### Roller:
 
@@ -71,6 +69,11 @@ Administratorroller giver **SKRIV adgang** til overordnede moduler:
 - **Kontraktadministrator (inkl. databehandling)**
   - SKRIV adgang til kontrakt- og databehandlingsmodulet.
   - Kan redigere/slette data og tilføje relevante roller.
+
+ 
+!Alt-tekst
+
+
 
 > Administratorroller tildeles via:  
 > **Organisation → Brugere → Redigér**
