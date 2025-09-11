@@ -71,7 +71,6 @@ Administratorroller giver **SKRIV adgang** til overordnede moduler:
   - Kan redigere/slette data og tilføje relevante roller.
 
  
-!Alt-tekst
 <img width="1697" height="385" alt="Roller_rettigheder - 1" src="https://github.com/user-attachments/assets/23412b45-b373-4f8b-bd27-5fb464e99015" />
 
 
