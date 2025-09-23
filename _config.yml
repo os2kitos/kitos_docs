@@ -9,6 +9,7 @@ url: https://just-the-docs.github.io
 aux_links:
   OS2Kitos på OS2.eu: https://os2.eu/os2kitos
   Os2Kitos på Github: https://github.com/os2kitos
+  Kitos API Swagger: https://kitos.dk/swagger/ui/index
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
