@@ -1,6 +1,6 @@
 ---
 title: Kitos Api vejledning
-nav_order: 3
+nav_order: 1
 parent: Kitos Api
 ---
 
