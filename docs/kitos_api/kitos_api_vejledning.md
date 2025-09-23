@@ -6,4 +6,4 @@ parent: Kitos Api
 
 Her kan du se en vejledning til Kitos API.
 
-Kitos Swagger kan tilgås her: <a href="https://kitos.dk/swagger/ui/index" target="_blank">Linktekst</a>  
+Kitos Swagger kan tilgås her: <a href="https://kitos.dk/swagger/ui/index" target="_blank">Kitos API Swagger dokumentation</a>  
