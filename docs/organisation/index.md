@@ -1,5 +1,5 @@
 ---
-title: organisation
+title: Organisation
 nav_order: 5
 ---
 
