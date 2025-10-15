@@ -124,8 +124,8 @@ blevet slettet:
 
 # Overføre en brugers roller inden sletning
 
-Ønsker du at overføre en brugers roller til en anden, inden du sletter brugeren, kan du øverst vælge
-hvem rollerne skal overføres til, herefter markere de ønskede roller og klikke på "Tildel valgte
+Ønsker du at overføre en brugers roller til en anden, inden du sletter brugeren, skal du klikke på "overfør roller" - Se det forrige skærmbillede som popper op når du trykker "slet" ved en bruger.
+Her kan du øverst vælge hvem rollerne skal overføres til, herefter markere de ønskede roller og klikke på "Tildel valgte
 roller".
 
 <img width="2554" height="1151" alt="overfør roller 1" src="https://github.com/user-attachments/assets/e725fb64-9683-443e-b851-0563f780a018" />
