@@ -55,7 +55,7 @@ Kitos Lokal admin skal derfor selv oprette brugeren og dette gøres som beskreve
 bruger - uden brug af SSO". Alternativt kan Kitos Lokal admin bede brugeren om at logge på
 Kitos, så oplysningerne automatisk bliver registreret.
 
-### (2) Opret ny bruger og tildel brugernavn og password
+# (2) Opret ny bruger og tildel brugernavn og password
 
 · Klik på modulet Organisation  
 · Klik på underpunktet Brugere  
