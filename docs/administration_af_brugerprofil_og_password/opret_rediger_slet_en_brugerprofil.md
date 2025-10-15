@@ -107,6 +107,7 @@ bruger. Så kan du på et senere tidspunkt sende en advis med logon-oplysninger 
 
 
 Ønsker du at slette brugerens profil fra Kitos, skal du klikke på "Slet bruger".
+Ønsker du først at overføre brugernes rolle registreringer til en anden bruger, skal du trykke på "overfør roller".
 
 Når du har slettet en bruger fra Kitos, vil de registreringer, som brugeren har lavet, fremstå med
 information om, at brugeren er slettet, og det er ikke muligt at finde information om den slettede
@@ -118,7 +119,8 @@ Kontraktforside i Kontraktmodulet) - da vil man fortsat kunne se brugerens navn.
 Se dette eksempel hvor den bruger, der i sin tid har taget disse 2 systemer i anvendelse, siden hen er
 blevet slettet:
 
-**[INDSÆT TABEL HER: Eksempel på slettet bruger i systemoversigt]**
+<img width="1713" height="242" alt="slettet bruger " src="https://github.com/user-attachments/assets/1df043a3-fada-4638-aa29-74e5718a0e90" />
+
 
 # Overføre en brugers roller inden sletning
 
@@ -126,7 +128,8 @@ blevet slettet:
 hvem rollerne skal overføres til, herefter markere de ønskede roller og klikke på "Tildel valgte
 roller".
 
-**[INDSÆT BILLEDE HER: Skærmbillede af overfør roller-popup]**
+<img width="2554" height="1151" alt="overfør roller 1" src="https://github.com/user-attachments/assets/e725fb64-9683-443e-b851-0563f780a018" />
+
 
 # Rediger en bruger
 
@@ -136,24 +139,24 @@ registreringer i Kitos.
 Herfra har du muligheder for at redigere en bruger, slette en bruger eller kopiere en brugers roller til
 en anden.
 
-**[INDSÆT BILLEDE HER: Skærmbillede af brugerens roller og rettigheder]**
+<img width="2529" height="1154" alt="rediger bruger" src="https://github.com/user-attachments/assets/fbc5e50a-0641-4898-82f4-41ba4d1cea10" />
 
 Hvis man klikker på "rediger" får du mulighed for at ændre i en brugers stamoplysninger, roller og
 rettigheder.
 
-**[INDSÆT BILLEDE HER: Skærmbillede af rediger stamoplysninger]**
+<img width="2543" height="1179" alt="rediger bruger 2" src="https://github.com/user-attachments/assets/58f1c609-7e1d-47c1-b3ac-04f5d74be25b" />
 
 Hvis man klikker på "kopier roller" får du mulighed for at kopiere en brugers roller
 til en anden bruger, uden at slette eksisterende brugere.
 
-**[INDSÆT BILLEDE HER: Skærmbillede af kopier roller-popup]**
+<img width="2553" height="1192" alt="kopier roller" src="https://github.com/user-attachments/assets/49c90186-681d-43d7-92c9-727cde2ae9dd" />
 
 # Slet udvalgte roller
 
 Hvis brugeren har roller tilknyttet, kan du slette udvalgte roller ved at markere dem og klikke på
 Slet valgte roller.
 
-**[INDSÆT BILLEDE HER: Skærmbillede af slet roller-popup]**
+<img width="2541" height="1172" alt="slet udvalgte roller" src="https://github.com/user-attachments/assets/be7fe963-b2bc-4c96-a59a-011546b9bbcc" />
 
 Hvis en bruger har roller i Kitos, kan du før du sletter, overdrage dem til en eller flere andre
 personer i organisationen - se vejledningen Masseadministration af en brugers roller.
