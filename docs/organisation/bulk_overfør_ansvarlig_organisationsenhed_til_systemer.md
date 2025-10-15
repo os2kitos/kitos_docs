@@ -1,6 +1,6 @@
 ---
 title: Bulk overfør ansvarlig organisationsenhed til systemer
-nav_order: 6
+nav_order: 5
 parent: Organisation
 ---
 
