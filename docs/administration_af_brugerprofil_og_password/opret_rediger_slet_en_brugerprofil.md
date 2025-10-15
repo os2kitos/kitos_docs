@@ -85,7 +85,7 @@ bruger. Så kan du på et senere tidspunkt sende en advis med logon-oplysninger 
 
 · Klik på modulet Organisation  
 · Klik på underpunktet Brugere  
-· Klik på Rediger yderst til højre for brugerens navn  
+· Klik på "rediger" ikon yderst til højre for brugerens navn  
 
 ## Du får nu en pop-up med brugerens oplysninger, som du kan redigere i.
 
@@ -99,11 +99,11 @@ bruger. Så kan du på et senere tidspunkt sende en advis med logon-oplysninger 
 
 · Klik på modulet Organisation  
 · Klik på underpunktet Brugere  
-· Klik på Slet yderst til højre for brugerens navn  
+· Klik på "slet" ikon yderst til højre for brugerens navn  
 
 ## Du får nu en pop-up med brugerens oplysninger.
 
-<img width="2551" height="906" alt="slet bruger 1" src="https://github.com/user-attachments/assets/15817c73-111d-464b-a3c7-5885b84b60cb" />
+<img width="2557" height="889" alt="slet bruger 0" src="https://github.com/user-attachments/assets/da36ea09-4eba-4167-8be4-90fb33df888f" />
 
 
 Ønsker du at slette brugerens profil fra Kitos, skal du klikke på "Slet bruger".
