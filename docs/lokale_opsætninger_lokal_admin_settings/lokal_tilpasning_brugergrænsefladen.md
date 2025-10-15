@@ -7,7 +7,7 @@ parent: Lokale opsætninger og lokal admin settings
 Her kan du se en video vejledning til hvordan du laver lokale tilpasninger af brugergrænsefladen-
 
 Som link
-[Se webinar-videoen](https://info.kitos.dk/s/tb4MmtNr8EdcRwB)
+[Se webinar-videoen i en ekstern afspiller](https://info.kitos.dk/s/tb4MmtNr8EdcRwB)
 
 <video controls width="640">
   <source src="https://info.kitos.dk/s/tb4MmtNr8EdcRwB/download/2024.11.15%20Webinar.%20FK%20Organisation%20til%20OS2%20Kitos.%20GMT20241115-070112_Recording_1920x1080.mp4" type="video/mp4">
