@@ -5,5 +5,5 @@ parent: Organisation
 ---
 Her kan du se et webinar som omhandler integrationen til FK Organisation, hvor der bliver vist hvordan man importere sin organisation til Kitos og evt. foretager efterfølgende ændringer/tilpasninger.
 
-<video width="320" height="240" controls><source src="video.mov" type="video/mp4"></https://info.kitos.dk/s/ycrsbMiNqHWeT9R>
+https://info.kitos.dk/s/ycrsbMiNqHWeT9R
 
