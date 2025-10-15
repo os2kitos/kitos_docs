@@ -1,3 +1,4 @@
+---
 title: Lokal opsætning af overblikket i databehandler modulet
 nav_order: 5
 parent: Lokale opsætninger og lokal admin settings
