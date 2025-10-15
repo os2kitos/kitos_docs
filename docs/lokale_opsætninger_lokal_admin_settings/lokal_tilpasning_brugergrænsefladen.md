@@ -9,10 +9,7 @@ Her kan du se en video vejledning til hvordan du laver lokale tilpasninger af br
 Som link
 [Se webinar-videoen](https://info.kitos.dk/s/tb4MmtNr8EdcRwB)
 
-Som embeeded HTML
-
 <video controls width="640">
-  <source src="https://info.kitos.dk/s/tb4MmtNr8EdcRwB" type="video/mp4">
-  Din browser understøtter ikke video-tagget.
+  <source src="https://info.kitos.dk/s/tb4MmtNr8EdcRwB/download/2024.11.15%20Webinar.%20FK%20Organisation%20til%20OS2%20Kitos.%20GMT20241115-070112_Recording_1920x1080.mp4" type="video/mp4">
+  Din browser kan ikke afspille denne video. Prøv en opdateret browser eller [download den her](https://info.kitos.dk/s/tb4MmtNr8EdcRwB).
 </video>
-<img width="643" height="198" alt="image" src="https://github.com/user-attachments/assets/bf3125c3-2136-4f19-a5bf-14d379f3adf0" />
