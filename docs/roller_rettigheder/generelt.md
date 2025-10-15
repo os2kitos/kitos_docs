@@ -52,23 +52,25 @@ Administratorroller giver **SKRIV adgang** til overordnede moduler:
 - **Lokal administrator**
   - Øverste rettighedsrolle for kommunen.
   - SKRIV adgang til alt i organisationen.
-  - Kan oprette/slette brugere og objekter.
+  - Kan oprette og slette brugere og objekter.
   - Kan redigere rettigheder og konfigurere systemopsætning.
   - Anbefaling: 1-3 lokale administratorer pr. kommune.
 
 - **Organisationsadministrator**
   - SKRIV adgang til organisationsmodulet.
   - Kan læse i andre moduler.
-  - Kan oprette brugere, tilknytte roller, redigere stamdata og kontaktinfo.
-  - Kun Lokal administrator kan slette brugere og organisationsenheder.
+  - Kan oprette brugere, redigere stamdata og kontaktinfo og tilknytte roller.
+  - OBS! Kun Lokal administrator kan slette brugere og organisationsenheder.
 
 - **Systemadministrator**
   - SKRIV adgang til systemmodulet.
-  - Kan redigere/slette data og tilføje systemroller.
+  - Kan redigere/slette data og tilføje systemroller - I system modulet.
+  - Kan læse i andre moduler
 
 - **Kontraktadministrator (inkl. databehandling)**
   - SKRIV adgang til kontrakt- og databehandlingsmodulet.
-  - Kan redigere/slette data og tilføje relevante roller.
+  - Kan redigere/slette data og tilføje relevante roller - I kontrakt og databehandling modulerne.
+  - Kan læse i andre moduler
 
 > Administratorroller tildeles via:  
 > **Organisation → Brugere → Redigér**
@@ -87,7 +89,7 @@ Roller med rettigheder på **specifikke objekter**:
 
 #### Funktion:
 
-- **SKRIV rolle** giver adgang til at redigere det specifikke objekt.
+- **SKRIV rolle** giver adgang til at redigere det specifikke objekt, altså system, kontrakt eller databehandling.
 - **LÆS rolle** ændrer ikke kiggeadgang.
 - Organisationens forretningsroller giver **ikke skriverettigheder**, medmindre brugeren har yderligere rettigheder.
 
@@ -98,7 +100,7 @@ Roller med rettigheder på **specifikke objekter**:
 - **Kontraktroller** – tildeles i kontraktmodulet  
 - **Databehandlingsroller** – tildeles i databehandlingsmodulet
 
-> Roller tildeles til medarbejdere, der har ansvar for det pågældende objekt.  
+> Roller tildeles til medarbejdere, der har ansvar for det pågældende objekt ( system/kontrakt/databehandling ).  
 > Skriveadgang gælder kun det objekt, rollen er tilknyttet.
 
 Eksempler på systemroller:
@@ -108,7 +110,7 @@ Eksempler på systemroller:
 - Superbruger  
 - Systemadministrator
 
-> Lokal administrator kan til- og fravælge forretningsroller i konfigurationsdelen.
+> Lokal administrator kan til- og fravælge forretningsroller i lokal admin menuen.
 
 ---
 
