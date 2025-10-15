@@ -127,7 +127,7 @@ blevet slettet:
 Ønsker du at overføre en brugers roller til en anden, inden du sletter brugeren, skal du klikke på "overfør roller" - Se det forrige skærmbillede som popper op når du trykker "slet" ved en bruger.
 Her kan du øverst vælge hvem rollerne skal overføres til, herefter markere de ønskede roller og klikke på "Tildel valgte roller". Brugeren som rollerne overføres fra, afgiver hermed de valgte rollere til den nye bruger.
 
-<img width="2554" height="1151" alt="overfør roller 1" src="https://github.com/user-attachments/assets/e725fb64-9683-443e-b851-0563f780a018" />
+<img width="2554" height="1151" alt="overfør roller 1" src="https://github.com/user-attachments/assets/1d4752f2-9ffa-4d3e-adc2-0b9255bea080" />
 
 
 # Rediger en bruger
@@ -161,7 +161,7 @@ personer i organisationen - se længere oppe i vejledningen eller vejledningen "
 
 # Lidt om Roller
 
-Alle brugere med en tilknyttet rolle som har SKRIV adgang, kan oprette indhold og redigere/slette
+Alle brugere med en tilknyttet forretningsrolle som har SKRIV adgang, kan oprette indhold og redigere/slette
 data under det system/kontrakt/databehandleraftale som rollen er tilknyttet til.
 
 Hvis brugeren skal kunne redigere alt data på tværs af et helt modul, f.eks på alle SYSTEMER, skal
@@ -169,5 +169,5 @@ du give brugeren administratorrettighed: System admin.
 
 **Roller og rettigheder:**
 
-- **API adgang**: Kun tildeles af sekretariatet  
-- **Rettighedshaver Adgang**: Kun tild
+- **API adgang**: Kan kun tildeles af OS2Kitos sekretariatet  
+- **Rettighedshaver Adgang**: Kan kun tildeles af OS2Kitos sekretariatet  
