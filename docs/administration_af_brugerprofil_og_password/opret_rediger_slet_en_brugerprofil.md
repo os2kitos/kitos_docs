@@ -61,11 +61,12 @@ Kitos, så oplysningerne automatisk bliver registreret.
 · Klik på underpunktet Brugere  
 · Klik på +Opret bruger øverst til højre  
 
-https://github.com/os2kitos/kitos_docs/blob/main/assets/opret%20bruger%201.png
+<img width="2562" height="468" alt="opret bruger 1" src="https://github.com/user-attachments/assets/13d5cad0-4160-4131-98d4-3b9198e0ca66" />
+
 
 # Du får nu en pop-up, hvor du kan indtaste oplysninger om brugeren:
 
-https://github.com/os2kitos/kitos_docs/blob/main/assets/opret%20bruger%202.png
+<img width="2516" height="1185" alt="opret bruger 2" src="https://github.com/user-attachments/assets/6a71c0c4-8e3d-4a35-aa2e-b063412fe922" />
 
 
 · Udfyld felterne: E-mail-adresse, Fornavn, Efternavn og Telefon  
@@ -90,7 +91,8 @@ bruger. Så kan du på et senere tidspunkt sende en advis med logon-oplysninger 
 
 · Foretag ændringer  
 · Klik på Gem ændringer  
-https://github.com/os2kitos/kitos_docs/blob/main/assets/opret%20bruger%203.png
+
+<img width="2537" height="1138" alt="opret bruger 3" src="https://github.com/user-attachments/assets/a9b172e2-ef9c-4b00-9ee2-d005cd90633b" />
 
 
 # Slet en brugers profil - uanset hvordan brugeren er oprettet
