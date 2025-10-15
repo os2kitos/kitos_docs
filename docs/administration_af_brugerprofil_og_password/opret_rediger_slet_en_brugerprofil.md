@@ -171,4 +171,6 @@ du give brugeren administratorrettighed: System admin.
 **Roller og rettigheder:**
 
 - **API adgang**: Kan kun tildeles af OS2Kitos sekretariatet  
-- **Rettighedshaver Adgang**: Kan kun tildeles af OS2Kitos sekretariatet  
+- **Rettighedshaver Adgang**: Kan kun tildeles af OS2Kitos sekretariatet
+
+Læs mere i vejledningerne under "Roller og rettigheder"
