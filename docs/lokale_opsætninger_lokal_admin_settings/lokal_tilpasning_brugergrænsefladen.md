@@ -6,7 +6,6 @@ parent: Lokale opsætninger og lokal admin settings
  
 Her kan du se en video vejledning til hvordan du laver lokale tilpasninger af brugergrænsefladen-
 
-Som link
 [Se webinar-videoen i en ekstern afspiller](https://info.kitos.dk/s/tb4MmtNr8EdcRwB)
 
 <video controls width="640">
