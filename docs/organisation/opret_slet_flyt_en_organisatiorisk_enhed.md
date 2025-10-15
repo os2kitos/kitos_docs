@@ -1,6 +1,6 @@
 ---
 title: Opret, slet eller flyt en organisatorisk enhed
-nav_order: 4
+nav_order: 6
 parent: Organisation
 ---
 
