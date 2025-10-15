@@ -9,6 +9,6 @@ Her kan du se et webinar som omhandler integrationen til FK Organisation, hvor d
 
 
 <video controls width="640">
-  <source src="https://info.kitos.dk/s/ycrsbMiNqHWeT9R" type="video/mp4">
+  <source src="https://info.kitos.dk/s/ycrsbMiNqHWeT9R/download/2024.08.16%20Webinar.%20FK%20Organisation%20til%20OS2%20Kitos.%20GMT20240816-070112_Recording_1920x1080.mp4" type="video/mp4">
   Din browser understøtter ikke video-tagget.
 </video>
