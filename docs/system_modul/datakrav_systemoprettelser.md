@@ -1,0 +1,7 @@
+---
+title: Datakrav til oprettelse af systemer i IT-systemkataloget
+nav_order: 6
+parent: system modulet
+---
+
+Vejlending til hvilke krav der er til stamdata på IT-systemer som skal oprettes i det fællesoffentlig OS2Kitos IT-systemkatalog.
