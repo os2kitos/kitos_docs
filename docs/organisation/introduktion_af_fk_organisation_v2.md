@@ -1,5 +1,5 @@
 ---
-title: introduktion af fk organisation
+title: Introduktion af FK Organisation
 nav_order: 1
 parent: Organisation
 ---
