@@ -61,13 +61,12 @@ Kitos, så oplysningerne automatisk bliver registreret.
 · Klik på underpunktet Brugere  
 · Klik på +Opret bruger øverst til højre  
 
-**[INDSÆT BILLEDE HER: Skærmbillede af brugeroversigt og opret-knap]**
-
-**[INDSÆT TABEL HER: Brugeroversigt med roller og rettigheder]**
+https://github.com/os2kitos/kitos_docs/blob/main/assets/opret%20bruger%201.png
 
 # Du får nu en pop-up, hvor du kan indtaste oplysninger om brugeren:
 
-**[INDSÆT TABEL HER: Felter i opret bruger-popup]**
+https://github.com/os2kitos/kitos_docs/blob/main/assets/opret%20bruger%202.png
+
 
 · Udfyld felterne: E-mail-adresse, Fornavn, Efternavn og Telefon  
 · Hvis brugeren skal tildeles administrator rettighed til et eller flere moduler skal du angive,
@@ -91,8 +90,8 @@ bruger. Så kan du på et senere tidspunkt sende en advis med logon-oplysninger 
 
 · Foretag ændringer  
 · Klik på Gem ændringer  
+https://github.com/os2kitos/kitos_docs/blob/main/assets/opret%20bruger%203.png
 
-**[INDSÆT BILLEDE HER: Skærmbillede af rediger bruger-popup]**
 
 # Slet en brugers profil - uanset hvordan brugeren er oprettet
 
@@ -102,7 +101,8 @@ bruger. Så kan du på et senere tidspunkt sende en advis med logon-oplysninger 
 
 ## Du får nu en pop-up med brugerens oplysninger.
 
-**[INDSÆT BILLEDE HER: Skærmbillede af slet bruger-popup]**
+<img width="2551" height="906" alt="slet bruger 1" src="https://github.com/user-attachments/assets/15817c73-111d-464b-a3c7-5885b84b60cb" />
+
 
 Ønsker du at slette brugerens profil fra Kitos, skal du klikke på "Slet bruger".
 
