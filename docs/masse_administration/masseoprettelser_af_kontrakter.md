@@ -1,5 +1,5 @@
 ---
-title: Masse oprettelser af kontrakter
+title: Masseoprettelser af kontrakter
 nav_order: 1
 parent: Masse administration / bulk oprettelser
 ---
