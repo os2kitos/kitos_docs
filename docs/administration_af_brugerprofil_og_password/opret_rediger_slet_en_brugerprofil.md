@@ -127,7 +127,7 @@ blevet slettet:
 Ønsker du at overføre en brugers roller til en anden, inden du sletter brugeren, skal du klikke på "overfør roller" - Se det forrige skærmbillede som popper op når du trykker "slet" ved en bruger.
 Her kan du øverst vælge hvem rollerne skal overføres til, herefter markere de ønskede roller og klikke på "Tildel valgte roller". Brugeren som rollerne overføres fra, afgiver hermed de valgte rollere til den nye bruger.
 
-<img width="2554" height="1151" alt="overfør roller 1" src="https://github.com/user-attachments/assets/1d4752f2-9ffa-4d3e-adc2-0b9255bea080" />
+<img width="2554" height="1151" alt="overfør roller 1" src="https://github.com/user-attachments/assets/f1ffa1df-c09c-4f02-879d-f6816db4d67a" />
 
 
 # Rediger en bruger
@@ -137,7 +137,8 @@ registreringer i Kitos.
 
 Herfra har du muligheder for at redigere en bruger, slette udvalgte roller, sende nyt password til  brugeren ved at trykke "Send advis", eller slette en bruger.
 
-<img width="2529" height="1154" alt="rediger bruger" src="https://github.com/user-attachments/assets/fbc5e50a-0641-4898-82f4-41ba4d1cea10" />
+<img width="2529" height="1154" alt="rediger bruger" src="https://github.com/user-attachments/assets/a31dbd94-cbd6-4f9e-ac2e-163feb05bb36" />
+
 
 Hvis man klikker på "rediger" får du mulighed for at ændre i en brugers stamoplysninger, roller og
 rettigheder, samt kopiere brugerens roller til en anden - Nyttigt ved vikar eller elever.
