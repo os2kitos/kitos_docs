@@ -100,7 +100,7 @@ Roller med rettigheder på **specifikke objekter**:
 - **Kontraktroller** – tildeles i kontraktmodulet  
 - **Databehandlingsroller** – tildeles i databehandlingsmodulet
 
-> Roller tildeles til medarbejdere, der har ansvar for det pågældende objekt ( system/kontrakt/databehandling ).  
+> Roller tildeles til medarbejdere, der har ansvar for det pågældende (objekt) system, kontrakt eller databehandling.  
 > Skriveadgang gælder kun det objekt, rollen er tilknyttet.
 
 Eksempler på systemroller:
