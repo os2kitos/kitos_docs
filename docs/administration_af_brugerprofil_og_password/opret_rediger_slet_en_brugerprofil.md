@@ -136,18 +136,17 @@ roller".
 Hvis man klikker på en bruger, åbner der sig en pop up med en oversigt over brugernes
 registreringer i Kitos.
 
-Herfra har du muligheder for at redigere en bruger, slette en bruger eller kopiere en brugers roller til
-en anden.
+Herfra har du muligheder for at redigere en bruger, slette udvalgte roller, sende nyt password til  brugeren ved at trykke "Send advis", eller slette en bruger.
 
 <img width="2529" height="1154" alt="rediger bruger" src="https://github.com/user-attachments/assets/fbc5e50a-0641-4898-82f4-41ba4d1cea10" />
 
 Hvis man klikker på "rediger" får du mulighed for at ændre i en brugers stamoplysninger, roller og
-rettigheder.
+rettigheder, samt kopiere brugerens roller til en anden - Nyttigt ved vikar eller elever.
 
 <img width="2543" height="1179" alt="rediger bruger 2" src="https://github.com/user-attachments/assets/58f1c609-7e1d-47c1-b3ac-04f5d74be25b" />
 
-Hvis man klikker på "kopier roller" får du mulighed for at kopiere en brugers roller
-til en anden bruger, uden at slette eksisterende brugere.
+Hvis man under "rediger" klikker på "kopier roller" får du mulighed for at kopiere en brugers roller
+til en anden bruger, uden at slette eksisterende brugere eller selv afgive rollerne.
 
 <img width="2553" height="1192" alt="kopier roller" src="https://github.com/user-attachments/assets/49c90186-681d-43d7-92c9-727cde2ae9dd" />
 
