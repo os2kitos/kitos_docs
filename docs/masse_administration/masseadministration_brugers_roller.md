@@ -1,5 +1,5 @@
 ---
-title: Masseadministration af en brugers roller
+title: Masse administration af en brugers roller
 nav_order: 1
 parent: Masse administration / bulk oprettelser
 ---
