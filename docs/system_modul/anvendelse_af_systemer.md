@@ -1,5 +1,5 @@
 ---
-title: Anvendelse af IT-systemer
+title: Anvendelse af IT systemer
 nav_order: 2
 parent: system modulet
 ---
