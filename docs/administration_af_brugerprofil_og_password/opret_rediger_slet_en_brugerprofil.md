@@ -19,7 +19,7 @@ Som kommune kan man vælge at oprette brugerprofiler på to forskellige måder:
 skal kun inddrages, hvis brugeren skal have tildelt flere rettigheder og dermed en rolle ekstra i
 Kitos.
 
-(2) Kitos Lokal admin kan oprette brugere direkte i Kitos, tildele dem den relevante rolle samt
+(2) Kitos Lokal admin kan manuelt oprette brugere direkte i Kitos, tildele dem den relevante rolle samt
 brugernavn og password, som anvendes ved log ind.
 
 Det er alene oprettelse af nye brugere, der er forskellig, - redigering og sletning af en brugerprofil
@@ -55,7 +55,7 @@ Kitos Lokal admin skal derfor selv oprette brugeren og dette gøres som beskreve
 bruger - uden brug af SSO". Alternativt kan Kitos Lokal admin bede brugeren om at logge på
 Kitos, så oplysningerne automatisk bliver registreret.
 
-# (2) Opret ny bruger og tildel brugernavn og password
+# (2) Opret ny bruger manuelt og tildel brugernavn og password
 
 · Klik på modulet Organisation  
 · Klik på underpunktet Brugere  
