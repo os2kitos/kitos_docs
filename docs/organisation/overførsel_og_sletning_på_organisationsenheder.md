@@ -1,6 +1,6 @@
 ---
 title: Overførsel og sletning af registreringer på organisationsenheder
-nav_order: 2
+nav_order: 7
 parent: Organisation
 ---
 
