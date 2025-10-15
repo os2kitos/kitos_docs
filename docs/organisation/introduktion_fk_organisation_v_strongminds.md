@@ -1,5 +1,5 @@
 ---
-title: introduktion af fk organisation v/ Strongminds
+title: Introduktion af FK Organisation v/ Strongminds
 nav_order: 3
 parent: Organisation
 ---
