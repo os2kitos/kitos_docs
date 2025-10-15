@@ -89,7 +89,7 @@ Roller med rettigheder på **specifikke objekter**:
 
 #### Funktion:
 
-- **SKRIV rolle** giver adgang til at redigere det specifikke objekt, altså system, kontrakt eller databehandling.
+- **SKRIV rolle** giver adgang til at redigere det specifikke system, kontrakt eller databehandling (objekt).
 - **LÆS rolle** ændrer ikke kiggeadgang.
 - Organisationens forretningsroller giver **ikke skriverettigheder**, medmindre brugeren har yderligere rettigheder.
 
@@ -100,7 +100,7 @@ Roller med rettigheder på **specifikke objekter**:
 - **Kontraktroller** – tildeles i kontraktmodulet  
 - **Databehandlingsroller** – tildeles i databehandlingsmodulet
 
-> Roller tildeles til medarbejdere, der har ansvar for det pågældende (objekt) system, kontrakt eller databehandling.  
+> Roller tildeles til medarbejdere, der har ansvar for det pågældende system, kontrakt eller databehandling (objekt).  
 > Skriveadgang gælder kun det objekt, rollen er tilknyttet.
 
 Eksempler på systemroller:
