@@ -4,7 +4,7 @@ nav_order: 1
 parent: Lokale opsætninger og lokal admin settings
 ---
  
-Her kan du se en video vejledning til hvordan du laver lokale tilpasninger af brugergrænsefladen-
+Her kan du se en video vejledning til hvordan du laver lokale tilpasninger af brugergrænsefladen.
 
 [Se webinar-videoen i en ekstern afspiller](https://info.kitos.dk/s/tb4MmtNr8EdcRwB)
 
