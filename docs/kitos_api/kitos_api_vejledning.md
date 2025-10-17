@@ -51,7 +51,7 @@ Hvis der er **hak** ud for brugeren i kolonnen **API bruger**, er der givet API-
 - API-brugere er en type bruger, der – som alle andre – **ikke har yderligere rettigheder**, medmindre de tildeles
 - Den basale rettighed tillader:
   - At trække et token for at tilgå API endpoints  
-  - At læse oplysninger i den pågældende organisation  
+  - At **læse** oplysninger i den pågældende organisation  
 - Den basale rettighed **giver ikke** beføjelser til at ændre/opdatere indstillinger for et specifikt IT-System
 
 > Har brugeren ikke fået tildelt en administrativ rolle eller en forretningsrolle (f.eks. systemrolle med skriveadgang), vil brugeren kun have **læseadgang** til organisationens data.
