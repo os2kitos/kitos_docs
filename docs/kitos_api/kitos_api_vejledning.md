@@ -32,7 +32,8 @@ Når en kommune vil anvende Kitos's API, skal I indledningsvis sende en mail til
 
 - API-brugeren må **ikke være en person**, men skal være en **funktionspostkasse** oprettet specielt til brug for API  
   - Eksempel: `kitos-api@ballerup.dk`  
-- Adgangen hænger dermed ikke på enkeltpersoner  
+- Adgangen hænger dermed ikke på enkeltpersoner
+- Adgangen har ikke adgang til kitos UI
 - Det er vigtigt, at der kan modtages mails på adressen, da dette benyttes til oprettelse/ændring af passwords for API-brugeren
 
 > På den baggrund opretter Sekretariatet API-adgangen.
