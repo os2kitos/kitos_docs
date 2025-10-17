@@ -1,7 +1,7 @@
 ---
 title: API typer
-nav_order: 3
-parent: Kitos api
+nav_order: 2
+parent: Kitos Api
 ---
 
 Der findes forskellige typer af API adgange i Kitos, herunder listes mulighederne op.
