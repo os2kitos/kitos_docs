@@ -25,6 +25,8 @@ Du har mulighed for at redigere:
 
 Du får nu en pop-up med din brugerprofil, som du kan redigere i.
 
+<img width="1894" height="394" alt="minprofil" src="https://github.com/user-attachments/assets/040c75a5-ff48-47b7-889b-828379817ac2" />
+
 Du kan blandt andet:
 
 - Angive din primære organisationsenhed  
