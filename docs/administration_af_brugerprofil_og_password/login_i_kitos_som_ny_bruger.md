@@ -10,7 +10,7 @@ Vejledning til hvordan du logger ind i Kitos som ny bruger
 ## Baggrund
 
 Du skal have rettigheder til Kitos for at kunne tilgå data i løsningen. Du får rettigheder ved at
-henvende dig til din Kitos Lokal admin. Du kan på listen over Kitos Lokal administratorer se, hvem
+henvende dig til din Kitos Lokal admin. Du kan på listen over Kitos Lokal administratorer i filarkivet se, hvem
 du skal kontakte i din kommune.
 
 Hvis din kommune har valgt at anvende SSO med Fælleskommunal adgangsstyring, kan det være at
