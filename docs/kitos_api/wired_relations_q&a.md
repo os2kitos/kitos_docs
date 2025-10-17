@@ -68,6 +68,9 @@ Når integrationen er opsat:
 - Tryk på knappen **"Import"** for at synkronisere indholdet
 
 > Synkroniseringen sker **ikke automatisk** – I kan køre den så ofte I ønsker.
+>
+> <img width="1761" height="655" alt="wired 1" src="https://github.com/user-attachments/assets/91af4ae2-90c3-496d-891b-d4073c8bff1a" />
+
 
 ### Forslag til tilbagevendende opgave
 
@@ -95,6 +98,9 @@ Det tager et par minutter. Marker opgaven som udført bagefter.
 - Systemer/leverandører med ældre datoer end sidste import er sandsynligvis slettet i Kitos
 
 > Overvej at oprette en tilbagevendende opgave for at håndtere slettede systemer.
+>
+> 
+<img width="1797" height="654" alt="wired 2" src="https://github.com/user-attachments/assets/d8786096-1cf4-4b07-a285-de86205a0699" />
 
 ---
 
@@ -103,14 +109,20 @@ Det tager et par minutter. Marker opgaven som udført bagefter.
 - En leverandør kobles til et system i Wired Relations, hvis de er forbundet via en kontrakt i Kitos
 - Ikke alle kommuner bruger kontrakt-funktionaliteten i Kitos
 
+- <img width="1782" height="818" alt="wired 3" src="https://github.com/user-attachments/assets/953e80f4-3779-47b4-8eb4-5918032195d0" />
+
 ### Valgmulighed
 
 - Vælg om forbindelsen skal styres via Kitos eller oprettes manuelt i Wired Relations
 - Under Kitos-integrationen (samme sted som "Importer") kan I vælge, hvor leverandør-feltet styres
 
 > Hvis I ønsker at skifte til manuel styring i Wired Relations, hjælper vi gerne med indstillingerne.
+>
+> 
+
 
 ---
+<img width="1835" height="686" alt="wired 4" src="https://github.com/user-attachments/assets/b57322cb-b6e1-45da-b17a-3173c373bf2b" />
 
 ## Opmærksomhedspunkt
 
