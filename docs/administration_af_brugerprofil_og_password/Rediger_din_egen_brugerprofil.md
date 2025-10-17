@@ -25,7 +25,8 @@ Du har mulighed for at redigere:
 
 Du får nu en pop-up med din brugerprofil, som du kan redigere i.
 
-<img width="1894" height="394" alt="minprofil" src="https://github.com/user-attachments/assets/040c75a5-ff48-47b7-889b-828379817ac2" />
+[Login ind i Kitos som ny bruger - 23.06.23.pdf - Nextcloud.pdf](https://github.com/user-attachments/files/22968327/Login.ind.i.Kitos.som.ny.bruger.-.23.06.23.pdf.-.Nextcloud.pdf)
+
 
 Du kan blandt andet:
 
