@@ -17,6 +17,7 @@ Dette er nu muligt med funktionen **"Kopier valgte"**.
 1. Gå til **Organisation**  
 2. Vælg **Brugere**  
 3. Klik på **rediger ikonet** ud for den relevante bruger
+4. Klik på **Kopier roller**
 
 <img width="1917" height="804" alt="kopier_roller" src="https://github.com/user-attachments/assets/e98607c9-ea4c-4263-8dbc-729ec595bbc1" />
 
