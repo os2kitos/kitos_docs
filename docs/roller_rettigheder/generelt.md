@@ -126,3 +126,19 @@ Eksempler på systemroller:
 <!-- BILLEDE HER: Global administrator funktioner -->
 
 > Kun Global administrator kan tildele rollen til andre brugere.
+> 
+## Systemroller der bruges af et eksternt system
+
+Man kan markere såfremt en systemrolle bruges/sendes til et eksternt system.
+
+Dette gøres ved at gå til LOKAL ADMIN menuen-->Vælg IT-system-->Gå til fanen "Lokal tilpasning af roller".
+
+Ved at klikke på rediger symbolet ”rettepinden” i højre side, kan man angive en markering ”Ekstern brug”.
+
+<img width="1888" height="833" alt="Roller-Ekstern brug" src="https://github.com/user-attachments/assets/aa81fa9f-cdb1-4b65-8fab-083cdb48d448" />
+
+
+Denne markering vises under IT-systemer og fanen systemroller - Herved visualiseres at denne systemrolle, bruges/sendes til et eksternt system, og derfor ikke kan slettes/ændres uden det har konsekvenser for sin dataudveksling med det eksterne system.
+ 
+<img width="1894" height="760" alt="Roller-Ekstern brug_2" src="https://github.com/user-attachments/assets/946677b1-8bce-4c70-8c0e-163e8ac3efde" />
+
