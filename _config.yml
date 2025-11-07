@@ -5,22 +5,13 @@ logo: "/assets/site/OS2kitos_logo.png"
 favicon_ico: "/assets/site/favicon.ico"
 url: https://just-the-docs.github.io
 
-# Aux links for the upper right navigation
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "11.9.0"
+
 aux_links:
-  OS2Kitos på OS2.eu: https://os2.eu/os2kitos
-  Os2Kitos på Github: https://github.com/os2kitos
-  Kitos API Swagger: https://kitos.dk/swagger/ui/index
-
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: true
-
-# Enable or disable the side/mobile menu globally
-# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
-nav_enabled: true
-
-defaults:
-  - scope:
-      path: "docs" # an empty string here means all files in the project
-      type: "pages"
-    values:
-      layout: "default"
+  Repository: https://github.com/zorp/os2-sekretariat-docs
+  Maintainers: ./MAINTAINERS
+  Contribute: ./CONTRIBUTING
+      
