@@ -11,6 +11,12 @@ mermaid:
 
 aux_links:
   Repository: https://github.com/os2kitos/kitos_docs
-#  Maintainers: ./MAINTAINERS
-#  Contribute: ./CONTRIBUTING
+  Maintainers: ./MAINTAINERS
+  Contribute: ./CONTRIBUTING
       
+defaults:
+  - scope:
+      path: ""         # alle filer i hele repoet
+      type: "pages"    # markdown-sider
+    values:
+      layout: "default"
