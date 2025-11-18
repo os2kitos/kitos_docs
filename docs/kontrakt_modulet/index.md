@@ -1,5 +1,6 @@
 ---
 title: Kontrakt modulet
+layout: default
 nav_order: 10
 ---
 

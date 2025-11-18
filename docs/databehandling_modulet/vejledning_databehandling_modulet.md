@@ -1,5 +1,6 @@
 ---
 title: Vejledning til databehandling modulet
+layout: default
 nav_order: 1
 parent: Databehandling modulet
 ---

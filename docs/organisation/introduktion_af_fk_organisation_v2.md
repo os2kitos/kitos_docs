@@ -1,5 +1,6 @@
 ---
 title: Introduktion af FK Organisation
+layout: default
 nav_order: 1
 parent: Organisation
 ---

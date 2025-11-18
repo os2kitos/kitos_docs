@@ -1,5 +1,6 @@
 ---
 title: Lokale opsætninger og lokal admin settings
+layout: default
 nav_order: 8
 ---
 

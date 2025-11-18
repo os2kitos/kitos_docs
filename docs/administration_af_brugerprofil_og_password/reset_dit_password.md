@@ -1,5 +1,6 @@
 ---
 title: Reset din password
+layout: default
 nav_order: 5
 parent: Administration af brugerprofil og password
 ---

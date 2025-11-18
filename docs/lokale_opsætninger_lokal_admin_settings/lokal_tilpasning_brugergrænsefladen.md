@@ -1,5 +1,6 @@
 ---
 title: Lokal tilpasning af brugergrænsefladen
+layout: default
 nav_order: 1
 parent: Lokale opsætninger og lokal admin settings
 ---

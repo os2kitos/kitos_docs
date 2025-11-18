@@ -1,5 +1,6 @@
 ---
 title: Udtræk af data til Excel
+layout: default
 nav_order: 1
 parent: Excel udtræk
 ---

@@ -1,5 +1,6 @@
 ---
 title: Konvertering af CSV-fil til Excel
+layout: default
 nav_order: 2
 parent: Excel udtræk
 ---

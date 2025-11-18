@@ -1,5 +1,6 @@
 ---
 title: Vejledning til arkivering
+layout: default
 nav_order: 1
 parent: Arkivering
 ---

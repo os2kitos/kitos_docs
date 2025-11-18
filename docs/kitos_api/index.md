@@ -1,5 +1,6 @@
 ---
 title: Kitos Api
+layout: default
 nav_order: 3
 ---
 

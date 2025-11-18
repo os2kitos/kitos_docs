@@ -1,5 +1,6 @@
 ---
 title: Log in i Kitos som ny bruger
+layout: default
 nav_order: 2
 parent: Administration af brugerprofil og password
 ---

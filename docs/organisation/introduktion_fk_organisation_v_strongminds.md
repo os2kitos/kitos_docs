@@ -1,5 +1,6 @@
 ---
 title: Introduktion af FK Organisation v/ Strongminds
+layout: default
 nav_order: 2
 parent: Organisation
 ---

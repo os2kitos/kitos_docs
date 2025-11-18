@@ -1,5 +1,6 @@
 ---
 title: Roller og rettigheder
+layout: default
 nav_order: 2
 ---
 

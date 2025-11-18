@@ -1,5 +1,6 @@
 ---
 title: Massseoprettelse af organisatoriske enheder
+layout: default
 nav_order: 4
 parent: Organisation
 ---

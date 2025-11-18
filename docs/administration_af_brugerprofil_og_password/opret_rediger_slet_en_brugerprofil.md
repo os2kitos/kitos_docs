@@ -1,5 +1,6 @@
 ---
 title: Opret, rediger, slet en brugerprofil
+layout: default
 nav_order: 1
 parent: Administration af brugerprofil og password
 ---

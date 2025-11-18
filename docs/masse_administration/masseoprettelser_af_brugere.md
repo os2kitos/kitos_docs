@@ -1,5 +1,6 @@
 ---
 title: Masseoprettelser af brugere
+layout: default
 nav_order: 2
 parent: Masse administration / bulk oprettelser
 ---

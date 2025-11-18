@@ -1,5 +1,6 @@
 ---
 title: Generelt
+layout: default
 nav_order: 1
 parent: Roller og rettigheder
 ---

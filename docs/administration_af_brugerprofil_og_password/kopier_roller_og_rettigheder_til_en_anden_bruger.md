@@ -1,5 +1,6 @@
 ---
 title: Kopier roller og rettigheder til en anden bruger
+layout: default
 nav_order: 4
 parent: Administration af brugerprofil og password
 ---

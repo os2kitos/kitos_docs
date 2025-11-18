@@ -1,5 +1,6 @@
 ---
 title: Opret, slet eller flyt en organisatorisk enhed
+layout: default
 nav_order: 6
 parent: Organisation
 ---

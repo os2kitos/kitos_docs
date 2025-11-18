@@ -1,5 +1,6 @@
 ---
 title: Wired Relations Q&A
+layout: default
 nav_order: 3
 parent: Kitos Api
 ---

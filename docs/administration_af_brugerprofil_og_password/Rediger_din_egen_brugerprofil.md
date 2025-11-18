@@ -1,5 +1,6 @@
 ---
 title: Rediger din egen brugerprofil
+layout: default
 nav_order: 3
 parent: Administration af brugerprofil og password
 ---

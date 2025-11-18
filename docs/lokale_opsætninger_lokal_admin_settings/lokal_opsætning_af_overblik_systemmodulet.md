@@ -1,5 +1,6 @@
 ---
 title: Lokal opsætning af overblikket i system modulet
+layout: default
 nav_order: 4
 parent: Lokale opsætninger og lokal admin settings
 ---

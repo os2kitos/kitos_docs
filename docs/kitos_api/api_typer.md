@@ -1,5 +1,6 @@
 ---
 title: API typer
+layout: default
 nav_order: 2
 parent: Kitos Api
 ---

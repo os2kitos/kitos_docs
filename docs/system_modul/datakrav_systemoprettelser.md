@@ -1,5 +1,6 @@
 ---
 title: Datakrav til oprettelse af systemer i IT-systemkataloget
+layout: default
 nav_order: 6
 parent: System modulet
 ---

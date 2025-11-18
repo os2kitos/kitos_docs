@@ -1,5 +1,6 @@
 ---
 title: Organisation
+layout: default
 nav_order: 5
 ---
 

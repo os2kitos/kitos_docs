@@ -1,5 +1,6 @@
 ---
 title: Tilpasning af udfaldsrum og lokale beskrivelser
+layout: default
 nav_order: 2
 parent: Lokale opsætninger og lokal admin settings
 ---

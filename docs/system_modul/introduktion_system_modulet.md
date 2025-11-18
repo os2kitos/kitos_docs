@@ -1,5 +1,6 @@
 ---
 title: Introduktion til IT-system modulet
+layout: default
 nav_order: 1
 parent: System modulet
 ---

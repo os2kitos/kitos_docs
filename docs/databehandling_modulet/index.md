@@ -1,5 +1,6 @@
 ---
 title: Databehandling modulet
+layout: default
 nav_order: 11
 ---
 

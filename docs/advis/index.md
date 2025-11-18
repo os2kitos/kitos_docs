@@ -1,5 +1,6 @@
 ---
 title: Advis
+layout: default
 nav_order: 13
 ---
 

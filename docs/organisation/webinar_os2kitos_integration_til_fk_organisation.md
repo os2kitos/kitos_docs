@@ -1,5 +1,6 @@
 ---
 title: Webinar om OS2kitos integration til FK Organisation
+layout: default
 nav_order: 3
 parent: Organisation
 ---

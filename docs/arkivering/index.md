@@ -1,5 +1,6 @@
 ---
 title: Arkivering
+layout: default
 nav_order: 12
 ---
 

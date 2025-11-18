@@ -1,5 +1,6 @@
 ---
 title: Administrer moduler, faner og felter
+layout: default
 nav_order: 3
 parent: Lokale opsætninger og lokal admin settings
 ---

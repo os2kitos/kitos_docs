@@ -1,5 +1,6 @@
 ---
 title: Masse administration / bulk oprettelser
+layout: default
 nav_order: 6
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Vejledning til advis funktion
+layout: default
 nav_order: 1
 parent: Advis
 ---
