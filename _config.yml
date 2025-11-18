@@ -3,7 +3,6 @@ description: Dette er en side til OS2Kitos vejledninger
 theme: just-the-docs
 logo: "/assets/site/OS2kitos_logo.png"
 favicon_ico: "/assets/site/favicon.ico"
-url: https://just-the-docs.github.io
 
 mermaid:
   # Version of mermaid library
@@ -11,7 +10,7 @@ mermaid:
   version: "11.9.0"
 
 aux_links:
-  Repository: https://github.com/zorp/os2-sekretariat-docs
-  Maintainers: ./MAINTAINERS
-  Contribute: ./CONTRIBUTING
+  Repository: https://github.com/os2kitos/kitos_docs
+#  Maintainers: ./MAINTAINERS
+#  Contribute: ./CONTRIBUTING
       
