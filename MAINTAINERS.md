@@ -1,3 +1,10 @@
+---
+title: Vedligehold og ejerskab
+layout: default
+nav_exclude: true
+nav_order: 100
+---
+
 # Maintainers
 
 This document provides information about the maintainers of the project, their roles, and how to engage with them.
