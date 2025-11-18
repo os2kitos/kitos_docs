@@ -1,5 +1,6 @@
 ---
 title: Administration af brugerprofil og password
+layout: default
 nav_order: 3
 ---
 
