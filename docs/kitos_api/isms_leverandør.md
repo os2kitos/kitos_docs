@@ -64,7 +64,7 @@ Som **Kitos Lokal admin** skal du:
 
 Når I vælger en leverandør, vises et overblik over hvilke felter der gøres inaktive i Kitos og dermed styres af den valgte leverandør.  
 
-Når leverandøren er tilføjet, vises de på listen herunder. Det denne tilladelse til at skrive ind i de udvalgte – nu låste – felter.
+Når leverandøren er tilføjet, vises den på listen herunder. Leverandøren har nu tilladelse til at skrive ind i de udvalgte – nu låste – felter.
 
 <img width="1899" height="818" alt="ISMS-3" src="https://github.com/user-attachments/assets/62bc6697-8747-4dfb-8bd3-a9d468b4f4ff" />
 
