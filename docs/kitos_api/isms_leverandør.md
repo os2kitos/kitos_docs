@@ -66,6 +66,8 @@ Når I vælger en leverandør, vises et overblik over hvilke felter der gøres i
 
 Når leverandøren er tilføjet, vises de på listen herunder. Det denne tilladelse til at skrive ind i de udvalgte – nu låste – felter.
 
+<img width="1899" height="818" alt="ISMS-3" src="https://github.com/user-attachments/assets/62bc6697-8747-4dfb-8bd3-a9d468b4f4ff" />
+
 ---
 
 ### Sletning eller afbrydelse af integration
@@ -76,7 +78,8 @@ Det er også her, man sletter/afbryder integrationen med leverandøren ved at tr
 - Vederes felter igen og styres nu af den udvalgte ISMS-Leverandør.
 
 **Sådan ser et låst felt ud i Kitos:**  
-*(indsæt evt. billede her)*
+<img width="1866" height="488" alt="ISMS4" src="https://github.com/user-attachments/assets/0ec42cd8-eda3-4d6a-a049-e1f7d22d8a00" />
+
 
 Sidste skridt er at kontakte jeres ISMS-Leverandør og fortælle, at I ønsker denne integration sat op.
 
