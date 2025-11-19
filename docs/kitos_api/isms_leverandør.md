@@ -14,7 +14,7 @@ Vejledning til funktionen ISMS Leverandør i Lokal Admin menuen.
 ## Indhold
 1. [ISMS-Leverandører i Kitos](#isms-leverandører-i-kitos)
     - [Supplier begrebet](#supplier-begrebet)
-    - [Udvalgte felter der kan modtages data på pr-031125](#udvalgte-felter-der-kan-modtages-data-på-pr-031125)
+    - [Udvalgte felter der kan modtages data på pr-031125](#udvalgte-felter-der-kan-modtages-data-på-pr. 031125)
 2. [Vejledning](#vejledning)
     - Hvad skal jeres ISMS-Leverandør gøre?
 
@@ -53,8 +53,14 @@ Man kan **ikke** udvælge specifikke felter – det er en pakkeløsning med alle
 Som **Kitos Lokal admin** skal du:
 1. Gå i **”Lokal admin”** menuen.
 2. Vælg **”ISMS-leverandør”**.
-3. Klik på den blå **+TILFØJ** knap og vælg din ISMS-Leverandør fra listen.  
+<img width="1902" height="700" alt="ISMS-supplier" src="https://github.com/user-attachments/assets/04842d29-1544-4ee3-ab25-10450467d087" />
+
+   
+4. Klik på den blå **+TILFØJ** knap og vælg din ISMS-Leverandør fra listen.  
    - Hvis din ISMS-Leverandør **ikke** er på listen, skal I skrive til info@kitos.dk, så vi kan tilføje leverandøren.
+  
+<img width="1915" height="853" alt="ISMS-Supplier - 2" src="https://github.com/user-attachments/assets/56ea4a48-0c7d-4ddf-be65-1cdb8569be9c" />
+
 
 Når I vælger en leverandør, vises et overblik over hvilke felter der gøres inaktive i Kitos og dermed styres af den valgte leverandør.  
 
