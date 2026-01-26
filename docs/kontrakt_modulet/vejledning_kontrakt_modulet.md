@@ -6,7 +6,7 @@ parent: Kontrakt modulet
 ---
 
  
-# Vejledning til kontraktmodulet
+# Vejledning til kontraktforside og overblikket
 
 ## Oversigten
 Fra oversigten kan man eksportere data til Excel, og har mulighed for at eksportere samtlige
