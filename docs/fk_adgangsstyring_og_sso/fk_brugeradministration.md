@@ -4,6 +4,7 @@ layout: default
 nav_order: 1
 parent: FK adgangsstyring og SSO
 ---
+
 Vejledninger til brugeradmninistration via Fælles kommunal adgangsstyring
 
 
@@ -12,7 +13,7 @@ Vejledninger til brugeradmninistration via Fælles kommunal adgangsstyring
 ## Baggrund
 Det er blevet meget lettere at give en bred skare af medarbejdere fra kommunen adgang til at kigge
 med i OS2Kitos.
-I FK Adgangsstyring er der etableret en brugersystemrolle, der hedder ’kitos-kigge-adgang’.
+I FK Adgangsstyring er der etableret en brugersystemrolle, der hedder **’kitos-kigge-adgang’**.
 Medarbejdere, der har fået tildelt denne rolle af deres lokale brugeradministrator, kan få adgang til
 at se data i Kitos via deres almindelige kommune profil. Hvis medarbejdere skal have adgang til at
 rette eller skabe data i Kitos, skal Kitos Lokal Admin fortsat i Kitos-løsningen tildele rettigheder
