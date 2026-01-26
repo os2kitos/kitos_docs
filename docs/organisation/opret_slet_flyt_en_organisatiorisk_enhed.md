@@ -92,11 +92,15 @@ organisation.
 ---
 
 ## EAN-nummer på organisationsenhed
-Man kan tilknytte et EAN-nummer til en organisationsenhed.  
-Det har særlig betydning, hvis man anvender kontraktmodulet.
+Når man redigere en organisationsenhed kan man tilknytte et EAN-nummer.
+<br></br>
+<img width="290" height="270" alt="image" src="https://github.com/user-attachments/assets/3a2d320c-6967-46bc-9596-c3f6c5cdeab2" />
+<br></br>
 
-I økonomifanen under kontraktmodulet får man vist EAN-nummeret, der kommer her fra
-Organisationsmodulet - Se herunder:
+Det har særlig betydning, hvis man anvender økonomifanen i kontraktmodulet.
+
+I økonomifanen under kontraktmodulet får man vist EAN-nummeret når man tilføjer en betaling. Dette EAN kommer her fra
+organisationsmodulet - Herunder skærmprint fra økonomifanen i kontraktmodul.
 <img width="1893" height="786" alt="image" src="https://github.com/user-attachments/assets/9c1abe6d-959b-493b-977b-24bbbb857c3c" />
 
 
