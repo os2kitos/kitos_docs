@@ -10,10 +10,13 @@ parent: Kontrakt modulet
 
 ## Oversigten
 Fra oversigten kan man eksportere data til Excel, og har mulighed for at eksportere samtlige
-kolonner eller de viste kolonner. På den måde kan man udtrækkedata og efterbehandle, sende til
+kolonner eller de viste kolonner. På den måde kan man udtrække data og efterbehandle, sende til
 kontrol andre steder i organisationen eller hvad man nu har brug for.
 
-Man kan selvfølgelig også altid bruge Kitos’s API til dataudtræk.
+Man kan også bruge Kitos’s API til dataudtræk.
+
+<img width="2554" height="451" alt="image" src="https://github.com/user-attachments/assets/43944b74-b4aa-4883-bc28-286057f714da" />
+
 
 ## Opret kontrakt
 Det er også fra oversigten, du kan oprette en ny IT-Kontrakt ved at klikke på knappen **Opret IT Kontrakt**.
@@ -24,8 +27,14 @@ en kontrakt.
 Klikker du på knappen **Gem, og gå til IT Kontrakt**, lukkes dialogboksen, og kontraktens formular
 vises på skærmen, og du kan nu udfylde flere data om kontrakten.
 
+<img width="411" height="200" alt="image" src="https://github.com/user-attachments/assets/c3efe88e-f0c8-4aa7-b3e3-36a5090e2632" />
+
+
 ## Navigation
-I venstremenuen kan du navigere mellem de forskellige afsnit i kontrakten:
+Når man klikker på en kontrakt kommer man til kontraktens forside. I venstremenuen herunder kan du navigere mellem de forskellige afsnit i kontrakten:
+
+<img width="2186" height="814" alt="image" src="https://github.com/user-attachments/assets/a0382ca5-ba69-4b6e-af30-2577871d1b5f" />
+
 
 ---
 
@@ -64,6 +73,12 @@ På kontraktforsiden finder du de overordnede og generelle informationer om kont
 
 - **Bemærkning**  
   Her kan du skrive bemærkninger eller noter
+
+- **Overordnet kontrakt**  
+  Her kan du registrere en overordnet kontrakt, til den pågældende kontrakt. Hvis man krydser feltet af "Nedarv den overordnedes gyldighed", så vil den pågældende kontrakts status, altid være denne samme, som dens overordnede kontrakt
+
+- **Ansvarlig organisationsenhed**  
+ Har kan du knytte en ansvarlig organisationsenhed til din kontrakt, organisationens kontraktunderskriver, samt dato. Der kan ligeledes sættes en fluebensmarkering på når kontrakten er   underskrevet.
 
 - **Leverandør**  
   Vælg leverandør. Leverandøren skal være oprettet som virksomhed i Kitos.  
@@ -136,5 +151,8 @@ Der kan også være et lille *i*, hvis lokal admin har tilføjet beskrivelser ti
 **Kontrakten er ALTID gyldig**, hvis feltet **Gennemtving Gyldighed** er anvendt.
 
 Når en kontrakt har status *ikke gyldig*, kan man åbne feltet for mere information.
+
+<img width="2175" height="716" alt="image" src="https://github.com/user-attachments/assets/0cadd64a-a512-4d19-8f67-8b85c49c19cb" />
+
 
 ---
