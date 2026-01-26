@@ -20,14 +20,14 @@ Man kan klikke videre over i systemmodulet, ved at klikke på et tilknyttet syst
 
 
 - **IT Kontrakten gælder flg. relationer**  
-  Viser relationer til andre systemer via snitflader og dets kontrakter.  
-  Registreringen foretages i IT-systemmodulet under "Relationer" - Se billedet herunder fra fanen "Relationer" i systemmodulet.
+  Viser relationer til andre systemer via dets kontrakter.  
+  Registreringen foretages i IT-systemmodulet under "Relationer" - Se billedet herunder fra fanen "Relationer" i systemmodulet, hvor man kan danne relationer mellem systemer og registrere en system-relations kontrakt.
 
   <img width="1955" height="906" alt="image" src="https://github.com/user-attachments/assets/da200fd9-b3cd-4cd9-a9a7-5cd807dfde22" />
 
 
 - **IT Kontrakten omfatter flg. aftaleelementer**  
-  Vælg et eller flere aftaleelementer.
+  Klik på "Tilføj aftaleelement" og vælg et eller flere aftaleelementer der skal knyttes til kontrakten.
 
 <img width="430" height="202" alt="image" src="https://github.com/user-attachments/assets/20075c01-3dd0-4fe1-a50a-d66293aa5ca8" />
 
@@ -36,7 +36,8 @@ Man kan klikke videre over i systemmodulet, ved at klikke på et tilknyttet syst
 ---
 
 ## Fanen Databehandling
-Tilføj en databehandlingsregistrering(er) der gælder for denne kontrakt. Databehandleraftalen skal først være oprettet i databehandlermodulet, før den kan tilknyttes en kontrakt via knappen "Tilføj databehanding".
+Klik på "Tilføj databehandling" og tilknyt en databehandlingsregistrering(er) der gælder for denne kontrakt. 
+Databehandleraftalen skal først være oprettet i databehandlermodulet, før den kan tilknyttes en kontrakt via knappen "Tilføj databehanding".
 
 Man kan klikke videre over i databehandlermodulet, ved at klikke på en tilknyttet databehandleraftale.
 
