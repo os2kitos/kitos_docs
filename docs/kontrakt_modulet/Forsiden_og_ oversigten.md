@@ -161,29 +161,33 @@ Når en kontrakt har status *ikke gyldig*, kan man åbne feltet for mere informa
 
 ## Slet kontrakt
 
-- Når man klikker på knappen "Slet kontrakt" åbnes et vindue, hvor du skal bekræfte sletning. Er kontrakten en enkeltstående kontrakt, som ikke er markeret som "overordnet kontrakt" for andre kontrakter, så slettes kontrakten når der trykkes "Ja" herunder.
+Tryk på knappen "Slet kontrakt" og der åbnes et vindue, hvor man skal bekræfte sletning. 
 
+Er kontrakten en enkeltstående kontrakt, som ikke er markeret som "overordnet kontrakt" for andre kontrakter, så slettes kontrakten når der trykkes "Ja" herunder.
 
 <img width="2002" height="786" alt="image" src="https://github.com/user-attachments/assets/4d91adc8-1903-4e5a-be4d-2740502b215c" />
 
+<br><br>
+**Hvis kontrakten er overordnet kontrakt for andre kontrakter** 
 
-Hvis kontrakten du forsøger at slette, har underliggende kontrakter tilknyttet, dvs. kontrakter som har registreret denne kontrakt for "overordnet kontrakt" så ser pop up vinduet anderledes ud, når du forsøger at slette kontrakten.
-
-Ved sletning vil du her få muligheden for samtidig at slette ALLE de underliggende kontrakter, som har registreret denne kontrakt for overordnet kontrakt. 
-Hvis du vil gøre dette, skal du trykke "Ja" på skærmbileldet herunder:
+Hvis kontrakten du forsøger at slette, har underliggende kontrakter tilknyttet, dvs. kontrakter som har registreret denne kontrakt for "overordnet kontrakt" så ser pop up vinduet anderledes ud, når du forsøger at slette kontrakten - Se herunder:
 
 <img width="1767" height="815" alt="image" src="https://github.com/user-attachments/assets/000f1399-5084-466d-b02d-9e59dbe38a14" />
 
-
+Ved sletning vil du her få muligheden for samtidig at slette ALLE de underliggende kontrakter, som har registreret denne kontrakt for overordnet kontrakt. 
+Hvis du vil gøre dette, skal du trykke "Ja" på skærmbilledet.
 Når du har trykket "Ja" skal du bekræfte en ekstra gang, før din kontrakt sammen med ALLE de registrerede underliggende kontrakter slettes.
+<br><br>
+<img width="345" height="198" alt="image" src="https://github.com/user-attachments/assets/b4764cb4-a612-4bf8-ada8-548f233e5862" />
 
-<img width="689" height="393" alt="image" src="https://github.com/user-attachments/assets/b4764cb4-a612-4bf8-ada8-548f233e5862" />
+<br><br>
+**Skal de underliggende kontrakter IKKE slettes**
 
-- Skal de underliggende kontrakter IKKE slettes, kan du vælge at overføre disse kontrakter til en anden overodnet kontrakt, unden du sletter din kontrakt.
-Når du har trykket på knappen "Overfør" kommer der er vindue frem, hvor du kan vælge hvilke kontrakter du vil have overført til en anden kontrakt.
+Vælg istedet at overføre disse kontrakter til en anden overodnet kontrakt, unden du sletter din kontrakt.
+Tryk på knappen "Overfør" og i efterfølgende vindue vælg hvilke kontrakter der skal overføres til en anden kontrakt.
 
-<img width="1066" height="690" alt="image" src="https://github.com/user-attachments/assets/ab3bd035-090a-437b-9b5e-540e818ed2c8" />
+<img width="530" height="295" alt="image" src="https://github.com/user-attachments/assets/ab3bd035-090a-437b-9b5e-540e818ed2c8" />
 
-Når kontrakter der ikke skal slettes er overført til en anden kontrakt, kan du gå tilbage og slette kontrakten.
+Når de kontrakter der ikke skal slettes er overført til en anden kontrakt, kan man gå tilbage og slette kontrakten uden at miste disse registreringer.
 
 ---
