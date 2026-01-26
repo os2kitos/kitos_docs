@@ -77,9 +77,9 @@ På kontraktforsiden finder du de overordnede og generelle informationer om kont
 - **Overordnet kontrakt**  
   Her kan du registrere en overordnet kontrakt, til den pågældende kontrakt.
 
-  **Nedarv den overordnedes gyldighed**
-- Hvis man krydser feltet af "Nedarv den overordnedes gyldighed", så vil den pågældende kontrakts status, altid være denne samme, som dens overordnede kontrakt. Dette betyder hvis en kontrakts overordnet kontrakt ændrer status fra ”gyldig” til ”ikke-gyldig”, træder dette i kraft på de underliggende kontrakter, hvor denne markering er valgt til.
-Funktionen er tiltænkt så man kan få en hovedkontrakts udløb, til at træde i kraft på alle dens underliggende kontrakter.
+ - **Nedarv den overordnedes gyldighed**
+  Hvis man krydser feltet af "Nedarv den overordnedes gyldighed", så vil den pågældende kontrakts status, altid være denne samme, som dens overordnede kontrakt. Dette betyder hvis en       kontrakts overordnet kontrakt ændrer status fra ”gyldig” til ”ikke-gyldig”, træder dette i kraft på de underliggende kontrakter, hvor denne markering er valgt til.
+Funktionen er tiltænkt så man kan få en hovedkontrakts udløb, til at træde i kraft på alle dens underliggende kontrakter. Hvis man går til fanen ”Hierarki” kan man se om en kontrakt nedarver gyldigheden fra en overordnet kontrakt.
 
 
 - **Ansvarlig organisationsenhed**  
