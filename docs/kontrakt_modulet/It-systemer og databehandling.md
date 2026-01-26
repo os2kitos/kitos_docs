@@ -6,7 +6,7 @@ parent: Kontrakt modulet
 ---
 
 ## Fanen IT Systemer
-Her kan du registrere hvilke IT-systemer og aftaleelementer kontrakten vedrører.
+Her kan du registrere hvilke IT-systemer og aftaleelementer kontrakten vedrører. It-systemet skal være taget i anvendelse af kommunen, før det fremgår på rullelisten når der trykkes på "Tilføj system"..
 
 - **IT Kontrakten gælder flg. IT Systemer**  
   Vælg et eller flere systemer blandt de systemer, som er taget i anvendelse i kommunen.
@@ -25,7 +25,7 @@ Her kan du registrere hvilke IT-systemer og aftaleelementer kontrakten vedrører
 ---
 
 ## Fanen Databehandling
-Vælg hvilken databehandlingsregistrering(er) der gælder for denne kontrakt.
+Tilføj en databehandlingsregistrering(er) der gælder for denne kontrakt. Databehandleraftalen skal først være oprettet i databehandlermodulet, før den kan tilknyttes en kontrakt via knappen "Tilføj databehanding".
 Man kan klikke videre over i databehandlermodulet, ved at klikke på en tilknyttet databehandleraftale.
 
 <img width="2253" height="845" alt="image" src="https://github.com/user-attachments/assets/d6e81c8d-2544-4529-986b-1fa11787fbf1" />
