@@ -1,7 +1,7 @@
 ---
 title: FK brugeradministration
 layout: default
-nav_order: 1
+nav_order: 2
 parent: FK adgangsstyring og SSO
 ---
 
