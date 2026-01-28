@@ -10,7 +10,7 @@ Her kan du se en vejledning til hvordan du kommer igang med integrationen til FK
 
 # Integration til FK Organisation samt vedligeholdelse af Organisationshierarki i Kitos
 
-- Indhold
+
 - ## Funktionsoverblik
 - Overvej om integration til FK er det rigtige for jeres kommune 
 - Gør det en forskel om jeres organisation er opdateret og hvordan? 
