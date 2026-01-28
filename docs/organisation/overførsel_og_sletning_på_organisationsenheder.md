@@ -19,7 +19,6 @@ anvender organisationsenheden.
 
 <img width="2555" height="676" alt="image" src="https://github.com/user-attachments/assets/2a0437fb-9e54-4efa-b24d-b8f75f909848" />
 
-<br></br>
 Herefter åbnes nedenstående vindue
 
 - Først vælg hvilken organisationsenhed du vil overføre registreringen til 
@@ -27,9 +26,10 @@ Herefter åbnes nedenstående vindue
 - Tryk Overfør valgte
 - Tryk Gem
 
+
 <img width="2036" height="1201" alt="image" src="https://github.com/user-attachments/assets/909af2f2-5242-4fec-bb74-5130e60561a7" />
 
-<br></br>
+
 **Slette/fjerne registreringer fra en organisationsenhed**
 Slet en registrering på din organisationsenhed, ved at udføre følgende handling.
 
