@@ -99,7 +99,8 @@ organisation.
 
 ## EAN-nummer på organisationsenhed
 Når man redigere en organisationsenhed kan man tilknytte et EAN-nummer.
-<br></br>
+
+
 <img width="290" height="270" alt="image" src="https://github.com/user-attachments/assets/3a2d320c-6967-46bc-9596-c3f6c5cdeab2" />
 
 
