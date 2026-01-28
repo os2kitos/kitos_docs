@@ -8,27 +8,27 @@ parent: Organisation
 Her kan du se en vejledning til hvordan du kommer igang med integrationen til FK Organisation - Ny vejledning udarbejdet af OS2Sekreatarietet pr. 29.01.2026
 
 
-**Integration til FK Organisation samt vedligeholdelse af Organisationshierarki i Kitos**
+# Integration til FK Organisation samt vedligeholdelse af Organisationshierarki i Kitos
 
 - Indhold
-- **Funktionsoverblik**
+- ## Funktionsoverblik
 - Overvej om integration til FK er det rigtige for jeres kommune 
 - Gør det en forskel om jeres organisation er opdateret og hvordan? 
 - Muligheder for at tilpasse integrationen 
-- **Forudsætninger - generelt**
+- ## Forudsætninger - generelt
 - Der er en række forudsætninger, der skal være på plads, før man kan tage integrationen til FK Organisation i anvendelse.
 - Oprydning i lokal administratorer 
 - Data i FK Organisation 5
 - Serviceaftale 
-- **Adgang til funktionaliteten – og test i Staging-miljøet**
-- **Aktivering af funktionen i produktionsmiljøet**
-- **Synkronisering med FK Organisation**
+- ## Adgang til funktionaliteten – og test i Staging-miljøet
+- ## Aktivering af funktionen i produktionsmiljøet
+- ## Synkronisering med FK Organisation
 - Synkroniseringsmetode 
 - Synkronisering - niveauer 
 - Ændringsloggen 
 - Synkronisering – enhedstyper 
 - Synkronisering – konsekvenser 
-- **Vedligehold af organisationen i Kitos**
+- ## Vedligehold af organisationen i Kitos
 - Flytning af organisationsenheder
 - Redigering og sletning af organisationsenheder 
 - Oprettelse af underenhed 
@@ -37,14 +37,16 @@ Her kan du se en vejledning til hvordan du kommer igang med integrationen til FK
 - At bryde forbindelsen til FK Organisation 
 
 
-**Funktionsoverblik**
+## Funktionsoverblik 
+
 Brugerklubben har ønsket muligheden for at hente kommunens organisation ind fra
 FK Organisation.
 Nu (marts 2023 – og revideret maj 2023) er funktionaliteten udviklet. Dette
 dokument gennemgår de tekniske muligheder. Vi vil dog også ganske kort redgøre for
 en række taktiske overvejelser, som I bør forholde jer til som det første.
 
-*Overvej om integration til FK er det rigtige for jeres kommune*
+**Overvej om integration til FK er det rigtige for jeres kommune**
+
 I kan altid vedligeholde jeres organisation manuelt i Kitos.
 En manuel administration af organisationen betyder, at lokaladministratoren selv skal
 løse opgaven, og at denne person teknisk set har al magten over navngivningen og
@@ -61,7 +63,8 @@ og Digitalisering”, så vil navnet blive ændret i Kitos kort efter at det bli
 organisation. Muligheder og detaljer for opsætningen bliver beskrevet her i
 vejledningen.
 
-*Gør det en forskel om jeres organisation er opdateret og hvordan?*
+**Gør det en forskel om jeres organisation er opdateret og hvordan?**
+
 Kommunerne arbejder forskelligt med Kitos – også med organisation. Nogle af jer
 knytter ansvar eller opgaver i Kitos til organisationsenheder. Det er her at
 datakvaliteten, altså eksempelvis navngivningen af organisationsenheder, kan have
@@ -84,7 +87,7 @@ brugerne af Kitos?
 - Har Lokal administratoren kendskab til FK organisation og/eller et godt
 samarbejde med dem, der administrerer FK Organisation?
 
-*Muligheder for at tilpasse integrationen*
+**Muligheder for at tilpasse integrationen**
 Organisationsenheder indlæst fra FK Organisation kan sameksisterer med
 organisationsenheder oprettet manuelt i Kitos, og man kan med farvekoder se, hvilke
 organisationsenheder, der kommer fra FK Organisation og hvilke, der er oprettet
@@ -102,11 +105,11 @@ kan slette eller flytte registreringer fra enhed til en anden.
 BILLEDE 1 - FUNKTIONSOVERBLIK
 
 
-**Forudsætninger - generelt**
+## Forudsætninger - generelt
 Der er en række forudsætninger, der skal være på plads, før man kan tage
 integrationen til FK Organisation i anvendelse.
 
-*Oprydning i lokal administratorer*
+**Oprydning i lokal administratorer**
 Inden I tager funktionaliteten vedr. integration til FK Organisation i brug, bør I
 foretage en oprydning i adgange.
 Flere kommuner har givet flere/mange brugere Lokal administrator adgang, og I skal
@@ -114,7 +117,7 @@ være opmærksom på, at funktionaliteten vedr. FK Organisation kan benyttes af 
 brugere, der har en Lokal administrator adgang – så en kritisk gennemgang af, om
 det er de rette brugere, der har den adgang er en god ide.
 
-*Data i FK Organisation*
+**Data i FK Organisation**
 • I skal have kontakt til de parter i jeres kommune, der vedligeholder data om
 organisationen i FK Organisation
 • Den organisationsstruktur, som man ser i FK Organisation, skal svare til det
@@ -122,12 +125,12 @@ man ønsker at vise i Kitos
 • CVR nr. der anvendes i FK Organisation skal være det samme CVR nr., der er
 registreret i Kitos
 
-*Serviceaftale*
+**Serviceaftale**
 • Kommunen skal bede OS2kitos sekretariatet om at få tilsendt en serviceaftale
 fra STRONGMINDS, der giver Kitos adgang til FK Organisation. Denne skal
 godkendes af kommunens FK Administration ansvarlige.
 
-**Adgang til funktionaliteten – og test i Staging-miljøet**
+## Adgang til funktionaliteten – og test i Staging-miljøet
 Vi anbefaler, at I tester funktionaliteten af i Kitos’s test-miljø Staging
 https://staging.Kitos.dk, så I bliver fortrolige med det, inden I begynder i
 produktionsmiljøet.
@@ -155,7 +158,7 @@ Organisation:
 
 BILLEDE 3 !!!!!
 
-**Aktivering af funktionen i produktionsmiljøet**
+## Aktivering af funktionen i produktionsmiljøet
 Efter I evt. har testet funktionaliteten af i Kitos’s testmiljø og er blevet fortrolige med
 den, kan I aktivere funktionaliteten i Produktionsmiljøet på samme måde som i
 Staging-miljøet ved at:
@@ -175,9 +178,9 @@ synkroniserede enheder.
 – Nedlæg Kitos-enheder, når der ikke længere er registreringer på dem
 Se mere om dette i afsnittet vedr. Vedligehold af organisationen i Kitos.
 
-**Synkronisering med FK Organisation**
+## Synkronisering med FK Organisation
 
-*Synkroniseringsmetode*
+**Synkroniseringsmetode**
 Synkronisering med og indlæsning fra FK Organisation er en manuel proces, hvor
 Lokal Administrator skal gennemse konsekvenser for organisationen i Kitos på
 baggrund af opdateringer i FK Organisation. Og først når Lokal Administrator har
@@ -208,7 +211,7 @@ de brugere, der er lokal administratorer med information om, at der er
 opdateringer i FK Organisation, som de skal handle på.
 Mail fra Kitos ser således ud med eksempel på data fra Ballerup
 kommune:
-9
+
 Klikker man på linket i mailen, lander man i Kitos, hvor man så klikker på
 Rediger knappen:
 
@@ -225,7 +228,7 @@ hvor man går ændringsloggen igennem og kan godkende ændringerne
 inden indlæsning fra FK Organisation. – Se mere om dette i afsnittet
 Ændringsloggen.
 
-*Synkronisering - niveauer*
+**Synkronisering - niveauer**
 • I kan aktivt vælge om Kitos skal synkronisere hele organisationshierarkiet eller
 kun en delmængde. I eksemplet nedenfor vises henholdsvis 1 niveau og 2
 niveauer.
@@ -260,7 +263,7 @@ BILLEDE 9!!!!
 Klikker man i firkanten ved Ændringslog, kan folde ændringsloggen ud og se, hvilke
 opdateringer der er sket.
 
-*Ændringsloggen*
+**Ændringsloggen**
 Kitos skriver ændringerne til ændringsloggen og ændringsloggen gemmes for de
 seneste fem synkroniseringer, der medførte ændringer. (Ændrings-tjeks, som ikke
 registrerer ændringer, medfører altså ikke ”tomme” rækker i ændringsloggen.)
@@ -275,7 +278,7 @@ kommer fra synkroniseringen med FK Organisation:
 
 BILLEDE 9 !!!!
 
-*Synkronisering – enhedstyper*
+**Synkronisering – enhedstyper**
 I forbindelse med introduktionen af FK Organisation, vil Kitos fremover skelne mellem
 to forskellige enhedstyper i organisationshierarkiet.
 • Kitos Enheder: Disse enheder er fuldt administrerbare af Lokal Administrator i
@@ -293,7 +296,7 @@ der synkroniseres.
 
 BILLEDE 10!!!!!!
 
-*Synkronisering – konsekvenser*
+**Synkronisering – konsekvenser**
 Når Lokal Administrator har godkendt ændringer fra FK Organisation, vil Kitos hente
 organisationen ud fra FK Organisation.
 Sammenholdt med det billede af organisationen, der allerede findes i Kitos, vil Kitos
@@ -303,7 +306,7 @@ inden for den valgte synkroniseringsdybde, vil de blive oprettet i Kitos
  Enheder, der har skiftet navn -> disse omdøbes automatisk i Kitos
  Enheder, der er flyttet -> såfremt disse er flyttet inden for den valgte
 synkroniseringsdybde, vil de blive flyttet.
-16
+
 Fx hvis de er flyttet ned i synkroniseringsniveau 4 og man kun har valgt 3
 synkroniseringsniveauer, vil de altså set fra Kitos’s side være slettet. I så fald
 sker der det samme som for egentligt nedlagte enheder (se neden for)
@@ -315,7 +318,7 @@ en Kitos enhed – altså en enhed, der ikke længere synkroniseres fra FK
 Organisation. Og man har mulighed for evt. at flytte registreringer fra
 enheden og evt. manuelt nedlægge den efterfølgende.
 
-**Vedligehold af organisationen i Kitos**
+## Vedligehold af organisationen i Kitos
 Hvis kommunen tilslutter Kitos til FK Organisation ændres arbejdsgangen for
 organisationshierarkiet.
 • Vedligehold af organisationshierarkiet foretages i FK Organisation (eller det
@@ -330,7 +333,7 @@ til FK Organisation eller ej
 enhed” giver denne funktionalitet nem adgang til hurtigt at kunne
 omregistrere fra og nedlægge den gamle (konverterede) enhed.
 
-*Flytning af organisationsenheder*
+**Flytning af organisationsenheder**
 I organisationsmodulet i Kitos kan man redigere kommunens organisationshierarki.
 Her er det muligt at flytte enheder, der er oprettet i Kitos, men man kan ikke flytte
 enheder, der er synkroniseret fra FK Organisation.
@@ -343,7 +346,7 @@ Vil du flytte en enhed oprettet i Kitos, trykker du på Omstrukturer og kan dere
 flytte rundt på enheden. Når du er færdig med omstruktureringen, trykker du på
 Færdig.
 
-*Redigering og sletning af organisationsenheder*
+**Redigering og sletning af organisationsenheder**
 I Organisationsmodulet kan man slette organisationsenheder, der er oprettet i Kitos (
 blå enheder), men man kan ikke slette organisationsenheder (grønne enheder), der er
 synkroniseret fra FK Organisation.
@@ -375,7 +378,7 @@ vil være grå og ikke rediger-bare).
 
 BILLEDE 14!!!!
 
-*Oprettelse af underenhed*
+**Oprettelse af underenhed**
 Det er også muligt at oprette en underenhed for både en Kitos enhed (blå) samt en
 enhed synkroniseret fra FK Organisation (grøn). Igen sker det under Rediger:
 
@@ -385,7 +388,7 @@ Og herefter kan man indtaste data for den nye underenhed:
 
 BILLEDE 16!
 
-*Flytning af registreringer fra en organisationsenhed*
+**Flytning af registreringer fra en organisationsenhed**
 I forbindelse med redigering af organisationshierarkiet kan man flytte registreringer
 fra en enhed til en anden, uafhængig af om det er en Kitos enhed eller en enhed
 synkroniseret fra FK Organisation.
@@ -410,7 +413,7 @@ findes i hierarkiet:
 
 BILLEDE 19!!!
 
-*Sletning af registreringer fra en organisationsenhed*
+**Sletning af registreringer fra en organisationsenhed**
 I forbindelse med redigering af organisationshierarkiet kan man slette registreringer
 fra en enhed, uafhængig af om det er en Kitos enhed (blå) eller en enhed
 synkroniseret fra FK Organisation (grøn).
@@ -427,7 +430,7 @@ BILLEDE 21!!!
 Her har man så mulighed for at vælge enkelte eller alle registreringer ved at sætte
 hak samt trykke på Slet valgte.
 
-*At bryde forbindelsen til FK Organisation*
+**At bryde forbindelsen til FK Organisation**
 I forbindelse med synkronisering af hierarkiet fra FK Organisation, kan det tænkes at
 hierarkiet fra FK Organisation ikke er velegnet til brug i Kitos. Lokal Administrator har
 derfor mulighed for at bryde forbindelsen til FK Organisation og dermed konvertere
@@ -458,7 +461,7 @@ På eksemplet ovenfor er der altså ikke lavet nogen registreringer på de enhed
 er underordnet til enheden ”Ballerup kommune”, hvorfor de vil forsvinde, hvis man
 vælge muligheden med at slette ubrugte organisationsenheder.
 
-*Hvis forbindelsen til FK Organisation fejler*
+**Hvis forbindelsen til FK Organisation fejler**
 Man skal ikke være nervøs for, at der sker noget med den organisationen i Kitos,
 såfremt der måtte ske en afbrydelse af forbindelsen til FK Organisation.
 Hvis forbindelsen til FK Organisation fejler, så fejler import processen også. Kitos
