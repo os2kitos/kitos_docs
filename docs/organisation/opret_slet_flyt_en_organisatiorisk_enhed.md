@@ -28,11 +28,14 @@ Kontraktmodulet, hvorfor det også bliver præciseret her.
 
 
 <img width="2548" height="760" alt="image" src="https://github.com/user-attachments/assets/d1a363c7-d347-468a-b45b-4c53fb9a4af4" />
-<br></br>
+
+
 Du får nu et pop‑up vindue, hvor du kan oprette en underenhed.
-<br></br>
+
+
 <img width="821" height="575" alt="image" src="https://github.com/user-attachments/assets/8742c642-91a3-4f85-9945-4d246f44b34c" />
-<br></br>
+
+
 
 - Udfyld felterne
 - Klik på knappen **Opret underenhed**
@@ -46,12 +49,14 @@ Din nye underenhed er nu blevet tilføjet til organisationsfiguren.
 - Klik på **de tre små prikker** over organisationsfiguren og vælg **omstrukturer**
 
 <img width="1094" height="560" alt="image" src="https://github.com/user-attachments/assets/7214c5d3-2230-49e9-9ce7-887bb2e21fc6" />
-<br></br>
+
+
 
 Der vises nu små prikker til højre for enhederne i organisationstræet.
 
 <img width="788" height="655" alt="image" src="https://github.com/user-attachments/assets/b6984f06-0568-41fd-b198-fc7f3ac94c70" />
-<br></br>
+
+
 
 - Find nu den enhed du vil flytte
 - Hold musemarkøren over de små prikker til højre for den enhed du vil flytte
@@ -59,7 +64,8 @@ Der vises nu små prikker til højre for enhederne i organisationstræet.
 - Gentag processen, indtil du har flyttet alle enheder til den ønskede placering
 - Klik på **Færdig** over organisationsfiguren
 
-  <br></br>
+
+
 
 ---
 
@@ -95,7 +101,8 @@ organisation.
 Når man redigere en organisationsenhed kan man tilknytte et EAN-nummer.
 <br></br>
 <img width="290" height="270" alt="image" src="https://github.com/user-attachments/assets/3a2d320c-6967-46bc-9596-c3f6c5cdeab2" />
-<br></br>
+
+
 
 Det har særlig betydning, hvis man anvender økonomifanen i kontraktmodulet.
 
