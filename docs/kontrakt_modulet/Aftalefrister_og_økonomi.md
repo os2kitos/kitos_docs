@@ -21,8 +21,8 @@ Fanen aftalefrister indeholder følgende felter der kan knyttes til kontraktens 
   Angiv antal
 
 ### Opsigelse
-- **Kontrakten opsagt** – vælg dato  
-- **Opsigelsesfrist** – vælg antal måneder  
+- **Kontrakten opsagt** – vælg dato -  Bemærk dette har indflydelse på kontraktens status på gyldig/ikke gyldig.  
+- **Opsigelsesfrist** – vælg antal måneder - Bemærk dette har indflydelse på kontraktens status på gyldig/ikke gyldig.   
 - **Løbende** – vælg varighed  
 - **Inden udgangen af** – vælg varighed
 
