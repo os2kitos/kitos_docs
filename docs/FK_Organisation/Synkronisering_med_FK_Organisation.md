@@ -61,19 +61,22 @@ Derefter klikker man på *vis konsekvenser* for at se de registrerede ændringer
 
 
 Her kan I vælge synkroniseringsniveau og om automatisk tjek skal aktiveres.
+<br>
+Nedenstående billede giver eksempel på valg af 4 niveauer og fravalg af automatisk tjek.
+
 
 <img width="1824" height="1081" alt="image" src="https://github.com/user-attachments/assets/d8d8ca2f-9e75-4492-8272-6a0cea334546" />
 
 
 
-**Feltet "Niveauer":** Vælg hvilke niveauer der synkroniseres - angiv et tal, f.eks 4 hvis man ønsker hierakiet ned til niveau 4 skal synkroniseres.  Hvis feltet er tomt, synkroniseres hele hierarkiet.
+**Feltet "Niveauer":** 
+Vælg hvilke niveauer der synkroniseres - angiv et tal, f.eks 4 hvis man ønsker hierakiet ned til niveau 4 skal synkroniseres.  Hvis feltet er tomt, synkroniseres hele hierarkiet.
 
-**Feltet "Tjek efter ventende opdateringer":** Aktiverer automatisk tjek for ændringer i FK Organisation.
+**Feltet "Tjek efter ventende opdateringer":** 
+Aktiverer automatisk tjek for ændringer i FK Organisation.
 
-**Forhåndsvisning:** Viser hierarkiet filtreret efter de valgte niveauer.
-
-Ovenstående billeder giver eksempel på valg af 4 niveauer og fravalg af automatisk tjek.
-
+**Forhåndsvisning:** 
+Viser hierarkiet filtreret efter de valgte niveauer.
 
 Når synkroniseringen gennemføres, vises følgende:
 
