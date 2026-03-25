@@ -116,7 +116,7 @@ Man kan stoppe importen via **Afvis ændringer**, eller gennemføre via **Godken
 
 <img width="2202" height="1129" alt="image" src="https://github.com/user-attachments/assets/e9477492-ed58-468c-92de-bd61f0e53909" />
 
-Bemærk man kan eksportere ændringsloggen til Excel. 
+Bemærk man kan eksportere ændringsloggen til Excel.
 
 ---
 
@@ -124,15 +124,19 @@ Bemærk man kan eksportere ændringsloggen til Excel.
 
 Kitos skelner fremover mellem to typer enheder:
 
-- **Kitos-enheder**  
-  Disse kan fuldt redigeres af Lokal Administrator (navn, EAN, enhed ID, overordnet enhed). De kan også slettes.
+**Kitos-enheder**  
+- Disse kan fuldt redigeres af Lokal Administrator (navn, EAN, enhed ID, overordnet enhed). De kan også slettes.
+- Disse fremstår som "Blå" enheder i Kitos
+  
+**Enheder synkroniseret fra FK Organisation**  
+- Disse kan delvist redigeres (EAN og enhed ID).
+- Navn og overordnet enhed synkroniseres og kan ikke ændres i Kitos.
+- De kan ikke slettes via brugerfladen – kun ved at afbryde FK-forbindelsen eller ændre synkroniseringsniveauer.
+- Disse fremstår som "Grønne" enheder i Kitos
 
-- **Enheder synkroniseret fra FK Organisation**  
-  Disse kan delvist redigeres (EAN og enhed ID).  
-  Navn og overordnet enhed synkroniseres og kan ikke ændres i Kitos.  
-  De kan ikke slettes via brugerfladen – kun ved at afbryde FK-forbindelsen eller ændre synkroniseringsniveauer.
 
-**BILLEDE 10**
+<img width="505" height="657" alt="image" src="https://github.com/user-attachments/assets/29b58cdb-de59-4f83-afaf-c4c69e421e6b" />
+
 
 ---
 
@@ -148,8 +152,6 @@ Følgende kan ske:
   - Hvis en enhed flyttes *under* synkroniseringsniveauet (f.eks. til niveau 4 når der kun synkroniseres 3 niveauer), vil den blive behandlet som slettet
 
 - **Enheder der slettes eller falder uden for synkroniseringsdybden:**
-  - Hvis der *ikke* er registreringer → enheden slettes
-  - Hvis der *er* registreringer → enheden omdannes til en **Kitos-enhed**  
+  - Hvis der *ikke* er registreringer på enheden → enheden slettes
+  - Hvis der *er* registreringer på enheden → enheden omdannes til en **Kitos-enhed**  
     (Kan herefter håndteres manuelt, fx flyttes eller nedlægges)
-
-``
