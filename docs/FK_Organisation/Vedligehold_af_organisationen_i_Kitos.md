@@ -5,33 +5,38 @@ nav_order: 6
 parent: FK Organisation
 ---
 
-## Vedligehold af organisationen i Kitos
+## Vedligehold af organisationen i Kitos'
+
 Hvis kommunen tilslutter Kitos til FK Organisation ændres arbejdsgangen for
 organisationshierarkiet.
-• Vedligehold af organisationshierarkiet foretages i FK Organisation (eller det
+
+- Vedligehold af organisationshierarkiet foretages i FK Organisation (eller det
 system der føder data hertil)
-• Vedligeholdelse af Kitos registreringer, tilknyttet enheder i organisationen,
+- Vedligeholdelse af Kitos registreringer, tilknyttet enheder i organisationen,
 foretages stadig i Kitos.
-• Det er nu muligt at ”flytte” registreringer fra én enhed til en anden direkte fra
+- Det er muligt at ”flytte” registreringer fra én enhed til en anden direkte fra
 organisationsmodulet.
-– Denne funktion er tilgængelig, uanset om kommunen har tilsluttet Kitos
+  - Denne funktion er tilgængelig, uanset om kommunen har tilsluttet Kitos
 til FK Organisation eller ej
-– Særligt efter en synkronisering der har medført ”konvertering til Kitos-
+  - Særligt efter en synkronisering der har medført ”konvertering til Kitos-
 enhed” giver denne funktionalitet nem adgang til hurtigt at kunne
 omregistrere fra og nedlægge den gamle (konverterede) enhed.
 
+
 **Flytning af organisationsenheder**
+
 I organisationsmodulet i Kitos kan man redigere kommunens organisationshierarki.
 Her er det muligt at flytte enheder, der er oprettet i Kitos, men man kan ikke flytte
 enheder, der er synkroniseret fra FK Organisation.
 De enheder, der er oprettet i Kitos er blå, mens enheder, der er synkroniseret fra FK
 Organisation er grønne:
 
-BILLEDE 11!!!!
-
-Vil du flytte en enhed oprettet i Kitos, trykker du på Omstrukturer og kan derefter
+Vil du flytte en enhed oprettet i Kitos, trykker du på de 3 små prikker og herefter "Omstrukturer" og så kan du
 flytte rundt på enheden. Når du er færdig med omstruktureringen, trykker du på
-Færdig.
+"Færdig".
+
+<img width="854" height="730" alt="image" src="https://github.com/user-attachments/assets/047039c1-8215-48a9-b7dd-2e6d00167617" />
+
 
 **Redigering og sletning af organisationsenheder**
 I Organisationsmodulet kan man slette organisationsenheder, der er oprettet i Kitos (
