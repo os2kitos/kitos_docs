@@ -116,6 +116,7 @@ Man kan stoppe importen via **Afvis ændringer**, eller gennemføre via **Godken
 
 <img width="2202" height="1129" alt="image" src="https://github.com/user-attachments/assets/e9477492-ed58-468c-92de-bd61f0e53909" />
 
+Bemærk man kan eksportere ændringsloggen til Excel. 
 
 ---
 
