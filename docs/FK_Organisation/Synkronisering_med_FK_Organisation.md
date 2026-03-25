@@ -70,12 +70,15 @@ Nedenstående billede giver eksempel på valg af 4 niveauer og fravalg af automa
 
 
 **Feltet "Niveauer":** 
+<br>
 Vælg hvilke niveauer der synkroniseres - angiv et tal, f.eks 4 hvis man ønsker hierakiet ned til niveau 4 skal synkroniseres.  Hvis feltet er tomt, synkroniseres hele hierarkiet.
 
 **Feltet "Tjek efter ventende opdateringer":** 
+<br>
 Aktiverer automatisk tjek for ændringer i FK Organisation.
 
 **Forhåndsvisning:** 
+<br>
 Viser hierarkiet filtreret efter de valgte niveauer.
 
 Når synkroniseringen gennemføres, vises følgende:
