@@ -8,9 +8,7 @@ parent: FK Organisation
 ## Funktionsoverblik 
 
 Brugerklubben har ønsket muligheden for at hente kommunens organisation ind fra
-FK Organisation.
-Nu (marts 2023 – og revideret maj 2023) er funktionaliteten udviklet. Dette
-dokument gennemgår de tekniske muligheder. Vi vil dog også ganske kort redgøre for
+FK Organisation. Dette dokument gennemgår de tekniske muligheder. Vi vil dog også ganske kort redgøre for
 en række taktiske overvejelser, som I bør forholde jer til som det første.
 
 **Overvej om integration til FK er det rigtige for jeres kommune**
