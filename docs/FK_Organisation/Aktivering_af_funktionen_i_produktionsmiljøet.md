@@ -13,8 +13,8 @@ Staging-miljøet ved at:
 - Logge på som Lokal Administrator i Kitos
 - I kan hernæst tilgå konfigurationssiden ved at navigere til:
   
-  – Menuen ”Lokal Admin”
-  – Underpunktet ”Masse opret”
+  – Menuen ”Lokal Admin”  
+  – Underpunktet ”Masse opret”  
   – Sektionen ”FK Organisation”
 
 - Sørg for at I har en godkendt serviceaftale – På samme måde som i Staging-
@@ -23,9 +23,9 @@ miljøet som beskrevet ovenfor
 - Start evt. med ”Manuel” synkronisering (afhænger af behovet for kontrol) – se
 mere om Synkronisering nedenfor.
 
-- Efter første synkronisering, kan ”flyttearbejdet” påbegyndes dvs.
+- Efter første synkronisering, kan ”flyttearbejdet” påbegyndes dvs.  
   – Registreringer kan flyttes fra de eksisterende Kitos-enheder til de
 synkroniserede enheder.
 
-  – Nedlæg Kitos-enheder, når der ikke længere er registreringer på dem
+- Nedlæg Kitos-enheder, når der ikke længere er registreringer på dem  
 Se mere om dette i afsnittet vedr. Vedligehold af organisationen i Kitos.
