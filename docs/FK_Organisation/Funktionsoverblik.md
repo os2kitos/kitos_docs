@@ -31,6 +31,7 @@ og Digitalisering”, så vil navnet blive ændret i Kitos kort efter at det bli
 organisation. Muligheder og detaljer for opsætningen bliver beskrevet her i
 vejledningen.
 
+
 **Gør det en forskel om jeres organisation er opdateret og hvordan?**
 
 Kommunerne arbejder forskelligt med Kitos – også med organisation. Nogle af jer
@@ -56,6 +57,7 @@ brugerne af Kitos?
 samarbejde med dem, der administrerer FK Organisation?
 
 **Muligheder for at tilpasse integrationen**
+
 Organisationsenheder indlæst fra FK Organisation kan sameksisterer med
 organisationsenheder oprettet manuelt i Kitos, og man kan med farvekoder se, hvilke
 organisationsenheder, der kommer fra FK Organisation og hvilke, der er oprettet
