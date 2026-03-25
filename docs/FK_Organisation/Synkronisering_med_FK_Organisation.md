@@ -91,7 +91,7 @@ Denne knap fremviser konsekvenser ved en gennemførsel af en/flere ændringer ti
 <br>
 Når synkroniseringen gennemføres, vises følgende:
 
-
+<br>
 <img width="2246" height="596" alt="image" src="https://github.com/user-attachments/assets/a3ad4a53-e617-4292-8fa5-a914875849d6" />
 
 
