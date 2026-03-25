@@ -81,6 +81,14 @@ Aktiverer automatisk tjek for ændringer i FK Organisation.
 <br>
 Viser hierarkiet filtreret efter de valgte niveauer.
 
+**Vis konsekvenser**
+<br>
+Denne knap fremviser konsekvenser ved en gennemførsel af en/flere ændringer til organisationen. Klikker du på denne knap, kommer følgende skærmbilelde, hvor du har mulighed for at Godekende eller afvise ændringerne.
+
+<img width="1778" height="1108" alt="image" src="https://github.com/user-attachments/assets/30446b9c-c743-4e9d-b283-f2b0fcb0fb96" />
+
+
+<br>
 Når synkroniseringen gennemføres, vises følgende:
 
 
@@ -105,8 +113,6 @@ I ændringsloggen ses:
 Man kan stoppe importen via **Afvis ændringer**, eller gennemføre via **Godkend ændringer**.
 
 Eksempel på ændringslog:
-
-<img width="1778" height="1108" alt="image" src="https://github.com/user-attachments/assets/30446b9c-c743-4e9d-b283-f2b0fcb0fb96" />
 
 
 ---
