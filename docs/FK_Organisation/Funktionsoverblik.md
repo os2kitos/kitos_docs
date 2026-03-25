@@ -68,3 +68,7 @@ Kitos skriver ændringerne forårsaget af en indlæsning fra FK Organisation til
 medførte ændringer.
 Man kan i Organisationsmodulet slette og redigere en organisationsenhed, og man
 kan slette eller flytte registreringer fra enhed til en anden.
+
+
+<img width="1301" height="859" alt="image" src="https://github.com/user-attachments/assets/e95a44f5-6503-4325-b541-405e9edf206e" />
+
