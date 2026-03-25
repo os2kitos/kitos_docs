@@ -48,7 +48,11 @@ Sletning af en enhed sker ved, at man stiller sig på enheden, og dernæst trykk
 
 <img width="2541" height="773" alt="image" src="https://github.com/user-attachments/assets/50358e80-34d5-4a54-852d-489e206959a8" />
 
+<br>
+
 Så får man følgende billede hvor man kan se enhedens registreringer og slette enheden. Før enheden slettes, skal det bekræftes en ekstra gang, se herunder:
+
+<br>
 
 <img width="2299" height="1217" alt="image" src="https://github.com/user-attachments/assets/2d57fd5d-d46a-4876-a740-838d30dde254" />
 
