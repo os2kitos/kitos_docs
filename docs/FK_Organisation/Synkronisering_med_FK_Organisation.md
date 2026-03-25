@@ -51,34 +51,35 @@ Derefter klikker man på *vis konsekvenser* for at se de registrerede ændringer
 ## Synkronisering – niveauer
 
 - I kan vælge, om Kitos skal synkronisere hele organisationshierarkiet eller kun en del af det.  
-  Her ses eksempler med 1 og 2 niveauer:
-
-**BILLEDE 6**
 
 - I Kitos navigerer I til:
 
   - Menuen **Lokal Admin**  
   - Underpunktet **Masse opret**  
   - Sektionen **FK Organisation**  
-  - Knappen **Forbind**
+  - Knappen **Rediger**
+
 
 Her kan I vælge synkroniseringsniveau og om automatisk tjek skal aktiveres.
 
-**BILLEDE 7**
+<img width="1824" height="1081" alt="image" src="https://github.com/user-attachments/assets/d8d8ca2f-9e75-4492-8272-6a0cea334546" />
 
-**Feltet "Niveauer":** Vælg hvilke niveauer der synkroniseres. Hvis feltet er tomt, synkroniseres hele hierarkiet.
 
-**Feltet "Automatik":** Aktiverer automatisk tjek for ændringer i FK Organisation.
+
+**Feltet "Niveauer":** Vælg hvilke niveauer der synkroniseres - angiv et tal, f.eks 4 hvis man ønsker hierakiet ned til niveau 4 skal synkroniseres.  Hvis feltet er tomt, synkroniseres hele hierarkiet.
+
+**Feltet "Tjek efter ventende opdateringer":** Aktiverer automatisk tjek for ændringer i FK Organisation.
 
 **Forhåndsvisning:** Viser hierarkiet filtreret efter de valgte niveauer.
 
-Eksempel på valg af 2 niveauer og fravalg af automatisk tjek:
+Ovenstående billeder giver eksempel på valg af 4 niveauer og fravalg af automatisk tjek.
 
-**BILLEDE 8**
 
 Når synkroniseringen gennemføres, vises følgende:
 
-**BILLEDE 9**
+
+<img width="2246" height="596" alt="image" src="https://github.com/user-attachments/assets/a3ad4a53-e617-4292-8fa5-a914875849d6" />
+
 
 Klik på **Ændringslog** for at folde loggen ud og se registrerede ændringer.
 
