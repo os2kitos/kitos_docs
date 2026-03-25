@@ -112,7 +112,9 @@ I ændringsloggen ses:
 
 Man kan stoppe importen via **Afvis ændringer**, eller gennemføre via **Godkend ændringer**.
 
-Eksempel på ændringslog:
+*Eksempel på ændringslog:*
+
+<img width="2202" height="1129" alt="image" src="https://github.com/user-attachments/assets/e9477492-ed58-468c-92de-bd61f0e53909" />
 
 
 ---
