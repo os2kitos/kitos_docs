@@ -5,7 +5,7 @@ nav_order: 6
 parent: FK Organisation
 ---
 
-## Vedligehold af organisationen i Kitos'
+# Vedligehold af organisationen i Kitos'
 
 Hvis kommunen tilslutter Kitos til FK Organisation ændres arbejdsgangen for
 organisationshierarkiet.
@@ -23,7 +23,7 @@ enhed” giver denne funktionalitet nem adgang til hurtigt at kunne
 omregistrere fra og nedlægge den gamle (konverterede) enhed.
 
 
-**Flytning af organisationsenheder**
+## Flytning af organisationsenheder
 
 I organisationsmodulet i Kitos kan man redigere kommunens organisationshierarki.
 Her er det muligt at flytte enheder, der er oprettet i Kitos, men man kan ikke flytte
@@ -38,24 +38,37 @@ flytte rundt på enheden. Når du er færdig med omstruktureringen, trykker du p
 <img width="854" height="730" alt="image" src="https://github.com/user-attachments/assets/047039c1-8215-48a9-b7dd-2e6d00167617" />
 
 
-**Redigering og sletning af organisationsenheder**
+## Redigering og sletning af organisationsenheder
+
 I Organisationsmodulet kan man slette organisationsenheder, der er oprettet i Kitos (
 blå enheder), men man kan ikke slette organisationsenheder (grønne enheder), der er
 synkroniseret fra FK Organisation.
-Sletning af en enheden sker ved, at man stiller sig på enheden, trykker dernæst på
-Rediger. Så får man følgende billede:
+Sletning af en enhed sker ved, at man stiller sig på enheden, og dernæst trykker på
+"Rediger enhed". 
 
-BILLEDE 12!!!!
+<img width="2541" height="773" alt="image" src="https://github.com/user-attachments/assets/50358e80-34d5-4a54-852d-489e206959a8" />
 
-Herfra kan man så slette enheden.
-Det er også i dette skærmbillede, at man kan redigere en enhed. Man kan både
-redigere en Kitos enhed (blå) samt organisationsenheder (grønne), der er
+Så får man følgende billede hvor man kan se enhedens registreringer og slette enheden. Før enheden slettes, skal det bekræftes en ekstra gang, se herunder:
+
+<img width="2299" height="1217" alt="image" src="https://github.com/user-attachments/assets/2d57fd5d-d46a-4876-a740-838d30dde254" />
+
+<br>
+
+Det er også i dette skærmbillede, at man kan redigere en enhed. 
+Man kan både redigere en Kitos enhed (blå) samt organisationsenheder (grønne), der er
 synkroniseret fra FK Organisation. Der er dog forskel på, hvor meget man kan
 redigere de 2 typer enheder.
-For en Kitos enhed (blå) kan man redigere følgende data:
- overordnet enhed, enhedens navn, EAN nummer samt enhed ID.
 
-BILLEDE 13!!!!
+For en Kitos enhed (blå) kan man redigere følgende data:
+- Overordnet enhed
+- Enhedens navn
+- EAN nummer
+- Enheds ID.
+
+<br>
+
+<img width="2059" height="1225" alt="image" src="https://github.com/user-attachments/assets/7e553271-43e7-4707-a1a3-9e730b46501c" />
+
 
 I feltet ”Overordnet enhed” kan man med den lille pil i højre side folde
 organisationshierarkiet ud og med farvemarkering se, om der er tale om en Kitos
