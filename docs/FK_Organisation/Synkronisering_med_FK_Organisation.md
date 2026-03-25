@@ -37,7 +37,7 @@ Hvis der er ændringer, sendes en mail til alle Lokal Administratorer med besked
 
 
 <br>
-
+<br>
 Klikker man på linket i mailen, lander man i Kitos, hvor man klikker på **Rediger**.
 
 
@@ -83,7 +83,7 @@ Viser hierarkiet filtreret efter de valgte niveauer.
 
 **Vis konsekvenser**
 <br>
-Denne knap fremviser konsekvenser ved en gennemførsel af en/flere ændringer til organisationen. Klikker du på denne knap, kommer følgende skærmbilelde, hvor du har mulighed for at Godekende eller afvise ændringerne.
+Denne knap fremviser konsekvenser ved en gennemførsel af en/flere ændringer til organisationen. Klikker du på denne knap, kommer følgende skærmbilelde, hvor du har mulighed for at Godkende eller afvise ændringerne.
 
 <img width="1778" height="1108" alt="image" src="https://github.com/user-attachments/assets/30446b9c-c743-4e9d-b283-f2b0fcb0fb96" />
 
