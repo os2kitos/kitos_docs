@@ -36,14 +36,15 @@ Hvis der er ændringer, sendes en mail til alle Lokal Administratorer med besked
 <img width="1217" height="279" alt="image" src="https://github.com/user-attachments/assets/6d208017-d235-4d6a-8694-7dabe26c4333" />
 
 
+<br>
 
 Klikker man på linket i mailen, lander man i Kitos, hvor man klikker på **Rediger**.
 
-<br>
 
 <img width="2444" height="751" alt="image" src="https://github.com/user-attachments/assets/37519c23-b6c7-4eda-b443-ffa31cf02bf4" />
 
-Derefter klikker man på *vis komsekvenser* for at se de registrerede ændringer og til sidst kan man *Godkend ændringer* eler *afvise* de foreslåede opdateringer, inden der eventuelt indlæses data fra FK Organisation. Dette følger samme manuelle godkendelsesprocedure som beskrevet under **Ændringsloggen**.
+
+Derefter klikker man på *vis konsekvenser* for at se de registrerede ændringer og til sidst kan man *Godkend ændringer* eler *afvise* de foreslåede opdateringer, inden der eventuelt indlæses data fra FK Organisation. Dette følger samme manuelle godkendelsesprocedure som beskrevet under **Ændringsloggen**.
 
 ---
 
