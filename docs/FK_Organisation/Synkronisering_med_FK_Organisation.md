@@ -31,13 +31,15 @@ Hvis der er ændringer, sendes en mail til alle Lokal Administratorer med besked
 
 <br>
 
-**Mail fra Kitos ser således ud** 
+*Mail fra Kitos ser således ud*
 
 <img width="1217" height="279" alt="image" src="https://github.com/user-attachments/assets/6d208017-d235-4d6a-8694-7dabe26c4333" />
 
+
+
 Klikker man på linket i mailen, lander man i Kitos, hvor man klikker på **Rediger**.
 
-
+<br>
 Derefter klikker man på **vis komsekvenser** og til sidst **Godkend ændringer**:
 
 <img width="2444" height="751" alt="image" src="https://github.com/user-attachments/assets/37519c23-b6c7-4eda-b443-ffa31cf02bf4" />
