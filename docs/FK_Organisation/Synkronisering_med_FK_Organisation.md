@@ -35,6 +35,7 @@ Hvis der er ændringer, sendes en mail til alle Lokal Administratorer med besked
 
 Klikker man på linket i mailen, lander man i Kitos, hvor man klikker på **Rediger**.
 
+
 Derefter klikker man på **vis komsekvenser** og til sidst **Godkend ændringer**:
 
 <img width="2444" height="751" alt="image" src="https://github.com/user-attachments/assets/37519c23-b6c7-4eda-b443-ffa31cf02bf4" />
