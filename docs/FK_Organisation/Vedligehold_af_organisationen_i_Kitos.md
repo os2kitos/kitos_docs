@@ -1,11 +1,11 @@
 ---
 title: Vedligehold af organisationen i Kitos
 layout: default
-nav_order: 6
+nav_order: 7
 parent: FK Organisation
 ---
 
-# Vedligehold af organisationen i Kitos'
+# Vedligehold af organisationen i Kitos
 
 Hvis kommunen tilslutter Kitos til FK Organisation ændres arbejdsgangen for
 organisationshierarkiet.
@@ -69,72 +69,73 @@ For en Kitos enhed (blå) kan man redigere følgende data:
 - EAN nummer
 - Enheds ID.
 
+For en enhed synkroniseret fra FK Organisation (grøn) kan man redigere følgende
+data:
+- EAN nummer
+- Enhed ID
+(felterne overordnet enhed samt enhedens navn vil være grå og ikke rediger-bare).
+
 <br>
 
 <img width="2059" height="1225" alt="image" src="https://github.com/user-attachments/assets/7e553271-43e7-4707-a1a3-9e730b46501c" />
 
 
+**Ændre overordnet enhed**
 I feltet ”Overordnet enhed” kan man med den lille pil i højre side folde
-organisationshierarkiet ud og med farvemarkering se, om der er tale om en Kitos
-enhed (blå) eller en enhed fra FK Organisation (grøn). På den måde bliver det
-nemmere at vælge en anden overordnet enhed.
-Farvemarkeringen vil dog kun være aktiv såfremt man har begge typer enheder i
-organisationshierarkiet, så man derfor har brug for at kunne skelne.
-For en enhed synkroniseret fra FK Organisation (grøn) kan man redigere følgende
-data:
- EAN nummer samt enhed ID (felterne overordnet enhed samt enhedens navn
-vil være grå og ikke rediger-bare).
+organisationshierarkiet ud og vælge en ny overordnet enhed.
 
-BILLEDE 14!!!!
+<img width="2050" height="620" alt="image" src="https://github.com/user-attachments/assets/198ed15f-ebf2-4ef5-8b03-b0689c857704" />
 
 **Oprettelse af underenhed**
 Det er også muligt at oprette en underenhed for både en Kitos enhed (blå) samt en
-enhed synkroniseret fra FK Organisation (grøn). Igen sker det under Rediger:
+enhed synkroniseret fra FK Organisation (grøn). 
+Det sker via de 3 små prikker i menuen herunder:
 
-BILLEDE 15!!
+<img width="2523" height="560" alt="image" src="https://github.com/user-attachments/assets/a6b1b4a4-189f-4142-bb68-d655cb382311" />
 
+<br>
 Og herefter kan man indtaste data for den nye underenhed:
 
-BILLEDE 16!
+<br>
+<img width="1836" height="851" alt="image" src="https://github.com/user-attachments/assets/582c9fcb-7946-4f97-96e1-549ee330f2da" />
+
+<br>
 
 **Flytning af registreringer fra en organisationsenhed**
 I forbindelse med redigering af organisationshierarkiet kan man flytte registreringer
 fra en enhed til en anden, uafhængig af om det er en Kitos enhed eller en enhed
-synkroniseret fra FK Organisation.
-Det foregår i Rediger:
+synkroniseret fra FK Organisation. Dette er et vigtigt trin inden du evt. sletter en organisationsenhed.
 
-BILLEDE 17!!!
+Det foregår i Rediger enhed som du finder øverst i højre hjørne af skærmen:
 
-Her kan man ved den lille firkant udfor Registreringer folde registreringerne ud, så
-man får vist de registreringer, der er gjort i Kitos for den pågældende
-organisationsenhed. De systemer og/eller kontrakter der er registreringer på, kan
+<img width="2484" height="1207" alt="image" src="https://github.com/user-attachments/assets/1e868c6e-ed31-4c92-8c31-e12a76303ad0" />
+
+<br>
+
+Her kan man først vælge hvem man vil overføre registreringerne til og efterfølgende markere de valgt eller vælge at overføre alle.
+De systemer og/eller kontrakter/DBA/Betalinger der er registreringer på, kan
 man navigere til, da det er aktive links:
 
-BILLEDE 18 !!!!
+<img width="2484" height="1207" alt="image" src="https://github.com/user-attachments/assets/a6223c9a-e42f-443e-ad95-97cf26d0527f" />
+
+<br>
 
 Her har man så mulighed for at vælge enkelte eller alle registreringer ved at sætte
 hak samt vælge hvilken organisationsenhed den eller de registreringer skal overføres
 til.
-I feltet Overfør til kan man trykke på den lille pil i højre side, og med farvekoder få
-vist om enheden er en Kitos enhed (blå) eller en enhed synkroniseret fra FK
-Organisation (grøn) – og igen – farvekoden aktiveres kun, såfremt begge enhedstyper
-findes i hierarkiet:
 
-BILLEDE 19!!!
 
 **Sletning af registreringer fra en organisationsenhed**
 I forbindelse med redigering af organisationshierarkiet kan man slette registreringer
 fra en enhed, uafhængig af om det er en Kitos enhed (blå) eller en enhed
 synkroniseret fra FK Organisation (grøn).
-Det foregår i Rediger:
+Det foregår i samme skærmbillede som overfor, som du finder under knappen Rediger enhed:
 
-BILLEDE 20!!!!
 
-Her kan man ved den lille firkant udfor Registreringer, folde registreringerne ud, så
-man får vist de registreringer, der er gjort i Kitos for den pågældende
-organisationsenhed:
+<img width="2539" height="1208" alt="image" src="https://github.com/user-attachments/assets/d51fcd98-856e-4a8c-b21d-91845230cfd8" />
 
-BILLEDE 21!!!
+<br>
 
 Her har man så mulighed for at vælge enkelte eller alle registreringer ved at sætte
 hak samt trykke på Slet valgte.
+
