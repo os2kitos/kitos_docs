@@ -41,17 +41,17 @@ flytte rundt på enheden. Når du er færdig med omstruktureringen, trykker du p
 "Færdig".
 
 <br>
-
+<p style="margin-bottom:20px;">
 <img width="854" height="730" alt="image" src="https://github.com/user-attachments/assets/047039c1-8215-48a9-b7dd-2e6d00167617" />
-
+<p/>
 <br>
 
 Du flytter enhederne rundt ved at "trække" med musen i de små prikker som fremgår ud fra enhederne:
 
 <br>
-
+<p style="margin-bottom:20px;">
 <img width="618" height="595" alt="image" src="https://github.com/user-attachments/assets/b58f1997-1ac9-44f9-9782-12a62b6d812d" />
-
+<p/>
 <br>
 
 ## Redigering og sletning af organisationsenheder
@@ -66,17 +66,17 @@ Sletning af en enhed sker ved, at man stiller sig på enheden, og dernæst trykk
 "Rediger enhed". 
 
 <br>
-
+<p style="margin-bottom:20px;">
 <img width="2541" height="773" alt="image" src="https://github.com/user-attachments/assets/50358e80-34d5-4a54-852d-489e206959a8" />
-
+<p/>
 <br>
 
 Så får man følgende billede hvor man kan se enhedens registreringer og slette enheden. Før enheden slettes, skal det bekræftes en ekstra gang, se herunder:
 
 <br>
-
+<p style="margin-bottom:20px;">
 <img width="2299" height="1217" alt="image" src="https://github.com/user-attachments/assets/2d57fd5d-d46a-4876-a740-838d30dde254" />
-
+<p/>
 <br>
 
 Det er også i dette skærmbillede, at man kan redigere en enhed. 
@@ -97,9 +97,9 @@ data:
 (felterne overordnet enhed samt enhedens navn vil være grå og ikke rediger-bare).
 
 <br>
-
+<p style="margin-bottom:20px;">
 <img width="2059" height="1225" alt="image" src="https://github.com/user-attachments/assets/7e553271-43e7-4707-a1a3-9e730b46501c" />
-
+<p/>
 
 **Ændre overordnet enhed**
 
@@ -109,8 +109,9 @@ data:
 I feltet ”Overordnet enhed” kan man med den lille pil i højre side folde
 organisationshierarkiet ud og vælge en ny overordnet enhed.
 
+<p style="margin-bottom:20px;">
 <img width="2050" height="620" alt="image" src="https://github.com/user-attachments/assets/198ed15f-ebf2-4ef5-8b03-b0689c857704" />
-
+<p/>
 <br>
 <br>
 
@@ -123,16 +124,17 @@ Det er også muligt at oprette en underenhed for både en Kitos enhed (blå) sam
 enhed synkroniseret fra FK Organisation (grøn). 
 Det sker via de 3 små prikker i menuen herunder:
 
+<p style="margin-bottom:20px;">
 <img width="2523" height="560" alt="image" src="https://github.com/user-attachments/assets/a6b1b4a4-189f-4142-bb68-d655cb382311" />
-
+<p/>
 <br>
 
 Og herefter kan man indtaste data for den nye underenhed:
 
 <br>
-
+<p style="margin-bottom:20px;">
 <img width="1836" height="851" alt="image" src="https://github.com/user-attachments/assets/582c9fcb-7946-4f97-96e1-549ee330f2da" />
-
+<p/>
 <br>
 
 
@@ -147,9 +149,9 @@ synkroniseret fra FK Organisation. Dette er et vigtigt trin inden du evt. slette
 Det foregår i Rediger enhed som du finder øverst i højre hjørne af skærmen:
 
 <br>
-
+<p style="margin-bottom:20px;">
 <img width="2484" height="1207" alt="image" src="https://github.com/user-attachments/assets/1e868c6e-ed31-4c92-8c31-e12a76303ad0" />
-
+<p/>
 <br>
 
 Her kan man først vælge hvem man vil overføre registreringerne til og efterfølgende markere de valgt eller vælge at overføre alle.
@@ -157,9 +159,9 @@ De systemer og/eller kontrakter/DBA/Betalinger der er registreringer på, kan
 man navigere til, da det er aktive links:
 
 <br>
-
+<p style="margin-bottom:20px;">
 <img width="2484" height="1207" alt="image" src="https://github.com/user-attachments/assets/a6223c9a-e42f-443e-ad95-97cf26d0527f" />
-
+<p/>
 <br>
 
 Her har man så mulighed for at vælge enkelte eller alle registreringer ved at sætte
@@ -177,9 +179,9 @@ synkroniseret fra FK Organisation (grøn).
 Det foregår i samme skærmbillede som overfor, som du finder under knappen Rediger enhed:
 
 <br>
-
+<p style="margin-bottom:20px;">
 <img width="2539" height="1208" alt="image" src="https://github.com/user-attachments/assets/d51fcd98-856e-4a8c-b21d-91845230cfd8" />
-
+<p/>
 <br>
 
 Her har man så mulighed for at vælge enkelte eller alle registreringer ved at sætte
