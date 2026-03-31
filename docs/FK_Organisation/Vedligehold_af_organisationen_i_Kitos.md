@@ -27,9 +27,7 @@ omregistrere fra og nedlægge den gamle (konverterede) enhed.
 
 ## Flytning af organisationsenheder
 
-
 <br>
-
 I organisationsmodulet i Kitos kan man redigere kommunens organisationshierarki.
 Her er det muligt at flytte enheder, der er oprettet i Kitos, men man kan ikke flytte
 enheder, der er synkroniseret fra FK Organisation.
@@ -56,9 +54,7 @@ Du flytter enhederne rundt ved at "trække" med musen i de små prikker som frem
 
 ## Redigering og sletning af organisationsenheder
 
-
 <br>
-
 I Organisationsmodulet kan man slette organisationsenheder, der er oprettet i Kitos (
 blå enheder), men man kan ikke slette organisationsenheder (grønne enheder), der er
 synkroniseret fra FK Organisation.
@@ -97,15 +93,13 @@ data:
 (felterne overordnet enhed samt enhedens navn vil være grå og ikke rediger-bare).
 
 <br>
-<p style="margin-bottom:20px;">
+<p style="margin-bottom:60px;">
 <img width="2059" height="1225" alt="image" src="https://github.com/user-attachments/assets/7e553271-43e7-4707-a1a3-9e730b46501c" />
 <p/>
-
+<p/>
+  
 **Ændre overordnet enhed**
-
-
 <br>
-
 I feltet ”Overordnet enhed” kan man med den lille pil i højre side folde
 organisationshierarkiet ud og vælge en ny overordnet enhed.
 
@@ -113,13 +107,10 @@ organisationshierarkiet ud og vælge en ny overordnet enhed.
 <img width="2050" height="620" alt="image" src="https://github.com/user-attachments/assets/198ed15f-ebf2-4ef5-8b03-b0689c857704" />
 <p/>
 <br>
-<br>
 
 
 **Oprettelse af underenhed**
-
 <br>
-
 Det er også muligt at oprette en underenhed for både en Kitos enhed (blå) samt en
 enhed synkroniseret fra FK Organisation (grøn). 
 Det sker via de 3 små prikker i menuen herunder:
@@ -139,9 +130,7 @@ Og herefter kan man indtaste data for den nye underenhed:
 
 
 **Flytning af registreringer fra en organisationsenhed**
-
 <br>
-
 I forbindelse med redigering af organisationshierarkiet kan man flytte registreringer
 fra en enhed til en anden, uafhængig af om det er en Kitos enhed eller en enhed
 synkroniseret fra FK Organisation. Dette er et vigtigt trin inden du evt. sletter en organisationsenhed.
@@ -170,9 +159,7 @@ til.
 
 
 **Sletning af registreringer fra en organisationsenhed**
-
 <br>
-
 I forbindelse med redigering af organisationshierarkiet kan man slette registreringer
 fra en enhed, uafhængig af om det er en Kitos enhed (blå) eller en enhed
 synkroniseret fra FK Organisation (grøn).
