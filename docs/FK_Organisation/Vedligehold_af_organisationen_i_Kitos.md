@@ -100,7 +100,7 @@ data:
   
 **Ændre overordnet enhed**
 <br>
-I feltet ”Overordnet enhed” kan man med den lille pil i højre side folde
+I feltet ”Overordnet enhed” kan man i rullelisten til venstre folde
 organisationshierarkiet ud og vælge en ny overordnet enhed.
 
 <p style="margin-bottom:20px;">
