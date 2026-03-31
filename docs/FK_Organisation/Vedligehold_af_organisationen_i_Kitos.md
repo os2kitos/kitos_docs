@@ -112,6 +112,7 @@ organisationshierarkiet ud og vælge en ny overordnet enhed.
 <img width="2050" height="620" alt="image" src="https://github.com/user-attachments/assets/198ed15f-ebf2-4ef5-8b03-b0689c857704" />
 
 <br>
+<br>
 
 
 **Oprettelse af underenhed**
