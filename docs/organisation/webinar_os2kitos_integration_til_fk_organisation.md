@@ -2,7 +2,7 @@
 title: Webinar om OS2kitos integration til FK Organisation
 layout: default
 nav_order: 3
-parent: Organisation
+parent: FK Organisation
 ---
 Her kan du se et webinar som omhandler integrationen til FK Organisation, hvor der bliver vist hvordan man importere sin organisation til Kitos og evt. foretager efterfølgende ændringer/tilpasninger.
 
