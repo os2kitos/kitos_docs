@@ -12,10 +12,9 @@ Staging-miljøet ved at:
 
 - Logge på som Lokal Administrator i Kitos
 - I kan hernæst tilgå konfigurationssiden ved at navigere til:
-  
-  – Menuen ”Lokal Admin”  
-  – Underpunktet ”Masse opret”  
-  – Sektionen ”FK Organisation”
+  - Menuen ”Lokal Admin”
+  - Underpunktet ”Masse opret”
+  - Sektionen ”FK Organisation”
 
 - Sørg for at I har en godkendt serviceaftale – På samme måde som i Staging-
 miljøet som beskrevet ovenfor
@@ -29,3 +28,5 @@ synkroniserede enheder.
 
 - Nedlæg Kitos-enheder, når der ikke længere er registreringer på dem  
 Se mere om dette i afsnittet vedr. Vedligehold af organisationen i Kitos.
+
+Læs mere om dette under [vedligehold af organisationen](https://os2kitos.github.io/kitos_docs/docs/FK_Organisation/Vedligehold_af_organisationen_i_Kitos.html)
