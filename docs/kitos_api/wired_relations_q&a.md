@@ -4,7 +4,7 @@ layout: default
 nav_order: 3
 parent: Kitos Api
 ---
-Herr kan du se en Q&A på Kitos datasamspil med ISMS systemet WIred Relations.
+Herr kan du se en Q&A på Kitos datasamspil med ISMS systemet Wired Relations.
 Denne opdateres løbende når der er ændringer, kontakt info@kitos.dk for opdateret samspil - Opdateret: 15-02.2025
 
 # KITOS – Q&A
