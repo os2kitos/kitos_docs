@@ -1,5 +1,5 @@
 ---
-title: Kontrakt modulet - Hierarki
+title: Kontrakt Hierarki
 layout: default
 nav_order: 5
 parent: Kontrakt modulet
