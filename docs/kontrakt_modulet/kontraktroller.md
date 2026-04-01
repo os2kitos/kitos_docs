@@ -9,7 +9,7 @@ parent: Kontrakt modulet
 Her tilknyttes personer (Kitos-brugere i din organisation) til forretningsrollen kontraktroller på den pågældende kontrakt.
 Disse kontraktroller kan give skriverettigheder til den pågældende kontrakt, hvis det er en rolle med "SKRIV" rettighed.
 
-Hermed kan en bruger med "læse-rettighed" til kommunenens Kitos, få granularet adgang ned til kun at omfatte en/flere specifikke kontrakter.
+Hermed kan en bruger med "læse-rettighed" til kommunenens Kitos, få granuleret adgang ned til kun at omfatte en/flere specifikke kontrakter.
 
 Det er kommunens "Lokal admin" der styrer, hvilke roller der kan vælges her og hvilke roller der har skriv eller læs.
 
