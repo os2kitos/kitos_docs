@@ -1,5 +1,5 @@
 ---
-title: Kontrakt modulet - Kontraktroller
+title: Kontraktroller
 layout: default
 nav_order: 4
 parent: Kontrakt modulet
