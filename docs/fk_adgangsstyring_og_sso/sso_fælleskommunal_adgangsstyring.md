@@ -44,7 +44,10 @@ Brugerne vil typisk ikke aktivt få besked om, at de har fået tildelt rollen �
 vil blot opleve, at hvis de på Kitos.dk klikker på ’Log ind via Fælleskommunal adgangsstyring", vil
 de få direkte adgang til Kitos.
 <br>
+
 **Hvad sker når brugerne logger ind første gang med SSO**
+<br>
+
 Når brugerne logger ind i Kitos vil deres navn, kontaktoplysninger og organisatoriske tilhørsforhold
 blive registeret. Dette betyder, at Kitos Lokal admin ikke behøver at registrere disse oplysninger i
 Kitos. Hvis en medarbejder har behov for at kunne redigere eller oprette data i Kitos, kan Lokal
