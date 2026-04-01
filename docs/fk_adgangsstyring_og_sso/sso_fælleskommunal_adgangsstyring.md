@@ -7,7 +7,7 @@ parent: FK adgangsstyring og SSO
 Vejledninger til SSO (Single Sign On) via fælleskommunal adgangsstyring.
 
 
-# SSO med Fælleskommunal adgangsstyring – 14.07.23
+# SSO med Fælleskommunal adgangsstyring
 
 ## Baggrund
 Det er blevet meget lettere at give en bred skare af medarbejdere fra kommunen adgang til at kigge
@@ -32,21 +32,24 @@ Det kan være relevant for mange forskellige medarbejdergrupper i kommunen lige 
 foretage et opslag i Kitos. Der kan f.eks. være behov for hurtigt at kunne tjekke, hvem der er
 systemejer for et it-system eller se hvorvidt der er udarbejdet en databehandleraftale for et konkret
 system.
+<br>
 Det er forskelligt fra kommune til kommune, hvordan man i praksis tildeler medarbejdere
 FK rettigheder. I må derfor forhøre jer nærmere hos jeres egen brugeradministrator omkring den
 konkrete opsætning. I Ballerup Kommune (og sikkert også i mange andre kommuner) kan vi tildele
 ’kitos-kigge-adgang’ til konkrete navngivne medarbejdere, til organisatoriske enheder, teams eller
 til alle medarbejdere i kommunen. Hvis I tildeler rollen til overordnede organisatoriske enheder,
 kan I slippe for en masse besvær med at administrere den enkelte medarbejders adgang til Kitos.
+<br>
 Brugerne vil typisk ikke aktivt få besked om, at de har fået tildelt rollen ’kitos-kigge-adgang’. De
 vil blot opleve, at hvis de på Kitos.dk klikker på ’Log ind via Fælleskommunal adgangsstyring", vil
 de få direkte adgang til Kitos.
+<br>
+**Hvad sker når brugerne logger ind første gang med SSO**
 Når brugerne logger ind i Kitos vil deres navn, kontaktoplysninger og organisatoriske tilhørsforhold
 blive registeret. Dette betyder, at Kitos Lokal admin ikke behøver at registrere disse oplysninger i
 Kitos. Hvis en medarbejder har behov for at kunne redigere eller oprette data i Kitos, kan Lokal
-admin nøjes med at tildele den relevante rolle til medarbejderen, der allerede er oprettet i Kitos. På
-Sidst ændret – 13.06.25 - MIOL
-den måde bliver Lokal Admin aflastet uden at miste overblik over, hvilke brugere der har yderligere
+admin nøjes med at tildele den relevante rolle til medarbejderen, der allerede er oprettet i Kitos. 
+På den måde bliver Lokal Admin aflastet uden at miste overblik over, hvilke brugere der har yderligere
 beføjelser i Kitos.
 
 ## Nuværende brugere af Kitos
