@@ -102,11 +102,11 @@ Du får nu et vindue, hvor du kan slette enheden - Se billedet herunder:
 - Tjek at det er den rigtige enhed, du har fat i, inden du sletter
 - Klik på knappen **Slet enhed**
 
-### Bemærk
+### VIGTIGT INDEN SLETNING!!
 Inden du sletter en enhed bør du tjekke, om der er registreringer på enheden, som du evt.
-skal flytte til en anden enhed.
+skal flytte til en anden enhed, så ikke alle disse registreringer går tabt.
 
-På samme vindue fremkommer alle registreringer på organisationsenheden og du kan vælge at flytte disse til en anden enhed - Se beskrivelser vejledningen "Overførsel og sletning på organisationsenhed".
+På samme vindue fremkommer alle registreringer på organisationsenheden og du kan vælge at flytte disse til en anden enhed - Se beskrivelser vejledningen "Overførsel og sletning af registreringer på organisationsenhed".
 
 Benytter du integration til FK Organisation, kan du læse med i vejledningen til integration med FK
 organisation.
