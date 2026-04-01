@@ -9,7 +9,6 @@ parent: Kontrakt modulet
 ## Fanen Advis
 Se særskilt vejledning om advis-funktionen.
 
----
+[Advis](https://os2kitos.github.io/kitos_docs/docs/advis/)
 
-## Referencer
-Se særskilt vejledning om referencer.
+---
