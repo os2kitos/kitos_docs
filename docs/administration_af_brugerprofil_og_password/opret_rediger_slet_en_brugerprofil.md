@@ -7,7 +7,7 @@ parent: Administration af brugerprofil og password
 Vejledning til hvordan du kan oprette, redigere og slette en brugerprofil.
 
 
-# Opret, rediger, slet en brugerprofil - 27.03.25
+# Opret, rediger, slet en brugerprofil
 
 ## Baggrund
 
@@ -15,12 +15,16 @@ For at kunne benytte Kitos, skal man som bruger være oprettet med en brugerprof
 
 Som kommune kan man vælge at oprette brugerprofiler på to forskellige måder:
 
-(1) Via FK Adgangsstyring kan kommunens lokale brugeradministrator tildele medarbejdere rollen
+**(1) Via FK Adgangsstyring** 
+<br>
+Kommunens lokale brugeradministrator kan tildele medarbejdere rollen
 'Kitos kigge adgang'. Med denne rolle kan brugeren logge på Kitos via SSO. Kitos Lokal admin
 skal kun inddrages, hvis brugeren skal have tildelt flere rettigheder og dermed en rolle ekstra i
 Kitos.
 
-(2) Kitos Lokal admin kan manuelt oprette brugere direkte i Kitos, tildele dem den relevante rolle samt
+**(2) Manuelt oprette brugere**
+<br>
+Kitos Lokal admin kan manuelt oprette brugere direkte i Kitos, tildele dem den relevante rolle samt
 brugernavn og password, som anvendes ved log ind.
 
 Det er alene oprettelse af nye brugere, der er forskellig, - redigering og sletning af en brugerprofil
@@ -58,9 +62,9 @@ Kitos, så oplysningerne automatisk bliver registreret.
 
 # (2) Opret ny bruger manuelt og tildel brugernavn og password
 
-· Klik på modulet Organisation  
-· Klik på underpunktet Brugere  
-· Klik på +Opret bruger øverst til højre  
+- Klik på modulet Organisation
+- Klik på underpunktet Brugere
+- Klik på +Opret bruger øverst til højre  
 
 <img width="2562" height="468" alt="opret bruger 1" src="https://github.com/user-attachments/assets/13d5cad0-4160-4131-98d4-3b9198e0ca66" />
 
@@ -70,14 +74,14 @@ Kitos, så oplysningerne automatisk bliver registreret.
 <img width="2516" height="1185" alt="opret bruger 2" src="https://github.com/user-attachments/assets/6a71c0c4-8e3d-4a35-aa2e-b063412fe922" />
 
 
-· Udfyld felterne: E-mail-adresse, Fornavn, Efternavn og Telefon  
-· Hvis brugeren skal tildeles administrator rettighed til et eller flere moduler skal du angive,
-hvilke moduler der skal gives rettighed til under Roller  
-· Du kan også angive, hvilken primær startenhed, brugeren skal møde, når vedkommende
+- Udfyld felterne: E-mail-adresse, Fornavn, Efternavn og Telefon
+- Hvis brugeren skal tildeles administrator rettighed til et eller flere moduler skal du angive,
+hvilke moduler der skal gives rettighed til under Roller
+- Du kan også angive, hvilken primær startenhed, brugeren skal møde, når vedkommende
 logger på Kitos. Brugeren kan dog også selv opdatere dette under "Min Profil"  
-· Klik på knappen Opret bruger og "send advis om ændringer" (så modtager brugeren en e-
+- Klik på knappen Opret bruger og "send advis om ændringer" (så modtager brugeren en e-
 mail med logon-oplysninger)  
-
+<br>
 Hvis brugeren først skal have adgang til Kitos på et senere tidspunkt, skal du kun klikke på Opret
 bruger. Så kan du på et senere tidspunkt sende en advis med logon-oplysninger ved at klikke på
 "Send advis om ændringer"-knappen fra brugeroversigten.
@@ -98,9 +102,9 @@ bruger. Så kan du på et senere tidspunkt sende en advis med logon-oplysninger 
 
 # Slet en brugers profil - uanset hvordan brugeren er oprettet
 
-· Klik på modulet Organisation  
-· Klik på underpunktet Brugere  
-· Klik på "slet" ikon yderst til højre for brugerens navn  
+- Klik på modulet Organisation
+- Klik på underpunktet Brugere
+- Klik på "slet" ikon yderst til højre for brugerens navn  
 
 ## Du får nu en pop-up med brugerens oplysninger.
 
