@@ -6,6 +6,8 @@ parent: FK Organisation
 ---
 
 ## Adgang til funktionaliteten – og test i Staging-miljøet
+<br>
+
 Vi anbefaler, at I tester funktionaliteten af i Kitos’s test-miljø Staging
 https://staging.Kitos.dk, så I bliver fortrolige med det, inden I begynder i
 produktionsmiljøet.
@@ -15,6 +17,7 @@ jeres data i FK Organisation i Staging-miljøet. I skal også sikre jer, at CVR 
 Organisation også er det CVR nr., der er registreret i Kitos.
 Hvis I ikke allerede har en serviceaftale til Staging-miljøet, skal I kontakte
 Sekretariatet for at få det.
+<br>
 Når I er klar, kan I få adgang til funktionaliteten ved at:
 • Logge på som Lokal Administrator i Kitos
 • I kan dernæst tilgå konfigurationssiden ved at navigere til:
