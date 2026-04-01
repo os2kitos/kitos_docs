@@ -1,5 +1,5 @@
   ---
-title: Kontrakt modulet - Aftalefrister og økonomi
+title: Aftalefrister og økonomi
 layout: default
 nav_order: 3
 parent: Kontrakt modulet
