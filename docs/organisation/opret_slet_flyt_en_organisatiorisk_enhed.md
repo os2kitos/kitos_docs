@@ -42,6 +42,22 @@ Du får nu et pop‑up vindue, hvor du kan oprette en underenhed.
 
 Din nye underenhed er nu blevet tilføjet til organisationsfiguren.
 
+
+
+## EAN-nummer på organisationsenhed
+Når man redigere en organisationsenhed kan man tilknytte et EAN-nummer.
+
+
+<img width="290" height="270" alt="image" src="https://github.com/user-attachments/assets/3a2d320c-6967-46bc-9596-c3f6c5cdeab2" />
+
+
+Det har særlig betydning, hvis man anvender økonomifanen i kontraktmodulet.
+
+I økonomifanen under kontraktmodulet får man vist EAN-nummeret når man tilføjer en betaling. Dette EAN kommer her fra
+organisationsmodulet - Herunder skærmprint fra økonomifanen i kontraktmodul.
+<img width="1893" height="786" alt="image" src="https://github.com/user-attachments/assets/9c1abe6d-959b-493b-977b-24bbbb857c3c" />
+
+
 ---
 
 ## Flyt rundt på de forskellige underenheder
@@ -78,7 +94,7 @@ Der vises nu små prikker til højre for enhederne i organisationstræet.
 
 <img width="1907" height="715" alt="image" src="https://github.com/user-attachments/assets/294beefb-5d9a-4d04-b240-a2bfbfc82716" />
 
-
+<br>
 Du får nu et vindue, hvor du kan slette enheden - Se billedet herunder:
 <img width="1583" height="880" alt="image" src="https://github.com/user-attachments/assets/e9efa398-6a71-4b63-9d68-54210648d1fb" />
 
@@ -90,26 +106,9 @@ Du får nu et vindue, hvor du kan slette enheden - Se billedet herunder:
 Inden du sletter en enhed bør du tjekke, om der er registreringer på enheden, som du evt.
 skal flytte til en anden enhed.
 
-På samme vindue fremkommer alle registreringer på organisationsenheden og du kan vælge at flytte disse til en anden enhed - Se beskrivelser i starten af denne vejledning.
+På samme vindue fremkommer alle registreringer på organisationsenheden og du kan vælge at flytte disse til en anden enhed - Se beskrivelser vejledningen "Overførsel og sletning på organisationsenhed".
 
 Benytter du integration til FK Organisation, kan du læse med i vejledningen til integration med FK
 organisation.
 
 ---
-
-## EAN-nummer på organisationsenhed
-Når man redigere en organisationsenhed kan man tilknytte et EAN-nummer.
-
-
-<img width="290" height="270" alt="image" src="https://github.com/user-attachments/assets/3a2d320c-6967-46bc-9596-c3f6c5cdeab2" />
-
-
-
-Det har særlig betydning, hvis man anvender økonomifanen i kontraktmodulet.
-
-I økonomifanen under kontraktmodulet får man vist EAN-nummeret når man tilføjer en betaling. Dette EAN kommer her fra
-organisationsmodulet - Herunder skærmprint fra økonomifanen i kontraktmodul.
-<img width="1893" height="786" alt="image" src="https://github.com/user-attachments/assets/9c1abe6d-959b-493b-977b-24bbbb857c3c" />
-
-
-
