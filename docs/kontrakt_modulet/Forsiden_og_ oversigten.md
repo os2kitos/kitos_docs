@@ -1,5 +1,5 @@
 ---
-title: Kontrakt modulet - Forsiden og oversigten 
+title: Kontraktforsiden og oversigten 
 layout: default
 nav_order: 1
 parent: Kontrakt modulet
