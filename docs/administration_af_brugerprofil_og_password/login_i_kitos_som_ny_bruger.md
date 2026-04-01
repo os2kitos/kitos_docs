@@ -6,7 +6,7 @@ parent: Administration af brugerprofil og password
 ---
 Vejledning til hvordan du logger ind i Kitos som ny bruger
 
-# Login ind i Kitos som ny bruger - 17.10.25
+# Login ind i Kitos som ny bruger
 
 ## Baggrund
 
