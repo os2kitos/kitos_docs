@@ -9,13 +9,11 @@ parent: Kitos Api
 Vejledning til funktionen ISMS Leverandør i Lokal Admin menuen.
 
 
-# 03.11.25 – Kitos PO: miol@balk.dk
-
 ## Indhold
-1. [ISMS-Leverandører i Kitos](#isms-leverandører-i-kitos)
-    - [Supplier begrebet](#supplier-begrebet)
-    - [Udvalgte felter der kan modtages data på pr-031125](#udvalgte-felter-der-kan-modtages-data-på-pr. 031125)
-2. [Vejledning](#vejledning)
+1. ISMS-Leverandører i Kitos
+    - Supplier begrebet
+    - Udvalgte felter der kan modtages data på
+2. Vejledning
     - Hvad skal jeres ISMS-Leverandør gøre?
 
 ---
@@ -94,4 +92,5 @@ Sidste skridt er at kontakte jeres ISMS-Leverandør og fortælle, at I ønsker d
 - ISMS-Leverandøren skal oprette en **API-Bruger** i sin organisation i Kitos.  
     - Det er denne API-bruger, som styrer integrationen for de kommuner, som har valgt den givne ISMS-leverandør i **LOKAL ADMIN-menuen**.
 
-.
+<br> 
+Senest opdateret: 03.11.25 – Kitos PO: miol@balk.dk
