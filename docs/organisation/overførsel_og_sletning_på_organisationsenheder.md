@@ -31,6 +31,7 @@ Herefter åbnes nedenstående vindue
 
 
 **Slette/fjerne registreringer fra en organisationsenhed**
+<br>
 Slet en registrering på din organisationsenhed, ved at udføre følgende handling.
 
 - Marker de systemer hvor en organisationsenhed skal fjernes som ansvarlig eller relevant organisationsenhed.
