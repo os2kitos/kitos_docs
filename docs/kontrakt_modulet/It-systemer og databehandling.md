@@ -1,5 +1,5 @@
 ---
-title: Kontrakt modulet - It-systemer og databehandling 
+title: It-systemer og databehandling 
 layout: default
 nav_order: 2
 parent: Kontrakt modulet
