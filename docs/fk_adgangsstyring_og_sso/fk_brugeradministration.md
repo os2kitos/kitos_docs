@@ -5,11 +5,13 @@ nav_order: 2
 parent: FK adgangsstyring og SSO
 ---
 
-**FK Brugeradministration - supplement til SSO vejledning – 14.07.23**
+**FK Brugeradministration - supplement til SSO vejledning
 
-I Kitos har man mulighed for at logge ind med SSO via FK adgangsstyring. Der er udarbejdet en
-vejledning til Kitos lokal administratorer, som dette dokument er et supplement til.
-Etablering af SSO via FK Adgangsstyring involverer også kommunens FK- og brugeradministrator.
+I Kitos har man mulighed for at logge ind med SSO via FK adgangsstyring.
+
+**Etablering af SSO via FK Adgangsstyring**
+<br>
+Etablering af SSO via FK Adgangsstyring involverer  kommunens FK- og brugeradministrator.
 Kommunen skal godkende en serviceaftale, som STRONGMINDS har leveret. Har kommunen ikke
 fået en serviceaftale, skal I kontakte Kitos sekretariatet, der så bedes STRONGMINDS om at sende
 en aftale. Bemærk, STRONGMINDS vil står som afsender af serviceaftalen.
