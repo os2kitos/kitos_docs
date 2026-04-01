@@ -8,7 +8,6 @@ Vejledning til hvordan du kan gendanne og reset dit password
 
 
 # Reset dit password i Kitos  
-*Dato: 17.10.25*
 
 Følg denne procedure:
 
