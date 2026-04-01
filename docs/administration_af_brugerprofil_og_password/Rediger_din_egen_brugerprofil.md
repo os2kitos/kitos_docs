@@ -6,7 +6,7 @@ parent: Administration af brugerprofil og password
 ---
 Vejledning til hvordan du redigere i din egen brugerprofil
 
-# Rediger din egen brugerprofil – 17.10.25
+# Rediger din egen brugerprofil
 
 ## Baggrund
 
