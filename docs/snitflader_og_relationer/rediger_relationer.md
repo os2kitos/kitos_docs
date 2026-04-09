@@ -5,7 +5,8 @@ nav_order: 4
 parent: Snitflader og relationer
 ---
 
-
+## Rediger eller slet en relation
+<br>
 Når der er behov for at redigere eller slette en relation – herunder hvilken konkret snitflade der indgår i relationen – foretages dette fra menupunktet **Relationer** under anvendersystemet på fanen udgående relationer.
 <br>
 <br>
