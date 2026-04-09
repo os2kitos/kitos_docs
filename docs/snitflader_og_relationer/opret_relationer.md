@@ -11,7 +11,7 @@ En relation har derfor et lokalt "udgående" (udstiller) system og et lokalt ”
 
 **Udgående relation**
 <br>
-Her vises de relationer, hvor dette system anvender snitflader fra andre systemer.
+Her fremgår de relationer, hvor dette system kalder eller benytter snitflader, som udstilles af andre it-systemer.
 Det vil sige, at dette system er forbruger/anvender, og de relaterede systemer er udstillere af snitflader.
 En relation redigeres udelukkende på ”anvender” siden under fanen udgående relationer.
 I nedenstående eksempel har vi oprettet en relation inde på anvender-systemet "3manager" på en snitflade fra "kommunernes sygedagpengesystem" og derfor redigeres relationen her på anvendersiden, her under anvender-systemet "3manager".
@@ -24,7 +24,7 @@ I nedenstående eksempel har vi oprettet en relation inde på anvender-systemet 
 **Indgående relation**
 <br>
 Herunder ses fanen "Indgående relationer".
-Her vises de relationer, hvor andre systemer anvender snitflader, som udstilles af dette system.
+Her fremgår de relationer, hvor dette system fungerer som udstiller af snitflader, der anvendes af andre it-systemer.
 Det vil sige, at dette system er udstiller, og de relaterede systemer er forbrugere/anvendere.
 I nedenstående eksempel vises at anvender-systemet "Kitos testsystem 1, anvender 3manager og 3manager snitfladen "test 3manager" i deres relationer og derfor skal disse relationer redigeres i anvendersystemet "Kitos testsystem 1".
 <br>
