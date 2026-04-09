@@ -18,8 +18,10 @@ Begrebet **relationer** anvendes i KITOS til at beskrive, hvordan to lokale IT-s
 <br>
 <br>
 
+<div style="margin-bottom: 2rem;">
 <img width="1961" height="983" alt="image" src="https://github.com/user-attachments/assets/c3a36144-1ef6-4c06-be77-835594b720ca" />
-
+<div/>
+  
 En relation består altid af:
 - et lokalt **udstillersystem**
 - et lokalt **anvendersystem**
