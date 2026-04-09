@@ -61,12 +61,19 @@ Alle snitflader er altid knyttet til et udstillersystem. Snitfladerne kan derfor
 - registreringen af det udstillende IT-system i IT-systemkataloget
 - menupunktet for det pågældende IT-system, når systemet er taget i anvendelse i kommunen
 
-### Visning i KITOS
+## Vis udstillet snitflader fra et givent system.
 
 **I IT-systemkataloget**
 - Vælg IT-system
 - Gå til fanen **Udstillede snitflader**
+<br>
+<img width="1891" height="542" alt="image" src="https://github.com/user-attachments/assets/487be27a-820e-4b65-8c0a-a92cdaf3efd2" />
+
+<br>
 
 **Under systemer i anvendelse i kommunen**
 - Vælg IT-system
 - Gå til fanen **Udstillede snitflader**
+
+- <img width="1864" height="644" alt="image" src="https://github.com/user-attachments/assets/bd53dc61-d013-4552-8dc3-8a4ddece316d" />
+
