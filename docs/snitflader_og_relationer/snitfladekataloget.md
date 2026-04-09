@@ -67,8 +67,9 @@ Alle snitflader er altid knyttet til et udstillersystem. Snitfladerne kan derfor
 - Vælg IT-system
 - Gå til fanen **Udstillede snitflader**
 <br>
+<div style="margin-bottom: 3rem;">
 <img width="1891" height="542" alt="image" src="https://github.com/user-attachments/assets/487be27a-820e-4b65-8c0a-a92cdaf3efd2" />
-
+<div/>
 <br>
 
 **Under systemer i anvendelse i kommunen**
