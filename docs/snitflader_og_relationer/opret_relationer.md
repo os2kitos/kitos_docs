@@ -9,7 +9,7 @@ parent: Snitflader og relationer
 Begrebet ”relationer” bliver i Kitos brugt til at beskrive hvordan to lokale IT-systemer er relateret til hinanden.
 En relation har derfor et lokalt "udgående" (udstiller) system og et lokalt ”indgående" (anvender) system.  
 
-**Udgående relation**
+## Udgående relation
 <br>
 Her fremgår de relationer, hvor dette system kalder eller benytter snitflader, som udstilles af andre it-systemer.
 Det vil sige, at dette system er forbruger/anvender, og de relaterede systemer er udstillere af snitflader.
@@ -21,7 +21,7 @@ I nedenstående eksempel har vi oprettet en relation inde på anvender-systemet 
 </div>
 <br>
 
-**Indgående relation**
+## Indgående relation
 <br>
 Herunder ses fanen "Indgående relationer".
 Her fremgår de relationer, hvor dette system fungerer som udstiller af snitflader, der anvendes af andre it-systemer.
@@ -34,7 +34,7 @@ I nedenstående eksempel vises at anvender-systemet "Kitos testsystem 1, anvende
 </div>
 <br>
 
-**Opret udgående relation**
+## Opret udgående relation
 <br>
 Relationer mellem IT-systemer oprettes af den enkelte kommune. Både det udstillende og det anvendende IT-system skal være taget i anvendelse i din kommune, før der kan oprettes relationer.
 
@@ -43,40 +43,44 @@ Relationer oprettes fra menupunktet ’Relationer’ under IT-systemer i anvende
 
 Når man klikker på knappen ’Opret relation’ møder man følgende dialogboks:
 <br>
+<br>
 
-<div style="margin-bottom: 2rem;">
+
+<div style="margin-bottom: 3rem;">
 <img width="1276" height="868" alt="image" src="https://github.com/user-attachments/assets/46f41de6-656e-46fb-a6e1-0acde279ff76" />
 </div>
 
-**Feltet "Søg efter system" (udstiller-system)\***
+<br>
 
+
+- **Feltet "Søg efter system" (udstiller-system)** <br>
 Her er det muligt at fremsøge IT-systemer, som man ønsker at oprette en relation til. Den enkelte kommune
 kan kun oprette relationer til systemer, som de har i anvendelse. Feltet er obligatorisk at anvende.
+<br>
 
-**Feltet Vælg Snitflade**
-
+- **Feltet Vælg Snitflade** <br>
 Det er muligt at fremsøge og markere hvilken konkret snitflade, der anvendes i relationen. Der kan søges
 blandt de snitflader, som er registreret på det valgte udstillersystem.
-
 Hvis relationen f.eks. oprettes til Serviceplatformen, vil det være muligt at vælge snitflade blandt de mange
-snitflader fra Serviceplatformen, som er oprettet i Kitos. Vær opmærksom på, at tage den rigtige snitflade i
-anvendelse. Nogle snitflader ligner hinanden til forveksling.
+snitflader fra Serviceplatformen, som er oprettet i Kitos. 
+<br>
 
-**Feltet Beskrivelse**
-
+- **Feltet Beskrivelse** <br>
 Det er muligt at tilføje en beskrivelse til relationen.
+<br>
 
-**Feltet Reference**
+- **Feltet Reference** <br>
+Det er muligt at indsætte en reference/link til beskrivelsen af snitfladen.
+<br>
 
-Det er muligt at indsætte en reference. Referencer skal starte med http/https.
+- **Feltet Vælg kontrakt** <br>
+Det er muligt at fremsøge og markere en kontrakt med betydning for relationen. Alle lokale registrerede kontrakter i kontraktmodulet kan fremsøges her.
+<br>
 
-**Feltet Vælg kontrakt**
+- **Feltet Frekvens** <br>
+Det er muligt at fremsøge og vælge med hvilken frekvens, IT-systemerne ”taler” sammen. 
+<br>
 
-Det er muligt at fremsøge og markere en kontrakt med betydning for relationen.
-
-**Feltet Frekvens**
-
-Det er muligt at fremsøge og vælge med hvilken frekvens, IT-systemerne ”taler” sammen. Når felterne er
-udfyldt, klikkes ’Gem’ og relationen er oprettet.
+Når felterne erudfyldt, klikkes **’Gem’** og relationen er oprettet.
 
 
