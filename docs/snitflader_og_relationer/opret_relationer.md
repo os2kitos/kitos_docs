@@ -7,28 +7,76 @@ parent: Snitflader og relationer
 
 
 Begrebet ”relationer” bliver i Kitos brugt til at beskrive hvordan to lokale IT-systemer er relateret til hinanden.
+En relation har derfor et lokalt "udgående" (udstiller) system og et lokalt ”indgående" (anvender) system.  
 
-En relation har derfor et lokalt "udgående" (udstiller) system og et lokalt ”indgående" (anvender) system. En relation redigeres udelukkende
-på ”anvender” siden under fanen udgående relationer - ser herunder: 
+**Udgående relation**
+<br>
+Her vises de relationer, hvor dette system anvender snitflader fra andre systemer.
+Det vil sige, at dette system er forbruger, og de relaterede systemer er udstillere af snitflader.
+En relation redigeres udelukkende på ”anvender” siden under fanen udgående relationer.
+I nedenstående eksempel har vi oprettet en relation inde på anvender-systemet "3manager" på en snitflade fra "kommunernes sygedagpengesystem" og derfor redigeres relationen her på anvendersiden, her under anvender-systemet "3manager".
+<br>
+<div style="margin-bottom: 2rem;">
+<img width="2282" height="712" alt="image" src="https://github.com/user-attachments/assets/48a56b79-72c8-4f61-ba95-6b32bd2ea9c2" />
+</div>
 <br>
 
-<img width="2268" height="771" alt="image" src="https://github.com/user-attachments/assets/f1b8f20a-9837-4a19-ae9d-eedfdb2b59a5" />
+**Indgående relation**
 <br>
-
-I dette eksempel anvender 3manager en snitflade fra kommunernes sygedagpengesystem og derfor redigeres relationen på anvendersiden, her under systemet 3manager.
-
 Herunder ses fanen "Indgående relationer".
-Her vises andre systemer som anvender 3manager i deres relationer og derfor skal disse relationer redigeres i anvendersystemet "Kitos testsystem 1".
+Her vises de relationer, hvor andre systemer anvender snitflader, som udstilles af dette system.
+Det vil sige, at dette system er udstiller, og de relaterede systemer er forbrugere/anvendere.
+I nedenstående eksempel vises at anvender-systemet "Kitos testsystem 1, anvender 3manager og 3manager snitfladen "test 3manager" i deres relationer og derfor skal disse relationer redigeres i anvendersystemet "Kitos testsystem 1".
+<br>
+<div style="margin-bottom: 2rem;">
+<img width="2161" height="659" alt="image" src="https://github.com/user-attachments/assets/f8ad7f03-6157-44b4-85d9-6bf9390bb208" />
+
+</div>
 <br>
 
-<img width="2200" height="750" alt="image" src="https://github.com/user-attachments/assets/c40a8141-67ea-4be1-8a6d-fca58a8c2467" />
-
+**Opret udgående relation**
 <br>
-
-Relationer mellem IT-systemer oprettes af den enkelte kommune. Både det udstillende og det anvendende
-IT-system skal være taget i anvendelse i din kommune, før der kan oprettes relationer.
+Relationer mellem IT-systemer oprettes af den enkelte kommune. Både det udstillende og det anvendende IT-system skal være taget i anvendelse i din kommune, før der kan oprettes relationer.
 
 Relationer oprettes fra menupunktet ’Relationer’ under IT-systemer i anvendelse, ved at klikke på knappen
-’Opret relation’:
+"Opret relation":
 
 Når man klikker på knappen ’Opret relation’ møder man følgende dialogboks:
+<br>
+
+<div style="margin-bottom: 2rem;">
+<img width="1276" height="868" alt="image" src="https://github.com/user-attachments/assets/46f41de6-656e-46fb-a6e1-0acde279ff76" />
+</div>
+
+**Feltet "Søg efter system" (udstiller-system)\***
+
+Her er det muligt at fremsøge IT-systemer, som man ønsker at oprette en relation til. Den enkelte kommune
+kan kun oprette relationer til systemer, som de har i anvendelse. Feltet er obligatorisk at anvende.
+
+**Feltet Vælg Snitflade**
+
+Det er muligt at fremsøge og markere hvilken konkret snitflade, der anvendes i relationen. Der kan søges
+blandt de snitflader, som er registreret på det valgte udstillersystem.
+
+Hvis relationen f.eks. oprettes til Serviceplatformen, vil det være muligt at vælge snitflade blandt de mange
+snitflader fra Serviceplatformen, som er oprettet i Kitos. Vær opmærksom på, at tage den rigtige snitflade i
+anvendelse. Nogle snitflader ligner hinanden til forveksling.
+
+**Feltet Beskrivelse**
+
+Det er muligt at tilføje en beskrivelse til relationen.
+
+**Feltet Reference**
+
+Det er muligt at indsætte en reference. Referencer skal starte med http/https.
+
+**Feltet Vælg kontrakt**
+
+Det er muligt at fremsøge og markere en kontrakt med betydning for relationen.
+
+**Feltet Frekvens**
+
+Det er muligt at fremsøge og vælge med hvilken frekvens, IT-systemerne ”taler” sammen. Når felterne er
+udfyldt, klikkes ’Gem’ og relationen er oprettet.
+
+
