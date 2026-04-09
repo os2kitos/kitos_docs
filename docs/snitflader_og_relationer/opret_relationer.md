@@ -39,7 +39,12 @@ I nedenstående eksempel vises at anvender-systemet "Kitos testsystem 1, anvende
 Relationer mellem IT-systemer oprettes af den enkelte kommune. Både det udstillende og det anvendende IT-system skal være taget i anvendelse i din kommune, før der kan oprettes relationer.
 
 Relationer oprettes fra menupunktet ’Relationer’ under IT-systemer i anvendelse, ved at klikke på knappen
-"Opret relation":
+"Opret relation"
+<br>
+<div style="margin-bottom: 3rem;">
+<img width="1854" height="896" alt="image" src="https://github.com/user-attachments/assets/f6a0e63b-7a7e-4ed0-a5f1-7ad448b84d8b" />
+
+</div>
 
 Når man klikker på knappen ’Opret relation’ møder man følgende dialogboks:
 <br>
