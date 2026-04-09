@@ -6,9 +6,9 @@ parent: Snitflader og relationer
 ---
 
 
-## 1. Relationer og snitflader mellem IT-systemer
+## Relationer og snitflader mellem IT-systemer
 
-### 1.1 Baggrund
+### Baggrund
 
 Det kan være relevant at skabe overblik over hvilke IT-systemer, der er afhængige af hinanden, f.eks. ved at  
 det ene system trækker data fra det andet. Dette kan f.eks. være relevant, hvis man ønsker at arbejde  
@@ -18,7 +18,7 @@ konsekvenser det vil have at udfase et specifikt it-system.
 I Kitos kan man registrere afhængigheder mellem IT-systemer ved at oprette relationer mellem dem evt. med  
 en tilføjelse af hvilken snitflade, relationen virker igennem.
 
-### 1.2 Definition af relationer og snitflader
+### Definition af relationer og snitflader
 
 Objekterne **Relationer** og **Snitflader** er knyttet til objektet it-system og bruges til at beskrive sammenhænge  
 mellem IT-systemer:
