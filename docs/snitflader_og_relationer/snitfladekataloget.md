@@ -60,10 +60,10 @@ Denne information fremgår også af Excel-udtrækket.
 
 
 Alle snitflader er altid knyttet til et udstillersystem. Snitfladerne kan derfor også ses som en del af:
-- registreringen af det udstillende IT-system i IT-systemkataloget
-- menupunktet for det pågældende IT-system, når systemet er taget i anvendelse i kommunen
+- Registreringen af det udstillende IT-system i IT-systemkataloget
+- Menupunktet for det pågældende IT-system, når systemet er taget i anvendelse i kommunen
 
-## Vis udstillet snitflader fra et givent system.
+## Vis udstillede snitflader fra et givent system.
 
 **I IT-systemkataloget**
 - Vælg IT-system
