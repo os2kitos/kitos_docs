@@ -12,7 +12,7 @@ En relation har derfor et lokalt "udgående" (udstiller) system og et lokalt ”
 ## Udgående relation
 <br>
 Her fremgår de relationer, hvor dette system kalder eller benytter snitflader, som udstilles af andre it-systemer.
-Det vil sige, at dette system er forbruger/anvender, og de relaterede systemer er udstillere af snitflader.
+Det vil sige, at systemet er forbruger/anvender, og de relaterede systemer er udstillere af snitflader.
 En relation redigeres udelukkende på ”anvender” siden under fanen udgående relationer.
 I nedenstående eksempel har vi oprettet en relation inde på anvender-systemet "3manager" på en snitflade fra "kommunernes sygedagpengesystem" og derfor redigeres relationen her på anvendersiden, her under anvender-systemet "3manager".
 <br>
