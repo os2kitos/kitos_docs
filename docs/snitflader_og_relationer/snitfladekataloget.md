@@ -46,7 +46,7 @@ Lokale snitflader oprettes ved at g√• til menuen snitfladekataloget og trykke p√
 
 ---
 
-## 3.3 Snitfladeoverblikket
+## Snitfladeoverblikket
 
 Alle oprettede snitflader i KITOS findes i snitfladekataloget.
 
