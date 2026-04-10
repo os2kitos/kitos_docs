@@ -16,6 +16,7 @@ Det vil sige, at dette system er forbruger/anvender, og de relaterede systemer e
 En relation redigeres udelukkende på ”anvender” siden under fanen udgående relationer.
 I nedenstående eksempel har vi oprettet en relation inde på anvender-systemet "3manager" på en snitflade fra "kommunernes sygedagpengesystem" og derfor redigeres relationen her på anvendersiden, her under anvender-systemet "3manager".
 <br>
+<br>
 <div style="margin-bottom: 2rem;">
 <img width="2282" height="712" alt="image" src="https://github.com/user-attachments/assets/48a56b79-72c8-4f61-ba95-6b32bd2ea9c2" />
 </div>
@@ -27,6 +28,7 @@ Herunder ses fanen "Indgående relationer".
 Her fremgår de relationer, hvor dette system fungerer som udstiller af snitflader, der anvendes af andre it-systemer.
 Det vil sige, at dette system er udstiller, og de relaterede systemer er forbrugere/anvendere.
 I nedenstående eksempel vises at anvender-systemet "Kitos testsystem 1, anvender 3manager og 3manager snitfladen "test 3manager" i deres relationer og derfor skal disse relationer redigeres i anvendersystemet "Kitos testsystem 1".
+<br>
 <br>
 <div style="margin-bottom: 2rem;">
 <img width="2161" height="659" alt="image" src="https://github.com/user-attachments/assets/f8ad7f03-6157-44b4-85d9-6bf9390bb208" />
@@ -40,6 +42,7 @@ Relationer mellem IT-systemer oprettes af den enkelte kommune. Både det udstill
 
 Relationer oprettes fra menupunktet ’Relationer’ under IT-systemer i anvendelse, ved at klikke på knappen
 "Opret relation"
+<br>
 <br>
 <div style="margin-bottom: 3rem;">
 <img width="1854" height="896" alt="image" src="https://github.com/user-attachments/assets/f6a0e63b-7a7e-4ed0-a5f1-7ad448b84d8b" />
@@ -94,14 +97,16 @@ Når felterne er udfyldt, klikkes **’Gem’** og relationen er oprettet.
 
 Det er muligt at fremsøge en snitflade enten på navn eller via snitfladens ID og du kan bulkvælge snitflader ved at markere flere ad gangen.
 <br>
+<br>
 <img width="766" height="815" alt="image" src="https://github.com/user-attachments/assets/c635471a-dec9-4d69-b337-ed3847b1755d" />
 
 ## Fremsøgning af snitflade ID i snitfladekataloget
-
+<br>
 I snitfladekataloget findes en snitflades ID, som forhindrer muligheden for at anvende dubletter.
 Det er fra snitfladekataloget der fremsøges, når der dannes relationer mellem systemer via snitflader.
 Det er også her en snitflades "udstiller" system findes.
-
+<br>
+<br>
 <img width="2532" height="571" alt="image" src="https://github.com/user-attachments/assets/c449db40-0a6a-40c4-9340-1ccca0e2d9b2" />
 
 <br>
