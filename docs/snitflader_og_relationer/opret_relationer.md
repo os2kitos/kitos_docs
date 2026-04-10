@@ -36,6 +36,16 @@ I nedenstående eksempel vises at anvender-systemet "Kitos testsystem 1, anvende
 </div>
 <br>
 
+### Udstillede snitflader
+
+På fanen "Udstillet snitflader" oplistes systemets udstillede snitflader
+<br> I eksemplet her ses 3managers udstillede snitflade, som er anvendt i eksemplet ovenfor, nemlig "test 3manager"
+<br>
+
+<img width="2208" height="658" alt="image" src="https://github.com/user-attachments/assets/759b37e0-2c73-4418-a65b-63af59a569ac" />
+
+<br>
+
 ## Opret udgående relation
 <br>
 Relationer mellem IT-systemer oprettes af den enkelte kommune. Både det udstillende og det anvendende IT-system skal være taget i anvendelse i din kommune, før der kan oprettes relationer.
@@ -95,7 +105,8 @@ Når felterne er udfyldt, klikkes **’Gem’** og relationen er oprettet.
 
 ## Fremsøgning af snitflader
 
-Det er muligt at fremsøge en snitflade enten på navn eller via snitfladens ID og du kan bulkvælge snitflader ved at markere flere ad gangen.
+- Det er muligt at fremsøge en snitflade enten på navn eller via snitfladens ID
+- Man kan bulkvælge snitflader ved at markere flere ad gangen
 <br>
 <br>
 <img width="766" height="815" alt="image" src="https://github.com/user-attachments/assets/c635471a-dec9-4d69-b337-ed3847b1755d" />
@@ -106,7 +117,6 @@ I snitfladekataloget findes en snitflades ID, som forhindrer muligheden for at a
 Det er fra snitfladekataloget der fremsøges, når der dannes relationer mellem systemer via snitflader.
 Det er også her en snitflades "udstiller" system findes.
 <br>
-<br>
 <img width="2532" height="571" alt="image" src="https://github.com/user-attachments/assets/c449db40-0a6a-40c4-9340-1ccca0e2d9b2" />
 
 <br>
@@ -116,10 +126,13 @@ Det er også her en snitflades "udstiller" system findes.
 
 Det er  muligt at sortere i relations fanen, så man bedre kan danne et overblik over sine relationer.
 Dette gælder på fanen ”udgående relationer” og ”indkommende relationer”.
-Klik blot på overskrifterne her markeret med en grøn pil og der sorteres i tabellerne efter alfabetisk rækkefølge.
-Det er også muligt vælge frekvens eller søge i alle rækker og på den måde foretage en manuel sortering.
-Der kan anvendes multiple filter ad gangen.
 
+- Klik blot på overskrifterne her markeret med en grøn pil og der sorteres i tabellerne efter alfabetisk rækkefølge.
+- Det er også muligt at vælge frekvens
+- Eller søge i alle rækker og på den måde foretage en manuel sortering.
+
+Der kan anvendes multiple filter ad gangen.
+<br>
 <br>
 
 <img width="1828" height="685" alt="image" src="https://github.com/user-attachments/assets/99de67ea-b331-44a2-b796-a12711795b01" />
