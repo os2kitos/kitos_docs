@@ -15,8 +15,7 @@ det ene system trækker data fra det andet. Dette kan f.eks. være relevant, hvi
 strategisk med, hvor ens systemer henter CPR- eller andre grunddata fra. Eller hvis man vil se, hvilke  
 konsekvenser det vil have at udfase et specifikt it-system.
 
-I Kitos kan man registrere afhængigheder mellem IT-systemer ved at oprette relationer mellem dem evt. med  
-en tilføjelse af hvilken snitflade, relationen virker igennem.
+I Kitos kan man registrere afhængigheder mellem IT-systemer ved at oprette relationer mellem dem evt. med en tilføjelse af hvilken snitflade, relationen virker igennem.
 
 ### Definition af relationer og snitflader
 
