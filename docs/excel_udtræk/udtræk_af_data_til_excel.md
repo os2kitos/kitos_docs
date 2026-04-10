@@ -8,4 +8,4 @@ parent: Excel udtræk
 Her kan du se en vejledning til hvordan du eksporter en rapport fra Kitos til Excel.
 
 
-https://info.kitos.dk/s/6StBcXbQRP55Fr5
+### Disse vejledninger er under udarbejdelse - Find de gamle vejledninger her: https://info.kitos.dk/s/6StBcXbQRP55Fr5
