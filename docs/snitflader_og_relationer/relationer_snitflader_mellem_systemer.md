@@ -28,7 +28,8 @@ Objekterne **Relationer** og **Snitflader** er knyttet til objektet **IT-system*
   - Udstillersystemet vil typisk udstille data, service eller funktionaliteten i en snitflade, hvorved  
     relationen går til snitfladen for udstillersystemet. Snitfladen kan knyttes som egenskab på  
     relationen, og en relation kan således have 0 eller 1 snitflade tilknyttet.
-
+<br
+  
 - **Snitflade**
   - En snitflade er en måde at binde to IT-systemer sammen. Ofte udgør en snitflade en måde,  
     hvorpå et IT-system udstiller data, som andre IT-systemer kan anvende. IT-systemet  
