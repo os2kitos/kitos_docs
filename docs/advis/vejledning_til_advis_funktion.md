@@ -7,4 +7,4 @@ parent: Advis
  
 Her kan du se en vejledning til advis funktionen i OS2Kitos.
 
-https://info.kitos.dk/s/ktAWzakLTNWfrZk
+### Denne vejledning er under udarbejdelse - Find den gamle vejledning her: https://info.kitos.dk/s/ktAWzakLTNWfrZk
