@@ -19,8 +19,7 @@ I Kitos kan man registrere afhængigheder mellem IT-systemer ved at oprette rela
 
 ### Definition af relationer og snitflader
 
-Objekterne **Relationer** og **Snitflader** er knyttet til objektet **IT-system** og bruges til at beskrive sammenhænge  
-mellem IT-systemer:
+Objekterne **Relationer** og **Snitflader** er knyttet til objektet **IT-system** og bruges til at beskrive sammenhænge mellem IT-systemer:
 
 - **Relation**
   - En relation beskriver en sammenhæng mellem to (og kun to) specifikke IT-systemer – et  
