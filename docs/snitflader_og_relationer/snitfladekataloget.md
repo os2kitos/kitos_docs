@@ -6,19 +6,19 @@ parent: Snitflader og relationer
 ---
 
 
-## Oprettelse af fælles offentlige snitflader
+## Opret fælles offentlige snitflader
 
 Hvis du ikke kan fremsøge en konkret snitflade, som du har kendskab til, kan det skyldes, at snitfladen endnu ikke er oprettet i KITOS.
 
 Du kan anmode KITOS-sekretariatet om at oprette en ny fælles offentlig snitflade ved at:
-- udfylde skabelonen til indberetning af en snitflade, og
-- sende den til KITOS-sekretariatet.
+- Udfylde skabelonen til indberetning af en snitflade
+- Send den til KITOS-sekretariatet
 
 For at kunne etablere en relation til en snitflade kræves det, at:
-- snitfladen er oprettet i snitfladekataloget, og
-- snitfladen har et udstillersystem tilknyttet.
+- Snitfladen er oprettet i snitfladekataloget
+- Snitfladen har et udstillersystem tilknyttet
 
-Udstillersystemet skal desuden være taget i anvendelse i din kommune, før du kan oprette en relation til snitfladen.
+Udstillersystemet skal være taget i anvendelse i din kommune, før du kan oprette en relation til snitfladen.
 
 I dette eksempel oprettes snitfladen **Mikael testsnitflade**, som udstilles af **Mikael-Test-System**.
 <br>
@@ -27,13 +27,15 @@ I dette eksempel oprettes snitfladen **Mikael testsnitflade**, som udstilles af 
 
 ---
 
-## Lokale snitflader
+## Opret lokale snitflader
 
 Er der tale om en lokal snitflade, kan den lokale administrator selv oprette og slette snitfladen.
 <br>
-Lokale snitflader:
-- kan kun benyttes og ses af den kommune, der har oprettet dem
-- er kun synlige i snitfladekataloget for den pågældende kommune
+
+**Lokale snitflader:**
+
+- Kan kun benyttes og ses af den kommune, der har oprettet dem
+- Er kun synlige i snitfladekataloget for den pågældende kommune
 <br>
 Lokale snitflader oprettes ved at gå til menuen snitfladekataloget og trykke på "Opret".
 <br>
