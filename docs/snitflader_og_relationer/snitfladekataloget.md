@@ -52,8 +52,10 @@ Alle oprettede snitflader i KITOS findes i snitfladekataloget.
 
 Det er muligt at se, hvor mange snitflader et IT-system udstiller ved at fremsøge systemet i snitfladekataloget.  
 I kolonnen **"Snitfladen anvendes af"** kan du se, hvor mange kommuner der anvender snitfladen. Ved at klikke på tallet vises yderligere information om, hvilke kommuner der anvender snitfladen.
-
 Denne information fremgår også af Excel-udtrækket.
+<br>
+
+Ved klik på en snitflade i kolonneoverblikket, åbnes der yderligere stamdata omkring snitfladen.
 <br>
 <br>
 <img width="1890" height="450" alt="image" src="https://github.com/user-attachments/assets/c1c4ffa8-424e-4a14-aaa0-5d9a82131180" />
