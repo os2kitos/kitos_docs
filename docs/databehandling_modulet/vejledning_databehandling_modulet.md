@@ -6,3 +6,5 @@ parent: Databehandling modulet
 ---
  
 Her kan du se en vejledning til hvordan du kommer igang med intrgrationen til FK Organisation
+
+### Disse vejledninger er under udarbejdelse - Find de gamle vejledninger her: https://info.kitos.dk/s/BkofJnHmSGcFLCq
