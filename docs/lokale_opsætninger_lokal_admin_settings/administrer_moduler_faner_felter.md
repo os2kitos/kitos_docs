@@ -6,3 +6,5 @@ parent: Lokale opsætninger og lokal admin settings
 ---
  
 Her følger en vejledning til hvordan man til og fravælger moduler, faner og felter mv.
+
+### Denne vejledning er under udarbejdelse, find den gamle vejledning her: https://info.kitos.dk/s/PeSrQdjTkdnAqW9
