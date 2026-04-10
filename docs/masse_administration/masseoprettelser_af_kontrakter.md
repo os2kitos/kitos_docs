@@ -6,3 +6,5 @@ parent: Masse administration / bulk oprettelser
 ---
  
 Her kan du se en vejledning til hvordan man opretter flere kontrakter ad gangen.
+
+### Denne vejledning er under udarbejdelse, se den gamle vejledning her: https://info.kitos.dk/s/iYsfAAnw64emfFH
