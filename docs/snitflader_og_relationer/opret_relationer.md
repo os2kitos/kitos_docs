@@ -26,7 +26,7 @@ I nedenstående eksempel har vi oprettet en relation inde på anvender-systemet 
 <br>
 Herunder ses fanen "Indgående relationer".
 Her fremgår de relationer, hvor systemet fungerer som udstiller af snitflader, der anvendes af andre it-systemer.
-Det vil sige, at dette system er udstiller, og de relaterede systemer er forbrugere/anvendere.
+Det vil sige, at systemet er udstiller, og de relaterede systemer er forbrugere/anvendere.
 I nedenstående eksempel vises at anvender-systemet "Kitos testsystem 1, anvender 3manager og 3manager snitfladen "test 3manager" i deres relationer og derfor skal disse relationer redigeres i anvendersystemet "Kitos testsystem 1".
 <br>
 <br>
