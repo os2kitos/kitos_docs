@@ -4,6 +4,7 @@ layout: default
 nav_order: 3
 parent: System modulet
 ---
+## VEJLEDNING UNDER UDARBEJDELSE - Find den gamle vejledning her: https://info.kitos.dk/s/5BHfKY6G32x7koq
 
 # Det lokale systemoverblik
 
