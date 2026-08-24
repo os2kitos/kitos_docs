@@ -56,30 +56,6 @@ Du får nu et skærmbillede med en række felter, som du skal udfylde.
 <img width="926" height="905" alt="image" src="https://github.com/user-attachments/assets/6ba989d3-6917-47ad-b9b2-384778fb0b14" />
 
 
-## Valg af modtager - roller eller personer?
-
-Der skelnes mellem at sende advis til roller eller til personer via e-mail. Den sikreste måde er at sende til roller, da det er rolleindehaveren på afsendelsesdagen, som modtager beskeden.
-
-Hvis du sender til en konkret person, risikerer du, at den person ikke længere er relevant på afsendelsesdagen. Dette gælder især, hvis du vil sende advis’en med gentagelse.
-
-Det kan også lade sig gøre både at sende til en rolle og til en person via e-mail adresse, hvis du har brug for det. Så skal du bruge begge muligheder skitseret herunder.
-
-### Hvis du ønsker at sende en advis til en eller flere roller
-
-- Klik i feltet **"Til modtager via rolle"**
-- Vælg den eller de rolle(r) som advisen skal sendes til (fx DPO)
-
-### Hvis du ønsker at sende en advis til en eller flere e-mail adresser
-
-- Klik på **"Til modtager via email"**
-- Indsæt den eller de e-mails, du ønsker at sende advisen til
-
-Indsætter du flere e-mail adresser, skal de adskilles af et komma:
-
-```text
-email1@mail.dk, email2@mail.dk
-```
-
 ## Valg af cc modtager - roller eller personer?
 
 Der skelnes mellem at sende en advis cc til roller og til personer via e-mail. Den sikreste måde er som nævnt ovenfor at sende til roller, da det er rolleindehaveren på afsendelsesdagen, som modtager beskeden.
