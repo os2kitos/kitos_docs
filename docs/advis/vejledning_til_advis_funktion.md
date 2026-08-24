@@ -181,6 +181,8 @@ Man vil fortsat kunne se tidligere afsendte adviser i boksen **Afsendt** til hø
 
 Du trykker på blyantikonet på oversigten.
 
+<img width="1583" height="462" alt="image" src="https://github.com/user-attachments/assets/a6587c74-e580-4ab1-b467-377b6ca2fefa" />
+
 For at deaktivere den aktive advis med gentagelse, skal du trykke på **Deaktivér** (og vælge OK i advarslen), så vil der ikke blive afsendt flere adviseringer og den pågældende advis vil ikke længere kunne redigeres, da den er inaktiv.
 
 Efter du har deaktiveret en advis, kan du se, at hakket ud for advisen er fjernet og du kan i **Afsendt**-boksen til højre se, hvornår advisen er blevet afsendt.
@@ -209,8 +211,7 @@ Der kan være flere årsager til, at en advis ikke kommer frem:
 - Mailserveren er nede og derfor ikke kan sende den
 - Du har valgt at sende din advis til en rolle, men der ikke er koblet en bruger på den rolle
 
-
-Derfra kan du trykke på linket i feltet **Navn** og komme ind på den konkrete advis, hvor du kan undersøge, hvem du skal kontakte for at give den besked, som advis’en skulle have givet.
+I den advis lokal admin modtager, kan du trykke på linket i feltet **Navn** og komme ind på den konkrete advis, hvor du kan undersøge, hvem du skal kontakte for at give den besked, som advis’en skulle have givet.
 
 Når du har gjort det, kan du fjerne notifikationen ved at trykke på knappen **"Ok og slet"** på oversigten.
 
@@ -218,8 +219,7 @@ Når du har gjort det, kan du fjerne notifikationen ved at trykke på knappen **
 
 På overblikssiden over advis for det enkelte objekt (system, kontrakt, databehandling, projekt) kan du se de adviser, der er oprettet for det givne objekt og om en advis er aktiv eller ej (hak i feltet Aktiv).
 
-
-<img width="1652" height="531" alt="image" src="https://github.com/user-attachments/assets/20a323f4-d67c-460d-808d-8d421cafcc23" />
+<img width="1707" height="617" alt="image" src="https://github.com/user-attachments/assets/016f7642-c142-4dad-97c3-9e7e3f7378a9" />
 
 Her kan du i højre side redigere eller slette ikke afsendte eller gentagende adviser, samt se om advis er sendt.
 
@@ -228,17 +228,16 @@ Du har også mulighed for at få et overordnet overblik over adviser for et give
 ### Oversigt via klokke-ikonet
 
 På oversigten ved klokke-ikonet øverst til højre i hvert modul vises advis’er med gentagelse, der er aktive.
+Efter tryk på klokkeikonet ser du denne oversigt.
+
 <img width="1568" height="414" alt="image" src="https://github.com/user-attachments/assets/d40db8b9-215a-42ab-b501-6700769d7bd2" />
 
 Herfra får du en oversigt over de adviser, der er aktive (kommende) og dem som ikke er blevet fremsendt som planlagt (Ikke sendte advis).
 
-Det vil sige advis’er:
+Det vil sige kommende advis’er:
 
 - Hvor Til-dato ikke er nået
 - Som ikke er blevet deaktiveret af brugeren
-
-Efter tryk på klokkeikonet ser du denne oversigt.
-
 
 <img width="2528" height="529" alt="image" src="https://github.com/user-attachments/assets/ce681a5b-11a7-4688-9ae8-4e7782bc7a57" />
 
