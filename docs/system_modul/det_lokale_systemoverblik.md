@@ -1,9 +1,8 @@
-
-
-
-
-
-
+---
+title: Det lokale systemoverblik
+layout: default
+nav_order: 3
+parent: System modulet
 ---
 
 # Detaljer om systemanvendelsen
