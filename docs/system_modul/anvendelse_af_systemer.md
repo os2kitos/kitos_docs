@@ -15,6 +15,34 @@ Her kan du se en vejledende til hvordan man tager systemer i anvendelse fra OS2K
 
 IT-systemkataloget er det samlede katalog over alle registrerede IT-systemer i Kitos. Det er således i IT-systemkataloget, kommunerne kan plukke de systemer ud, som anvendes i den pågældende kommune.
 
+
+# At tage et system i anvendelse
+
+For at tage et IT-System i anvendelse i kommunen skal man finde det frem i IT-systemkataloget.
+
+I oversigten IT-Systemkatalog kan du søge, filtrere og sortere på forskellige kolonner for at finde frem til det relevante system.
+
+Det er en god idé at søge efter systemet ved at søge på systemnavn eller dele af systemnavnet, og også at søge på rettighedshaver. På den måde er du mere sikker på at finde systemet.
+
+Er systemet ikke i Kitos, kan du bede Sekretariatet om at oprette det ved at udfylde skabelonen til oprettelse af systemer og sende den til info@kitos.dk.
+
+
+For at tage systemet i anvendelse, trykker du på knappen **Anvendes** længst til venstre ud for det pågældende IT-System.
+
+<img width="2551" height="787" alt="image" src="https://github.com/user-attachments/assets/842221f9-d29e-4b7a-8ead-ea087985a3ea" />
+
+
+Hermed er systemet taget i anvendelse og vil fremgå af oversigten **IT-Systemer i <kommunenavn>**.
+
+
+<img width="1197" height="406" alt="image" src="https://github.com/user-attachments/assets/a58beed5-e5a2-49eb-b78f-8d82933aa2db" />
+
+
+Fra samme oversigt kan du nu åbne objektet og påføre yderligere detaljer - se mere i vejledningen **Det lokale systemoverblik**
+
+
+
+
 ## Tilgængelige/Ikke tilgængelige systemer
 
 I oversigten i IT-systemkataloget er der en kolonne, der gør det muligt at få vist henholdsvis de tilgængelige og de ikke tilgængelige systemer.
@@ -123,3 +151,5 @@ Hvis du ikke ønsker at benytte de 4 statusfelter i oversigten, har du mulighed 
 Her kan du se, hvordan du fravælger et eller flere af de felter, der ligger til grund for statusfelterne i oversigten.
 
 Vær dog ekstra opmærksom på, at såfremt du fravælger et felt, der ligger til grund for statusfelterne i oversigten, og der er udfyldt data i feltet, vil dette stadig have betydning for systemets status.
+
+--
