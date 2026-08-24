@@ -8,6 +8,10 @@ parent: System modulet
 # Det lokale systemoverblik
 
 Når et system er taget i anvendelse fra systemkataloget, tilføjes det automatisk til den lokale liste over dine IT-systemer - Det lokale systemoverblik.
+
+<img width="2558" height="567" alt="image" src="https://github.com/user-attachments/assets/edd405fe-eccd-4b13-bbec-30b3ae824436" />
+
+
 Der nedarves stamdata fra systemkataloget og der åbnes op for lokale registreringer på systemet.
 Der kan skiftes imellem lokal data og data fra systemkataloget, ved at benytte de øverste faner på siden:
 
@@ -30,31 +34,10 @@ I venstremenuen kan du navigere mellem de forskellige faner hvor der kan tilføj
 - Advis
 - Lokale referencer
 
-**[Indsæt billede her]**
+<img width="376" height="955" alt="image" src="https://github.com/user-attachments/assets/ca76d0f5-d0f8-4f39-ad79-006d23da2975" />
+
 
 Bemærk her, at det er muligt for kommunens lokaladministrator at skjule felter og faner, hvis man ikke har behov for alle indtastningsfelter i Kitos.
-
-Der er mulighed for at skjule alle faner undtagen de såkaldte navigationsfaner:
-
-- Systemforside
-- Kontrakter
-- Databehandling
-
-Derudover er det muligt for lokal admin at skjule felterne:
-
-- Ibrugtagningsdato
-- Slutdato for anvendelse
-- Livscyklus
-
-på systemforsiden, samt feltet:
-
-**"Hvilken kontrakt skal afgøre om IT-systemet er aktivt"**
-
-på Kontraktfanen.
-
-Se mere i vejledningen:
-
-**Administrer moduler og til- og fravælge faner og felter**
 
 ---
 
