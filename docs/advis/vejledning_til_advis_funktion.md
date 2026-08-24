@@ -9,8 +9,6 @@ Her kan du se en vejledning til advis funktionen i OS2Kitos.
 
 # Vejledning i advis-funktionen
 
-*08.01.24*
-
 ## Baggrund
 
 I Kitos kan du sende en advis (påmindelse) til udvalgte personer i organisationen eller udvalgte brugergrupper som fx Systemejere, Superbrugere m.fl.
