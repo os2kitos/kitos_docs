@@ -5,9 +5,16 @@ nav_order: 3
 parent: System modulet
 ---
 
-# Detaljer om systemanvendelsen
+# Det lokale systemoverblik
 
-I venstremenuen kan du navigere mellem de forskellige faner:
+Når et system er taget i anvendelse fra systemkataloget, tilføjes det automatisk til den lokale liste over dine IT-systemer - Det lokale systemoverblik.
+Der nedarves stamdata fra systemkataloget og der åbnes op for lokale registreringer på systemet.
+Der kan skiftes imellem lokal data og data fra systemkataloget, ved at benytte de øverste faner på siden:
+
+<img width="2011" height="1181" alt="image" src="https://github.com/user-attachments/assets/dd0b94c8-236b-4e0b-98fa-a5aa3a9f9ccd" />
+
+
+I venstremenuen kan du navigere mellem de forskellige faner hvor der kan tilføjes lokal data:
 
 - Systemforside
 - Kontrakter
