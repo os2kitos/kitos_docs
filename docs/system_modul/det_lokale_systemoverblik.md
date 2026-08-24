@@ -12,7 +12,7 @@ Når et system er taget i anvendelse fra systemkataloget, tilføjes det automati
 <img width="2558" height="567" alt="image" src="https://github.com/user-attachments/assets/edd405fe-eccd-4b13-bbec-30b3ae824436" />
 
 
-Der nedarves stamdata fra systemkataloget og der åbnes op for lokale registreringer på systemet.
+Der nedarves fællesoffentligt stamdata fra systemkataloget og der åbnes op for lokale registreringer på systemet.
 Der kan skiftes imellem lokal data og data fra systemkataloget, ved at benytte de øverste faner på siden:
 
 <img width="2011" height="1181" alt="image" src="https://github.com/user-attachments/assets/dd0b94c8-236b-4e0b-98fa-a5aa3a9f9ccd" />
@@ -43,11 +43,8 @@ Bemærk her, at det er muligt for kommunens lokaladministrator at skjule felter 
 
 # Systemforside
 
-**[Indsæt billede her]**
+<img width="1310" height="1211" alt="image" src="https://github.com/user-attachments/assets/c572e5bf-6e52-4bb1-b00c-577d5080d394" />
 
-Felterne under overskriften **Data fra IT-Systemkataloget** er deaktiverede og kun en visning, da det er stamdata fra IT-Systemkataloget.
-
-Data i de felter er ens for alle kommuner.
 
 Felterne øverst med overskriften:
 
