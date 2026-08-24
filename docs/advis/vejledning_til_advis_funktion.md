@@ -100,14 +100,14 @@ Den dato som du vil have at advis’en skal sendes, skal angives som både fra- 
 
 ## Send advis, der gentages
 
-
-<img width="605" height="674" alt="image" src="https://github.com/user-attachments/assets/53264b1e-bb4f-46ee-aa11-3640f70a5f89" />
-
 Hvis du i stedet vil sende advisen med et givent interval, skal du udfylde modtagere og emne samt evt. skrive en besked i tekstfeltet.
 
 Dernæst skal du:
-
 - Vælg afsendelsestype **"Gentagelse"**, hvorefter der åbner nye felter op
+
+<img width="605" height="674" alt="image" src="https://github.com/user-attachments/assets/53264b1e-bb4f-46ee-aa11-3640f70a5f89" />
+
+
 - I feltet **Navn** kan du angivet et navn på advis’en (det vises i oversigten) – det kan fx være navnet på det objekt (kontrakt, system, projekt, databehandling), advisen knytter sig til
 - I feltet **Gentagelse** vælger du det interval, du ønsker advisen skal sendes i
 - I feltet **Fra-dato** vælger du den dato, der angiver hvornår advisen skal sendes første gang – bemærk Fra-dato kan ikke være før d.d.
