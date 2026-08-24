@@ -41,12 +41,12 @@ På det lokale IT-systemoverblik i kommunen er du mulighed for at vælge, om du 
 <img width="2559" height="380" alt="image" src="https://github.com/user-attachments/assets/b81a632e-1b6d-4089-8ec7-d28937ec671f" />
 
 
-Et system har status **aktivt** i oversigten, såfremt alle statusfelter viser aktiv:
+Et system har status **aktivt** i oversigten, såfremt alle statusfelter viser aktiv. Summen af nedenstående felter vises i masterfeltet - Status.
 
-- Status - Overordnet status på baggrund nedenstående felter
 - Datofelter – vist i feltet **Status (Datofelter)**
 - Livscyklus – vist i feltet **Status (Livscyklus)**
 - Markeret kontrakt – vist i feltet **Status (Markeret kontrakt)**
+
 
 Der er således flere statusfelter, der afgør om et system betragtes som aktivt eller ej.
 
@@ -55,16 +55,8 @@ Der er således flere statusfelter, der afgør om et system betragtes som aktivt
 
 På systemforsiden kan man se, om et system er aktivt eller ej samt hvorfor.
 
-I feltet det lille label ved siden af systemnavnet, bliver man præsenteret for en status på systemet. Er systemet ikke-aktivt, kan man får oplysninger om, hvorfor et system ikke er aktivt ved at holde musemarkøren henover.
+I  det lille label ved siden af systemnavnet, bliver man præsenteret for en status på systemet. Er systemet ikke-aktivt, kan man får oplysninger om, hvorfor et system ikke er aktivt ved at holde musemarkøren henover.
 <img width="1501" height="557" alt="image" src="https://github.com/user-attachments/assets/befbd95b-ab9e-42bc-807d-2d9a48b5faaa" />
-
-Hvis du ikke ønsker at benytte de 4 statusfelter i oversigten, har du mulighed for at fravælge brug af disse. Se mere i vejledningen:
-
-**"Lokale opsætninger og Lokal admin settings"**
-
-Her kan du se, hvordan du fravælger et eller flere af de felter, der ligger til grund for statusfelterne i oversigten.
-
-Vær dog ekstra opmærksom på, at såfremt du fravælger et felt, der ligger til grund for statusfelterne i oversigten, og der er udfyldt data i feltet, vil dette stadig have betydning for systemets status.
 
 
 ### status (markeret kontrakt)
@@ -122,3 +114,12 @@ Der er således 3 parametre, der er afgørende for om et system er aktivt eller 
 - Aktivt ifølge markeret kontrakt (hvis der ingen kontrakt er markeret eller den markerede kontrakt er gyldig)
 
 Hvis bare én af de 3 parametre angiver, at systemet ikke er aktivt, vil systemet have status af at være ikke aktivt.
+
+--
+Hvis du ikke ønsker at benytte de 4 statusfelter i oversigten, har du mulighed for at fravælge brug af disse. Se mere i vejledningen:
+
+**"Lokale opsætninger og Lokal admin settings"**
+
+Her kan du se, hvordan du fravælger et eller flere af de felter, der ligger til grund for statusfelterne i oversigten.
+
+Vær dog ekstra opmærksom på, at såfremt du fravælger et felt, der ligger til grund for statusfelterne i oversigten, og der er udfyldt data i feltet, vil dette stadig have betydning for systemets status.
