@@ -53,7 +53,7 @@ Ved klik på **”fjern anvendelse”** får brugeren følgende muligheder:
 
 <p>&nbsp;</p>
 
-For at bevare anvendelseshistorik på et system, trykkes **”Bevar historik”** og følgende vindue vises.
+For at tage et system ud af anvendelse og bevare anvendelseshistorik på et system, trykkes **”Bevar historik”** og følgende vindue vises.
 <p>&nbsp;</p>
 
 <img width="640" height="645" alt="image" src="https://github.com/user-attachments/assets/2db3c03e-51cc-4370-87a2-e1495da8d23d" />
