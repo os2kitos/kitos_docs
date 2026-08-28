@@ -48,7 +48,7 @@ Her vises de kontrakter, som danner grundlag for den beregnede kritikalitet. Er 
 
 ### Leverandør oplysninger
 
-Ved klik på en udslagsgivende kontrakt navigeres brugeren direkte til den pågældende kontrakt.
+Ved klik på en udslagsgivende kontrakt navigeres brugeren direkte til den pågældende kontrakt. Er der mere end 1 udslagsgivende kontrakt, kan du klikke på leverandør og se alle udslagsgivende kontrakter.
 
 Under kontraktforsidens rubrik **"Leverandør"** findes support informationer om leverandøren og muligheden for at angive om det er en intern/ekstern leverandør.
 
