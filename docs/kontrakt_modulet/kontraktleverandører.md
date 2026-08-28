@@ -31,16 +31,15 @@ Under kontraktmodulet findes fanen "Kontraktleverandører".
 Denne fane åbner et samlet overblik over de leverandører, der er registreret på en eller flere kontrakter i kontraktmodulet.
 
 <img width="2530" height="609" alt="image" src="https://github.com/user-attachments/assets/43d9f56f-232f-4d7e-a8a6-a81c4c3100fe" />
-<p>&nbsp;</p>
 
 
-- ### Beregnet kritikalitet
+### Beregnet kritikalitet
 
 Leverandørens kritikalitet listes efter "Den beregnede kritikalitet", som fastsættes på baggrund af leverandørens samlede kontrakter med kommunen, hvor den højeste kontraktkritikalitet er udslagsgivende.
 
 *Eksempel: Hvis en leverandør har tre kontrakter med henholdsvis lav, mellem og høj kritikalitet, får leverandøren den beregnede kritikalitet "Høj kritikalitet".*
 
-- ### Udslagsgivende kontrakter
+### Udslagsgivende kontrakter
 
 Her vises de kontrakter, som danner grundlag for den beregnede kritikalitet. Er der flere kontrakter med den højeste kritikalitet, vises de alle.
 
