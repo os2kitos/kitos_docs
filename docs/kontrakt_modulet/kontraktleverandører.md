@@ -6,11 +6,6 @@ parent: Kontrakt modulet
 ---
 
 
----
-title: Kontraktleverandører
-layout: default
----
-
 # Fanen Kontraktleverandører
 
 *27.08.26 - miol@balk.dk*
