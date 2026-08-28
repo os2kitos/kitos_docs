@@ -18,9 +18,11 @@ parent: Kontrakt modulet
 
 *Funktionen understøtter arbejdet med leverandørstyring og identifikation af kritiske leverandører og kan bidrage til organisationens arbejde med risiko- og tredjepartsstyring, herunder efterlevelse af krav og anbefalinger relateret til NIS2.*
 
+<p>&nbsp;</p>
+
 ## Vejledning til kontraktleverandører
 
-**Under kontraktmodulet findes fanen "Kontraktleverandører".**
+Under kontraktmodulet findes fanen "Kontraktleverandører".
 
 <img width="2501" height="514" alt="image" src="https://github.com/user-attachments/assets/13080920-21c8-4335-8f24-8cd81a9786e4" />
 
@@ -34,13 +36,13 @@ Denne fane åbner et samlet overblik over de leverandører, der er registreret p
 
 ### Beregnet kritikalitet
 
-*Den beregnede kritikalitet fastsættes på baggrund af leverandørens kontrakter med kommunen, hvor den højeste kontraktkritikalitet er udslagsgivende.*
+Leverandørens kritikalitet listes efter "Den beregnede kritikalitet", som fastsættes på baggrund af leverandørens samlede kontrakter med kommunen, hvor den højeste kontraktkritikalitet er udslagsgivende.
 
 *Eksempel: Hvis en leverandør har tre kontrakter med henholdsvis lav, mellem og høj kritikalitet, får leverandøren den beregnede kritikalitet "Høj kritikalitet".*
 
 ### Udslagsgivende kontrakter
 
-*Her vises de kontrakter, som danner grundlag for den beregnede kritikalitet. Er der flere kontrakter med den højeste kritikalitet, vises de alle.*
+Her vises de kontrakter, som danner grundlag for den beregnede kritikalitet. Er der flere kontrakter med den højeste kritikalitet, vises de alle.
 
 <img width="2540" height="578" alt="image" src="https://github.com/user-attachments/assets/78ea25cc-fe7e-48a3-88f8-957ffb3c2621" />
 <p>&nbsp;</p>
