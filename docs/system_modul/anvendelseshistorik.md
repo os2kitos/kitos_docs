@@ -14,7 +14,7 @@ I systemmodulet findes fanen **”Anvendelseshistorik”**.
 Denne rummer en oversigt over de systemer en kommune tager ud af anvendelse og vælger at gemme ”anvendelseshistorik” på.
 
 <img width="2494" height="690" alt="image" src="https://github.com/user-attachments/assets/047def23-0e2e-4102-beb4-cc5a14110040" />
-<br>
+![Beskrivelse af billede](imagesmargin-bottom: 2rem;"></div>
 
 Følgende felter gemmes der historik på:
 
@@ -30,13 +30,12 @@ Følgende felter gemmes der historik på:
 - **Referencer/link** – Der kan tilføjes flere links
 
 ## Hvordan tages funktionen i brug?
-<br>
+
 
 Du tager et system ud af anvendelse ved at trykke på **”fjern anvendelse”** i højre hjørne, når du står på en systemforside.
 
 <img width="2505" height="665" alt="image" src="https://github.com/user-attachments/assets/5fcd3130-031c-4004-bb32-6a08107e1259" />
-
-<br>
+![Beskrivelse af billede](imagesmargin-bottom: 2rem;"></div>
 
 Ved klik på **”fjern anvendelse”** får brugeren følgende muligheder:
 
@@ -44,18 +43,16 @@ Ved klik på **”fjern anvendelse”** får brugeren følgende muligheder:
 - **Bekræft** – For at tage et system ud af anvendelse og alle system-data slettes. Kommunen tælles ikke med som systemanvender i det fælles systemkatalog. *Bemærk relateret kontrakter og databehandler data i de øvrige moduler slettes ikke.*
 - **Bevar historik** – Bevar udvalgte data på systemet og tag system ud af anvendelse. Systemet fjernes fra det lokale systemoverblik og sendes til anvendelseshistorik fanen. Kommunen tælles ikke med som systemanvender i det fælles systemkatalog.
 
-<br>
-<br>
 
 <img width="933" height="778" alt="image" src="https://github.com/user-attachments/assets/898fde20-4b87-4089-a395-68034548d6e7" />
-<br>
+![Beskrivelse af billede](imagesmargin-bottom: 2rem;"></div>
+
 
 For at bevare anvendelseshistorik på et system, trykkes **”Bevar historik”** og følgende vindue vises.
 <br>
 
 <img width="940" height="945" alt="image" src="https://github.com/user-attachments/assets/2db3c03e-51cc-4370-87a2-e1495da8d23d" />
-
-<br>
+![Beskrivelse af billede](imagesmargin-bottom: 2rem;"></div>
 
 Her kan tilknyttes data til systemet – *Se side 1 i vejledningen for uddybning af felterne.*
 
