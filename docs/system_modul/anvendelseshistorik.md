@@ -58,13 +58,15 @@ Her kan tilknyttes data til systemet – *Se side 1 i vejledningen for uddybning
 
 **Tryk Bekræft** og systemet tages ud af anvendelse, og anvendelseshistorikken gemmes under den nye fane **”anvendelseshistorik”** i systemmodulet.
 
-> OBS! Alle andre systemdata end de beskrevne på side 1 slettes.
+*OBS! Alle andre systemdata end de beskrevne på side 1 slettes.*
 
 Din systemhistorik vises nu i den nye fane **Anvendelseshistorik**, som er bygget op med samme tabelvisning, udtræksmuligheder og sorterings/filtrerings funktioner som resten af dit Kitos overblik.
 
 <br>
 
 <img width="1711" height="599" alt="image" src="https://github.com/user-attachments/assets/d2ca4ea6-7dac-48a0-935d-07b8b676486a" />
+
+<br>
 
 
 Klikker man på et system, åbnes en landingsside med de udfyldte anvendelseshistorik data.
