@@ -41,16 +41,17 @@ Ved klik på **”fjern anvendelse”** får brugeren følgende muligheder:
 - **Fortryd** – Fortryd og bevar systemet i anvendelse
 - **Bekræft** – For at tage et system ud af anvendelse og alle system-data slettes. Kommunen tælles ikke med som systemanvender i det fælles systemkatalog. *Bemærk relateret kontrakter og databehandler data i de øvrige moduler slettes ikke.*
 - **Bevar historik** – Bevar udvalgte data på systemet og tag system ud af anvendelse. Systemet fjernes fra det lokale systemoverblik og sendes til anvendelseshistorik fanen. Kommunen tælles ikke med som systemanvender i det fælles systemkatalog.
-
+<br>
+<br>
 
 <img width="933" height="778" alt="image" src="https://github.com/user-attachments/assets/898fde20-4b87-4089-a395-68034548d6e7" />
-
+<br>
 
 For at bevare anvendelseshistorik på et system, trykkes **”Bevar historik”** og følgende vindue vises.
-
+<br>
 
 <img width="940" height="945" alt="image" src="https://github.com/user-attachments/assets/2db3c03e-51cc-4370-87a2-e1495da8d23d" />
-
+<br>
 
 Her kan tilknyttes data til systemet – *Se side 1 i vejledningen for uddybning af felterne.*
 
