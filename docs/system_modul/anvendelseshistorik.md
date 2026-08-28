@@ -36,6 +36,7 @@ Du tager et system ud af anvendelse ved at trykke på **”fjern anvendelse”**
 
 <img width="2505" height="665" alt="image" src="https://github.com/user-attachments/assets/5fcd3130-031c-4004-bb32-6a08107e1259" />
 
+<br>
 
 Ved klik på **”fjern anvendelse”** får brugeren følgende muligheder:
 
