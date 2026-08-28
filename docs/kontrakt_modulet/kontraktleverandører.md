@@ -34,13 +34,13 @@ Denne fane åbner et samlet overblik over de leverandører, der er registreret p
 <p>&nbsp;</p>
 
 
-### Beregnet kritikalitet
+- ### Beregnet kritikalitet
 
 Leverandørens kritikalitet listes efter "Den beregnede kritikalitet", som fastsættes på baggrund af leverandørens samlede kontrakter med kommunen, hvor den højeste kontraktkritikalitet er udslagsgivende.
 
 *Eksempel: Hvis en leverandør har tre kontrakter med henholdsvis lav, mellem og høj kritikalitet, får leverandøren den beregnede kritikalitet "Høj kritikalitet".*
 
-### Udslagsgivende kontrakter
+- ### Udslagsgivende kontrakter
 
 Her vises de kontrakter, som danner grundlag for den beregnede kritikalitet. Er der flere kontrakter med den højeste kritikalitet, vises de alle.
 
@@ -49,24 +49,24 @@ Her vises de kontrakter, som danner grundlag for den beregnede kritikalitet. Er 
 
 ### Leverandør oplysninger
 
-*Ved klik på en udslagsgivende kontrakt navigeres brugeren direkte til den pågældende kontrakt.*
+Ved klik på en udslagsgivende kontrakt navigeres brugeren direkte til den pågældende kontrakt.
 
 Under kontraktforsidens rubrik **"Leverandør"** findes support informationer om leverandøren og muligheden for at angive om det er en intern/ekstern leverandør.
 
 #### Om Intern/Ekstern leverandør
 
-**Det er muligt at angive en intern leverandør på et IT-system.**
-
-**Her benyttes "toggle" baren - Vælges intern leverandør, får brugeren muligheden for at angive en ansvarlig organisationsenhed fra din kommune.**
+Det er muligt at angive en intern leverandør på et IT-system.
+Her benyttes "toggle" baren - Vælges intern leverandør, får brugeren muligheden for at angive en ansvarlig organisationsenhed fra din kommune.
 
 <img width="2085" height="543" alt="image" src="https://github.com/user-attachments/assets/a0ed5837-d074-4493-8679-e269dc44ce25" />
 <p>&nbsp;</p>
 
-Bemærk! Hvis *checkbox "Underskriver er ikke kontaktperson"* ikke er markeret, udfyldes kontaktperson med samme data som i feltet Kontraktunderskriver.
+Bemærk! Hvis checkbox *"Underskriver er ikke kontaktperson"* ikke er markeret, udfyldes kontaktperson med samme data som i feltet Kontraktunderskriver.
+<p>&nbsp;</p>
 
 ## Kontraktens kritikalitet
 
-*Oplysningerne om kontraktens kritikalitet hentes automatisk fra den tilknyttede kontrakts forside i kontraktmodulet og kan vedligeholdes der.*
+Oplysningerne om kontraktens kritikalitet hentes automatisk fra den tilknyttede kontrakts forside i kontraktmodulet og kan vedligeholdes der.
 
 <img width="2454" height="795" alt="image" src="https://github.com/user-attachments/assets/c43dc902-bf3d-4227-8a9d-6284b2ecdf8d" />
 <p>&nbsp;</p>
