@@ -52,7 +52,7 @@ Ved klik på en udslagsgivende kontrakt navigeres brugeren direkte til den påg�
 
 Under kontraktforsidens rubrik **"Leverandør"** findes support informationer om leverandøren og muligheden for at angive om det er en intern/ekstern leverandør.
 
-#### Om Intern/Ekstern leverandør
+**Om Intern/Ekstern leverandør**
 
 Det er muligt at angive en intern leverandør på et IT-system.
 Her benyttes "toggle" baren - Vælges intern leverandør, får brugeren muligheden for at angive en ansvarlig organisationsenhed fra din kommune.
@@ -61,7 +61,8 @@ Her benyttes "toggle" baren - Vælges intern leverandør, får brugeren mulighed
 <p>&nbsp;</p>
 
 Bemærk! Hvis checkbox *"Underskriver er ikke kontaktperson"* ikke er markeret, udfyldes kontaktperson med samme data som i feltet Kontraktunderskriver.
-<p>&nbsp;</p>
+
+<br>
 
 ## Kontraktens kritikalitet
 
