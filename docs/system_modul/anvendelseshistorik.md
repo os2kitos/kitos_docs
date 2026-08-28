@@ -15,6 +15,7 @@ Denne rummer en oversigt over de systemer en kommune tager ud af anvendelse og v
 
 <img width="2494" height="690" alt="image" src="https://github.com/user-attachments/assets/047def23-0e2e-4102-beb4-cc5a14110040" />
 
+<p>&nbsp;</p>
 
 Følgende felter gemmes der historik på:
 
@@ -29,6 +30,8 @@ Følgende felter gemmes der historik på:
 - **Udfaset af:** Hvem har taget system ud af anvendelse og bevaret historikken.
 - **Referencer/link** – Der kan tilføjes flere links
 
+<p>&nbsp;</p>
+
 ## Hvordan tages funktionen i brug?
 
 
@@ -36,7 +39,7 @@ Du tager et system ud af anvendelse ved at trykke på **”fjern anvendelse”**
 
 <img width="2505" height="665" alt="image" src="https://github.com/user-attachments/assets/5fcd3130-031c-4004-bb32-6a08107e1259" />
 
-<br>
+<p>&nbsp;</p>
 
 Ved klik på **”fjern anvendelse”** får brugeren følgende muligheder:
 
@@ -44,38 +47,39 @@ Ved klik på **”fjern anvendelse”** får brugeren følgende muligheder:
 - **Bekræft** – For at tage et system ud af anvendelse og alle system-data slettes. Kommunen tælles ikke med som systemanvender i det fælles systemkatalog. *Bemærk relateret kontrakter og databehandler data i de øvrige moduler slettes ikke.*
 - **Bevar historik** – Bevar udvalgte data på systemet og tag system ud af anvendelse. Systemet fjernes fra det lokale systemoverblik og sendes til anvendelseshistorik fanen. Kommunen tælles ikke med som systemanvender i det fælles systemkatalog.
 
+<p>&nbsp;</p>
 
 <img width="633" height="478" alt="image" src="https://github.com/user-attachments/assets/898fde20-4b87-4089-a395-68034548d6e7" />
 
-
+<p>&nbsp;</p>
 
 For at bevare anvendelseshistorik på et system, trykkes **”Bevar historik”** og følgende vindue vises.
-<br>
+<p>&nbsp;</p>
 
 <img width="640" height="645" alt="image" src="https://github.com/user-attachments/assets/2db3c03e-51cc-4370-87a2-e1495da8d23d" />
 
+<p>&nbsp;</p>
+Her tilknyttes data til systemet - Se øverst i vejledningen for uddybning af felterne.
+<p>&nbsp;</p>
 
-Her kan tilknyttes data til systemet – *Se side 1 i vejledningen for uddybning af felterne.*
+- **Tryk Bekræft** og systemet tages ud af anvendelse, og anvendelseshistorikken gemmes under nedenstående fane **”anvendelseshistorik”** i systemmodulet.
 
-**Tryk Bekræft** og systemet tages ud af anvendelse, og anvendelseshistorikken gemmes under den nye fane **”anvendelseshistorik”** i systemmodulet.
-
-*OBS! Alle andre systemdata end de beskrevne på side 1 slettes.*
-
-Din systemhistorik vises nu i den nye fane **Anvendelseshistorik**, som er bygget op med samme tabelvisning, udtræksmuligheder og sorterings/filtrerings funktioner som resten af dit Kitos overblik.
-
-<br>
+<p>&nbsp;</p>
 
 <img width="1711" height="599" alt="image" src="https://github.com/user-attachments/assets/d2ca4ea6-7dac-48a0-935d-07b8b676486a" />
+<p>&nbsp;</p>
 
+Fanen **Anvendelseshistorik**, er bygget op med samme tabelvisning, udtræksmuligheder og sorterings/filtrerings funktioner som resten af dit Kitos overblik.
 <br>
 
+Klikker man på et system, åbnes nedenstående landingsside med de udfyldte anvendelseshistorik data.
 
-Klikker man på et system, åbnes en landingsside med de udfyldte anvendelseshistorik data.
-
-<br>
+<p>&nbsp;</p>
 
 <img width="2474" height="1206" alt="image" src="https://github.com/user-attachments/assets/c25b84df-6291-4ed9-8bd5-2e17b853278f" />
-
-
+<p>&nbsp;</p>
 
 Ønsker man herefter at slette disse data, kan anvendelseshistorikken slettes øverst i højre hjørne af skærmen.
+<br>
+
+*OBS! Når et system sendes til anvendelseshistorik, slettes alle andre systemdata end de beskrevne i denne vejledning*
