@@ -1,8 +1,8 @@
 title: OS2Kitos vejledninger
 description: Dette er en side til OS2Kitos vejledninger
 theme: just-the-docs
-logo: "/assets/site/OS2kitos_logo.png"
-favicon_ico: "/assets/site/favicon.ico"
+logo: "/assets/site/Logo hjemmeside 375x40px.svg"  
+favicon_ico: "/assets/site/favicon.ico"   
 
 mermaid:
   # Version of mermaid library
