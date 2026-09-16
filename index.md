@@ -3,8 +3,10 @@ title: Vejledninger - Forside
 layout: home
 nav_order: 1
 ---
+> [!NOTE]
+> **Under udarbejdelse** – Denne side opdateres løbende.
 
-**Herunder finder i vejledninger til Kitos - UNDER UDARBEJDELSE! - 16.09.26.**
+**Herunder finder i vejledninger til Kitos**
 
 Kitos URL:
 - Kitos produktionsmiljø: https://kitos.dk/ui/
