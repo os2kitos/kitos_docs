@@ -13,5 +13,6 @@ nav_order: 1
 Kitos URL:
 - Kitos produktionsmiljø: https://kitos.dk/ui/
 - Kitos Staging miljø: https://staging.kitos.dk/ui/
+- Gamle filarkiv: https://info.kitos.dk/s/kcWBD7geXicDDfc
 
 Kontakt Kitos sekreatariatet: info@kitos.dk 
