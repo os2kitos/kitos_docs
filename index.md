@@ -3,8 +3,10 @@ title: Vejledninger - Forside
 layout: home
 nav_order: 1
 ---
-> [!NOTE]
-> **Under udarbejdelse** – Denne side opdateres løbende.
+>
+>
+>  [!NOTE]
+> **Under udarbejdelse** – Denne side opdateres løbende - 16.09.26
 
 **Herunder finder i vejledninger til Kitos**
 
