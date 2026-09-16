@@ -6,7 +6,7 @@ nav_order: 1
 >
 >
 >  [!NOTE]
-> ***<mark>Under udarbejdelse<mark>*** – Denne side opdateres løbende - 16.09.26
+> ***Under udarbejdelse*** – Denne side opdateres løbende - 16.09.26
 
 **Herunder finder i vejledninger til Kitos**
 
