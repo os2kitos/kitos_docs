@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-**Herunder finder i vejledninger til Kitos - UNDER UDARBEJDELSE!.**
+**Herunder finder i vejledninger til Kitos - UNDER UDARBEJDELSE! - 16.09.26.**
 
 Kitos URL:
 - Kitos produktionsmiljø: https://kitos.dk/ui/
