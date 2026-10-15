@@ -15,7 +15,7 @@ parent: Roller og rettigheder
 
 ## Almindelig bruger (Bruger med læserettigheder)
 
-- Alle brugere oprettes som almindelige brugere.
+Alle brugere oprettes som almindelige brugere.
 - Har **læserettighed** til alt inden for den organisation, de er tilknyttet.
 - Har **ingen skriverettigheder** som udgangspunkt.
 - Kan generere og lave **Excel-udtræk**.
@@ -24,8 +24,12 @@ parent: Roller og rettigheder
   2. Brugeren tildeles en **Forretningsrolle med SKRIV funktion**.
 
 
-> Brugeren får først adgang til Kitos, når en advis sendes fra den person, der har oprettet brugeren.  
-> I kommuner med SSO, kan brugeren logge direkte ind og få kiggeadgang.
+*Manuel oprettelse af brugere*
+> Brugeren får først adgang til Kitos, når en advis sendes fra den person, der har oprettet brugeren.
+Brugere kan oprettes af administratorrollen *Lokal admin* eller  *organisations admin*.
+> 
+ *Automatisk oprettelse af brugere*
+> I kommuner med SSO, bliver brugeren oprette automatisk med kiggeadgang første gang de logger ind. Herefter kan de efterfølgende tildeles SKRIV rettigheder.
 
 ---
 
@@ -48,32 +52,36 @@ Administratorroller giver **SKRIV adgang** til overordnede moduler:
 - Databehandling
 
 
-#### Roller:
-
-- **Lokal administrator**
+****Lokal administrator****
   - Øverste rettighedsrolle for kommunen.
   - SKRIV adgang til alt i organisationen.
   - Kan oprette og slette brugere og objekter.
-  - Kan redigere rettigheder og konfigurere systemopsætning.
+  - Kan konfigurere den lokale systemopsætning af systemet.
+  - Kan redigere ALLE rettigheder på en bruger.
   - Anbefaling: 1-3 lokale administratorer pr. kommune.
 
-- **Organisationsadministrator**
+****Organisations administrator****
   - SKRIV adgang til organisationsmodulet.
   - Kan læse i andre moduler.
-  - Kan oprette brugere, redigere stamdata og kontaktinfo og tilknytte roller.
+  - Kan oprette brugere, redigere stamdata, kontaktinfo og forretningsroller
+  - Kan tilføje/fjerne Administratorrollen Organisations admin på andre brugere
   - OBS! Kun Lokal administrator kan slette brugere og organisationsenheder.
 
-- **Systemadministrator**
+****System administrator****
   - SKRIV adgang til systemmodulet.
   - Kan redigere/slette data og tilføje systemroller - I system modulet.
+  - Kan tilføje/fjerne Administratorrollen System admin på andre brugere
   - Kan læse i andre moduler
 
-- **Kontraktadministrator (inkl. databehandling)**
+****Kontrakt administrator (inkl. databehandling)****
   - SKRIV adgang til kontrakt- og databehandlingsmodulet.
   - Kan redigere/slette data og tilføje relevante roller - I kontrakt og databehandling modulerne.
+  - Kan tildele/fjerne Administratorrollen Kontrakt admin på andre brugere
   - Kan læse i andre moduler
 
-> Administratorroller tildeles via:  
+>
+> ****Administrator roller tildeles via:****
+>
 > **Organisation → Brugere → Redigér**
  
 <img width="1697" height="385" alt="Roller_rettigheder - 1" src="https://github.com/user-attachments/assets/23412b45-b373-4f8b-bd27-5fb464e99015" />
@@ -101,7 +109,7 @@ Roller med rettigheder på **specifikke objekter**:
 - **Kontraktroller** – tildeles i kontraktmodulet  
 - **Databehandlingsroller** – tildeles i databehandlingsmodulet
 
-> Roller tildeles til medarbejdere, der har ansvar for det pågældende system, kontrakt eller databehandling (objekt).  
+> Forretningsroller tildeles til medarbejdere, der har ansvar for det pågældende system, kontrakt eller databehandling (objekt).  
 > Skriveadgang gælder kun det objekt, rollen er tilknyttet.
 
 Eksempler på systemroller:
@@ -127,6 +135,7 @@ Eksempler på systemroller:
 <!-- BILLEDE HER: Global administrator funktioner -->
 
 > Kun Global administrator kan tildele rollen til andre brugere.
+> 
 > 
 ## Systemroller der bruges af et eksternt system
 
