@@ -1,6 +1,54 @@
 ---
-title:Sletning af persondata
-layout:default
-nav_order:1
-Parent:usecases
+title: Sletning af persondata
+layout: default
+nav_order: 1
+Parent: usecases
 ---
+
+
+# Sletning af persondata
+
+## Baggrund
+
+Datatilsynet stiller krav om, at organisationer kan dokumentere, hvordan personoplysninger opbevares, slettes og kontrolleres. For mange kommuner kan dette være udfordrende, da oplysninger om sletning ofte er fordelt på systemejere, leverandører og lokale procedurer.
+
+Med de nye felter i KITOS kan kommunen nu samle og vedligeholde et overblik over systemer, der indeholder personoplysninger, og dokumentere slettefrister, sletteprocedurer, ansvar og udført kontrol af sletning på tværs af kommunens systemlandskab.
+
+## Felterne i rubrikken gør det muligt at
+
+- Registrere om personoplysninger kan slettes i systemet, og om sletning kan foretages på enkeltposter eller som massesletning.
+- Dokumentere hvordan sletning foregår, herunder om den sker automatisk, manuelt i organisationen eller via leverandøren.
+- Registrere gældende slettefrister for systemet, herunder håndtering af systemer med flere forskellige slettefrister.
+- Linke direkte til sletteprocedurer, vejledninger eller databehandlerbeskrivelser.
+- Udpege en ansvarlig medarbejder for sletning og opfølgning på det enkelte system.
+- Dokumentere hvornår sletning senest er blevet kontrolleret.
+- Linke til dokumentation for den udførte kontrol.
+
+Samlet giver funktionaliteten kommunen mulighed for at skabe et centralt overblik over, hvordan personoplysninger slettes i kommunens systemer, hvem der har ansvaret for sletningen, hvilke frister der gælder, og om sletningen løbende bliver kontrolleret og dokumenteret.
+
+Dette styrker kommunens mulighed for at efterleve kravene til sletning af personoplysninger og dokumentere praksis over for ledelse, revision og tilsynsmyndigheder.
+
+---
+
+# Vejledning
+
+## Hvor findes funktionen?
+
+**Systemmodulet → fanen GDPR**
+
+
+<img width="1646" height="626" alt="image" src="https://github.com/user-attachments/assets/5b9d22b0-5344-4bf3-96eb-8da163050123" />
+
+<br>
+<br>
+Alle felter kan vises i kolonneoverblikket og eksporteres ved at tilføje felterne til det lokale systemoverblik.
+
+<br>
+
+
+<img width="2559" height="468" alt="image" src="https://github.com/user-attachments/assets/b2e91c64-a45d-42a9-b5d1-7074b449daff" />
+
+
+## Lokal admin
+
+Felterne kan slås til og fra i **Lokal Admin**-menuen og kan markeres som anbefalede felter.
