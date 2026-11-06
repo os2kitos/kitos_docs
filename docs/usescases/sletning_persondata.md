@@ -5,17 +5,6 @@ nav_order: 15
 parent: usecases
 ---
 
-
-
-
----
-title: Sletning af persondata
-layout: default
-nav_order: 1
-Parent: usecases
----
-
-
 # Sletning af persondata
 
 ## Baggrund
