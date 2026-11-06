@@ -1,5 +1,5 @@
 ---
-title: usecases
+title: Usecases
 layout: default
 nav_order: 15
 ---
